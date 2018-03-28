@@ -1,0 +1,133 @@
+"responseHeader": {
+    "status": 0,
+    "QTime": 0,
+    "params": {
+      "id": "u2152808",
+      "action": "show",
+      "format": "json",
+      "controller": "catalog",
+      "qt": "document",
+      "wt": "ruby"
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "maxScore": 16.26034,
+    "docs": [
+      {
+        "id": "u2152808",
+        "title_display": [
+          "Papers"
+        ],
+        "title_facet": [
+          "papers of the cabell family"
+        ],
+        "subtitle_display": [
+          "of the Cabell family"
+        ],
+        "author_facet": [
+          "Brooks, Edward, fl. 1808, grantee",
+          "Cabell, William H., 1772-1853 grantor"
+        ],
+        "published_date_display": [
+          "1808",
+          "1889"
+        ],
+        "published_date_facet": [
+          "More than 50 years ago"
+        ],
+        "marc_display": "01787npc a2200349ua 4500u2152808SIRSI930804i18081889vau??          ? ???eng d(Sirsi) AKL0132(OCoLC)31253971VA@VA@appmVA@@Papers :of the Cabell family,1808-1889[manuscript]3items.The grant, from Virginia Governor William H. Cabell to Edward Brooks, is for 14 acres in Essex County, Virginia.  The resolutions, 1835-1836, are of the Board of Directors of the James River and Kanawha Canal Company concerning the duties of the president of the company.  The catalog, 1875-1889, is of thelibrary of Nathaniel Francis Cabell.Cabell Family Papers, 1808-1889, Accession #9764-b, Special Collections, University of Virginia Library, Charlottesville, Va.No publication of any material without the permission of the Cabell Memorial Foundation.10Cabell, Nathaniel Francis,1807-1891.James River and Kanawha Company (Richmond, Va.)Library catalogs.Catalogs.aatLand grantsVirginiaEssex County.aatResolutions.aatBrooks, Edward,fl. 1808,grantee.Cabell, William H.,1772-1853grantor.SPECIAL COLLECTIONS: MSS stacks, boxed with #9764MSS 9764-bALPHANUM2152808-1001STACKSSPEC-COLLMANUSCRIPT",
+        "oclc_display": [
+          "31253971"
+        ],
+        "subject_facet": [
+          "Cabell, Nathaniel Francis -- 1807-1891",
+          "James River and Kanawha Company (Richmond, Va.)",
+          "Library catalogs",
+          "Catalogs",
+          "Land grants -- Virginia -- Essex County",
+          "Resolutions"
+        ],
+        "call_number_orig_display": [
+          "MSS 9764-b"
+        ],
+        "call_number_display": [
+          "MSS 9764-b"
+        ],
+        "call_number_sort_facet": "ALPHANUM:MSS 9764-b",
+        "barcode_facet": [
+          "2152808-1001"
+        ],
+        "date_indexed_facet": [
+          "201711281625"
+        ],
+        "source_facet": [
+          "Library Catalog"
+        ],
+        "topic_form_genre_facet": [
+          "Library catalogs",
+          "Catalogs",
+          "Land grants",
+          "Resolutions"
+        ],
+        "format_orig_facet": [
+          "Manuscript"
+        ],
+        "format_facet": [
+          "Manuscript/Archive"
+        ],
+        "language_facet": [
+          "English"
+        ],
+        "library_orig_facet": [
+          "Special Collections"
+        ],
+        "library_facet": [
+          "Special Collections"
+        ],
+        "location_facet": [
+          "Stacks"
+        ],
+        "location_orig_facet": [
+          "Special Collections Stacks"
+        ],
+        "location2_facet": [
+          "Special Collections Stacks"
+        ],
+        "music_catagory_facet": [
+          "Printed Music"
+        ],
+        "genre_facet": [
+          "Catalogs.",
+          "Land grants",
+          "Resolutions."
+        ],
+        "shadowed_location_facet": [
+          "VISIBLE"
+        ],
+        "medium_display": [
+          "manuscript"
+        ],
+        "date_coverage_display": [
+          "1808-1889"
+        ],
+        "title_sort_facet": "papers : of the cabell family",
+        "description_note_display": [
+          "The grant, from Virginia Governor William H. Cabell to Edward Brooks, is for 14 acres in Essex County, Virginia.  The resolutions, 1835-1836, are of the Board of Directors of the James River and Kanawha Canal Company concerning the duties of the president of the company.  The catalog, 1875-1889, is of thelibrary of Nathaniel Francis Cabell."
+        ],
+        "local_notes_display": [
+          "SPECIAL COLLECTIONS: MSS stacks, boxed with #9764"
+        ],
+        "date_first_indexed_facet": [
+          "20131118"
+        ],
+        "marc_display_facet": [
+          "true"
+        ],
+        "timestamp": "2017-11-28T21:46:32.549Z",
+        "score": 16.26034
+      }
+    ]
+  }
+}
