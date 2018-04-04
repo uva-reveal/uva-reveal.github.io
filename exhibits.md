@@ -1,0 +1,4 @@
+---
+title: Exhibits
+layout: articles
+---

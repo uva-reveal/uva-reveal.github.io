@@ -1,17 +1,18 @@
 ---
+layout: article
 title: “There is some ambuscado hereabouts.”
-layout: article  
-permalink: /french/
+date: 2018-04-04 15:22
+modified: 2018-04-04 15:22
+excerpt: Augmenting the French Department
+image:
+  feature:
+  teaser:
+  thumb:
+ads: false  
 ---
 
-<<<<<<< HEAD
-# “There is some ambuscado hereabouts.”
- 
-### Introductory note about the augmentation of the French Department at UVa
-=======
 ## Introductory note about the augmentation of the French Department at UVa
 
->>>>>>> test french page
 This project is designed for both UVa students and visitors to the French Department. The materials selected for the augmentation are in French, which allows the application to turn into a pedagogical tool in the future, accordingly. This fact, however, should not limit the experience to only those familiar with the language or interested in learning it. On the contrary, those unfamiliar with the French language and culture should not miss the opportunity to explore an unknown territory. Chances are they will equally benefit from it, if not more. The sounds, images, and narratives presented in this project are specifically curated to evade immediate interpretation, whether one speaks French or not.
 
 The goal of this project is to enable the viewer’s imagination, allowing it space to freely deploy without restrictions. The artists presented here, François Rabelais, Luc Ferrari, and Georges Perec, are in constant dialogue with the world around them, and aware of the forces shaping it. All three have taken interesting creative licenses by transgressing boundaries and inventing their own artistic processes. Through language, musical composition, or the mere act of observing and recording the quotidian, these selected works share a common thread: explore and expose reality.
@@ -31,7 +32,7 @@ By pulling three, seemingly random, French artists, spanning from Renaissance to
 
 ## List of the materials selected for the augmentation of the Department of French
 
-1. Rabelais
+### 1. Rabelais
 
 UVa’s Special Collections are the depositories of one of the most important American collections of rare French books. An earlier effort of digitization made many of the Douglas H. Gordon Collection treasures widely available. Among the Renaissance rarities in the collection there are two unique editions of François Rabelais’ Le Quart Livre.
 
@@ -50,15 +51,79 @@ Whether we agree with Charles Babbage’s claim or not, the technological milieu
 [INSERT MEDIA]
 The few pages I invite you to leaf through and to listen to, are the chapters LV and LVI, from Rabelais’s [Le Quart Livre](http://search.lib.virginia.edu/catalog/uva-lib:770691#?c=0&m=0&s=0&cv=13&xywh=75%2C572%2C1437%2C1775) (Rabelais, François and Douglas H Gordon Collection of French Books (University of Virginia). Le Quart Liure Des Faicts Et Dicts Heroiques Du Bon Pantagruel. A Paris: De l’imprimerie de Michel Fezandat, 1552.)
 
-<<<<<<< HEAD
+
 <audio controls preload="auto" src="/assets/french-media/QL_55.mp3"></audio>
-=======
-<audio controls="controls">
-  <source src="/assets/french-media/QL_55.mp3" type="audio/mp3">
-  Your browser does not support the <code>audio</code> element.
-</audio>
->>>>>>> test french page
 
 Rabelais’s original edition is read by French contemporary author [François Bon](http://www.tierslivre.net) who has lent his voice to the entirety of Rabelais’ five books.   
 
 Now, if the prospect of listening to “whole handfuls of frozen words” in a unknown language frightens you like Panurge, don’t hasten away and make all the sail you can just yet. Rather, “consider a little,” following Pantagruel’s equanimity. Words, when melted in a semantically disintegrated soup still retain their quality as sounds. Listen to “some large ones go off like drums and fifes, and others like clarions and trumpets.”
+
+### 2. Luc Ferrari  
+
+Rabelais’s comparison of words to the sounds of musical instruments challenges us to refresh our relationship with language, and it works as an appropriate segue to the next installment of the French Department augmentation project. Here, we will continue our journey through spoken words and sounds, with Luc Ferrari, a contemporary French composer, and avid Rabelais reader.
+
+Drawn to everyday sounds, Luc Ferrari found them enticing and welcomed them in his music, including words plucked from their original context and reassembled into new musical phrases. To compose, then, was less an isolated soul-searching activity than letting the world speak for itself.
+
+An ear attuned to the world, as Rabelais has shown, doesn’t always find meaning. To make meaning, one may need elements that are not immediately available, such as context or a foreign tongue. Nevertheless, the acoustic experience remains, collecting all sorts of sounds and voices in its passage, without a particular attachment to semantics. That’s Ferrari’s approach to composition. Voices for Ferrari have their own semantics, often obscured by the words they utter. The problem with words is that they beg for interpretation and that’s the condition (disease) of the Western civilization –a civilization of priests, as Roland Barthes put it.
+
+“Presque Rien” (Almost Nothing), “Promenades Musicales” (Musical Walks), and “Anecdotiques” (Anecdotals), three subdivisions of Ferrari’s ambient musical idiom, are all ripe with short linguistic spasms which encourage contemplation rather than interpretation.
+
+There are three parts in this installment.
+
+[INSERT MEDIA]
+I have intended the six excerpts from Jacqueline Caux’s & Olivier Pascal’s movie Presque Rien Avec Luc Ferrari (2005)
+to serve as an introduction to the artist in his own words.
+
+The short video entitled “Trou de Mer L’Estaque Avec Cézanne,” is used as a sample to Luc Ferrari’s work. The piece “Sea Hole - Trou de Mer, L'estaque. Juillet 2002” is taken from “Les Anecdotiques” (Luc Ferrari, Les Anecdotiques, CD (Sub Rosa, 2004), http://lucferrari.com/en/discography/les-anecdotiques/.) and as its title gives away, it was recorded in L’Estaque in July 2002. Despite its short length, the piece transmits elements of the place’s aura, creating an immersive experience for the listener.
+
+L’Estaque is a small village and a port of the greater Marseille region known for its vistas painted by Cézanne. My intention in this video was not to just flip through Cézanne’s paintings while listening to Ferrari’s music. Making visible the brush strokes more than the form, slowly zooming out of the image was a deliberate decision, questioning the idea of grasping the whole picture. Depending on what we are looking at, there is a distance within which the object of our contemplation is revealed in its entirety. A vantage point however, is just a perspective. As I mentioned in my introductory note, we should be wary of mistaking a perspective as a whole. Reality is always something in addition to something else.
+
+After the brief interlude in L’Estaque, here is the most important piece of the installment on Ferrari: “Chantal, ou le portrait d’une villageoise” (Chantal, or the portrait of a village woman), a rarity in Ferrari’s work.
+
+The piece was recorded by Luc and Brunhild Ferrari in the summer of 1976, but not released until 2009. While vacationing in the small village of Tuchan in Corbières, Luc and his wife Brunhild met and interviewed many of the village’s “libres penseurs” (free thinkers), among them Chantal, a fierce young woman with a disarming sense of honesty and charm. Probed by Luc’s and Brunhild’s questions, Chantal opened up about her hardships, views on politics, isolation in a remote village in the South of France, and her search of emancipation. Their conversation was meant to become legendary.
+
+In the context of this project, Chantal’s portrait adds to the female voices we care to amplify, and offers a different perspective to Lincoln Perry’s female character, Shannon, depicted on the mural of Campbell Hall, and also augmented here [LINK].
+
+Unlike Shannon’s fictionalized and rather muted but successful progress in life, Chantal speaks for herself, disillusioned however, on the power of words to convey a complete portrait of her. “Tu me demandes des mots, c’est tout. C’est pas tellement les mots qui comptent dans la vie. Les mots c’est facile, c’est tout.” (You ask me for words, that’s all. Words are not the only things that count in life. Words are easy, that’s all.)
+
+The following clips are taken from the original recording, and are presented with a little note in English for the non-Francophone speakers.  
+
+1. Introduction [INSERT MEDIA]  
+Chantal introduces herself. She moved to Tuchan three years ago with her husband Alain Busquet, a construction worker. Chantal is no stranger to the region, she grew up in a family of wine growers a few kilometers away from Tuchan. She is 22 years old and a mother of a young child.
+
+2. Drop out of School [INSERT MEDIA]  
+Her unexpected pregnancy threw Chantal’s plans of getting a secretarial degree off. Her decision to keep the child, get married to Alain and move in together, was made under a lot of pressure and seemed like the only possible one. The outcome, however, doesn’t make her particularly happy.  
+
+3. Love life [INSERT MEDIA]  
+She started dating boys of her age since she was 14 years old. It was just flirting. The first serious relationship was with Alain, her now husband. She regrets not having met more men before getting married, which she compensates for by meeting them while married. Alain is informed. Cheating often gets messy with lies. Is it even cheating if you are open about it?
+
+4. Political views [INSERT MEDIA]  
+Chantal’s political views are very liberal. She believes that the system is corrupt and needs to change. What’s the alternative? Collectivism. Abolition of private property. No ownership over things or people. Equality and honesty are the values society should strive for.
+
+5. Finding the words [INSERT MEDIA]  
+Chantal is frustrated having constantly to search for words to paint her portrait. She has never been interviewed before. Overwhelmed by Luc’s questions, she finds it hard to articulate all the aspects of her life, all at once.
+
+6. Life in the village makes you feel small [INSERT MEDIA]  
+Life in the village doesn’t have much to offer for Chantal. Besides watching TV at night and being ill informed about the issues, she feels small and excluded. In the city, at least one can go out and meet other people, find their peers and a sense of community.   
+
+7. Work, money, unemployment [INSERT MEDIA]  
+Chantal refuses to work on a job she doesn’t like. What are the options anyway? Working as a cleaning lady? She prefers her leisure time and a frugal life. Content with less, she has no desire to become a spoiled house owner one day.
+
+8. Painting [INSERT MEDIA]  
+Given a reproduction of Picasso’s “Guernica” in Chantal’s kitchen, Luc Ferrari asks her if she likes painting. Not particularly, she retorts. She just liked this painting, but she gets upset when she is asked to explain why.  
+
+9. Words [INSERT MEDIA]  
+This is a recurrent theme in Chantal’s interview. Words alone are not enough. Words are sporadic impressions that don’t give a whole, rounded image of a person’s ethos. “You ask me for words, she says, that’s all. Words are not the only things that count in life. Words are easy, that’s all.”
+
+10. Future [INSERT MEDIA]  
+Chantal’s vision for her near future is dim. She would like to leave Tuchan and start over elsewhere, in a bigger place ideally, but given her situation, none of this is expected to happen.
+
+11. Complex of inferiority [INSERT MEDIA]  
+Chantal is under awe in front of Luc and Brunhild. She sees them as intellectuals from Paris who master their language and twist the meanings of words to conceal things. She feels incapable of doing that and thus, a fraud.  
+
+12. “Why me?” [INSERT MEDIA]  
+In the same vein with the previous clip, Chantal here expresses her reservation about the whole project. Despite her interviewers’ good intentions to give her voice an avenue to be heard, she questions what about her voice and perspective is so microphone worthy?    
+
+By now, the interview is almost over. For the remaining ten minutes the microphone runs almost without anyone really noticing it. Brunhild and Chantal have a more relaxed in-depth conversation about love, couple life and friendship. “Do you have a friend to talk about these things?”, she says. “There are things I can’t even admit to myself,” Chantal answers.     
+
+Chantal, today in her sixties, still lives in Tuchan. She works at a local wine company and is actively involved in politics as member of the city council. She has married twice since Alain, with men she cared more about. Today, she lives with her third husband. For about fifteen years, since their sex life went from scarce to non-existent, she has been seeing another man. “J’aime ma liberté sexuelle,” said to Carole Rieussec in an interview in 2014, “you can make a note of that.”

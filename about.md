@@ -1,5 +1,5 @@
 ---
-title: About
+title:
 layout: article
 ---
 
@@ -28,17 +28,3 @@ We began with a shared interest in public-facing digital humanities.
   * They will have full documentation of what the app can do and a video walkthrough. They will also be given instructions for how to engage on location with the app.
   * This user will also gain access to the library search project, allowing them to browse through UVa library collections based on their selected search terms.
   * They will also see full documentation of the library search project so that interested parties can engage in similar work.
-
-## Who We Are
-
-### Christian Howard
-
-![Christian Howard]({{ "/images/christian.jpg" | absolute_url }})
-
-Christian Howard is a PhD Candidate in English at the University of Virginia and the Project Manager for the 2017-2018 Praxis cohort. Her research focuses upon contemporary world literature, ethics, and digital humanities. To learn more, visit her [personal website](www.christianhoward.org).
-
-### Christian Howard
-
-![Monica Blair]({{ "/images/monica.jpeg" | absolute_url }})
-
-Monica Kristin Blair is a PhD Candidate in the History Department at the University of Virginia. She is interested in public and academic histories of education, racial inequality, and US politics. Monica's dissertation, “From Segregation Academies to School Choice: The Post-Brown History of School Privatization” examines the role of race, region, and capital in the post-war movement to provide public funding for private education in America.
