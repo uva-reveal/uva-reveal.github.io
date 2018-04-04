@@ -25,14 +25,14 @@ gems:
 
 
 # Site owner
-owner: Scholars' Lab Praxis Program 17-18
-  name:
+owner:
+  name: Scholars' Lab Praxis Program 17-18
   email:
   twitter:
   google:
     ad-client:
     ad-slot:
-  about this project : "The 2017-2018 Praxis cohort has moved the material history of UVA out of Special Collections and onto Grounds. Using mobile Artifical Reality applications, Augmenting the University explores otherwise hidden stories, histories, and questions surrounding objects and spaces at UVA. In doing so, we hope to prompt users to re-examine everyday environs and critically reflect on the structure, culture, mission, and history of the university."
+  about-this-project : "The 2017-2018 Praxis cohort has moved the material history of UVA out of Special Collections and onto Grounds. Using mobile Artifical Reality applications, Augmenting the University explores otherwise hidden stories, histories, and questions surrounding objects and spaces at UVA. In doing so, we hope to prompt users to re-examine everyday environs and critically reflect on the structure, culture, mission, and history of the university."
   avatar: "logo2.png" # 160x160 px image for author byline
   disqus-shortname:
 
