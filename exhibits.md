@@ -3,4 +3,4 @@ title: Exhibits
 layout: articles
 ---
 
-Augmented Locations on Grounds 
+Augmented Locations on UVa Grounds.  
