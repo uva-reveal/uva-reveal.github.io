@@ -1,11 +1,17 @@
 ---
+title: “There is some ambuscado hereabouts.”
 layout: article  
 permalink: /french/
 ---
 
+<<<<<<< HEAD
 # “There is some ambuscado hereabouts.”
  
 ### Introductory note about the augmentation of the French Department at UVa
+=======
+## Introductory note about the augmentation of the French Department at UVa
+
+>>>>>>> test french page
 This project is designed for both UVa students and visitors to the French Department. The materials selected for the augmentation are in French, which allows the application to turn into a pedagogical tool in the future, accordingly. This fact, however, should not limit the experience to only those familiar with the language or interested in learning it. On the contrary, those unfamiliar with the French language and culture should not miss the opportunity to explore an unknown territory. Chances are they will equally benefit from it, if not more. The sounds, images, and narratives presented in this project are specifically curated to evade immediate interpretation, whether one speaks French or not.
 
 The goal of this project is to enable the viewer’s imagination, allowing it space to freely deploy without restrictions. The artists presented here, François Rabelais, Luc Ferrari, and Georges Perec, are in constant dialogue with the world around them, and aware of the forces shaping it. All three have taken interesting creative licenses by transgressing boundaries and inventing their own artistic processes. Through language, musical composition, or the mere act of observing and recording the quotidian, these selected works share a common thread: explore and expose reality.
@@ -14,7 +20,8 @@ Rabelais, a sixteenth century physician, monk, and fiction writer,  allows us to
 
 As we will see, when recorded and played back, reality reveals itself piecemeal. Fragment upon fragment, there is always something more to add, but we should be wary of not expecting a total sum.
 
-### Augmenting the Fragmented Reality   
+## Augmenting the Fragmented Reality   
+
 A fragmented world, early 20th century philosopher Walter Benjamin argued, can be seen as both a dangerous place, leading to barbarism, and as an opportunity to collect and re-assemble it in an endless creative intervention. Benjamin discovered there is often something missing when we experience the world around us, whether due to displacement or the passage of time. He called this contextual dimension "aura." If things seem out of time and place, how can we salvage their historical context, recover their aura?
 
 Augmented Reality offers new ways of connecting a fragmented world. My vision for this project is to thicken the colloquial thin air by superimposing layers of content (excerpts of books, sound, and video clips) between the viewers’ perceptive organs and the physical space. This in-between space should not be mistaken as empty, though. It is the space where mental faculties and affects operate, enabling the viewer to connect with the world. How then, not interfere too much with this vital, internal, as much as external space? How to make sure of not blocking but inciting imagination, of making available a variety of possibilities instead of projecting one’s own ideas and views? An answer to these questions may be found in the technology itself, since it is a technique of a palimpsestic rendering of reality.
@@ -22,7 +29,8 @@ Augmented Reality offers new ways of connecting a fragmented world. My vision fo
 By pulling three, seemingly random, French artists, spanning from Renaissance to post-modernity, and blending their work with the physical space of the French Department at UVa, I hope to offer a glimpse of France’s rich cultural background, albeit presented through my personal lens and research interests. The project, however, should not end with my own limited contribution. I extend the invitation to my colleagues at the French Department to collaborate and keep adding materials, igniting each time the curiosity and desire of their students for further exploration in the stacks, in a course offering, or directly in France and the Francophone world.  
 
 
-### List of the materials selected for the augmentation of the Department of French
+## List of the materials selected for the augmentation of the Department of French
+
 1. Rabelais
 
 UVa’s Special Collections are the depositories of one of the most important American collections of rare French books. An earlier effort of digitization made many of the Douglas H. Gordon Collection treasures widely available. Among the Renaissance rarities in the collection there are two unique editions of François Rabelais’ Le Quart Livre.
@@ -37,12 +45,19 @@ Strangely enough, Rabelais’ episode of Frozen Words resonates with Charles Bab
 
 Whether we agree with Charles Babbage’s claim or not, the technological milieu we are living in is saturated with recording devices, sensors and smart objects, constantly storing information in the cloud. Babbage’s intuition then strikes home.    
 
-> “[W]hat a strange chaos is this wide atmosphere we breathe! Every atom, impressed with good and with ill, retains at once the motions which philosophers and sages have imparted to it, mixed and combined in ten thousand ways with all that is worthless and base. The air itself is one vast library, on whose pages are for ever written all that man has ever said or woman whispered.”
+“[W]hat a strange chaos is this wide atmosphere we breathe! Every atom, impressed with good and with ill, retains at once the motions which philosophers and sages have imparted to it, mixed and combined in ten thousand ways with all that is worthless and base. The air itself is one vast library, on whose pages are for ever written all that man has ever said or woman whispered.”
 
 [INSERT MEDIA]
 The few pages I invite you to leaf through and to listen to, are the chapters LV and LVI, from Rabelais’s [Le Quart Livre](http://search.lib.virginia.edu/catalog/uva-lib:770691#?c=0&m=0&s=0&cv=13&xywh=75%2C572%2C1437%2C1775) (Rabelais, François and Douglas H Gordon Collection of French Books (University of Virginia). Le Quart Liure Des Faicts Et Dicts Heroiques Du Bon Pantagruel. A Paris: De l’imprimerie de Michel Fezandat, 1552.)
 
+<<<<<<< HEAD
 <audio controls preload="auto" src="/assets/french-media/QL_55.mp3"></audio>
+=======
+<audio controls="controls">
+  <source src="/assets/french-media/QL_55.mp3" type="audio/mp3">
+  Your browser does not support the <code>audio</code> element.
+</audio>
+>>>>>>> test french page
 
 Rabelais’s original edition is read by French contemporary author [François Bon](http://www.tierslivre.net) who has lent his voice to the entirety of Rabelais’ five books.   
 
