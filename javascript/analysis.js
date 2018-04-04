@@ -160,6 +160,8 @@ $('#results').html('');
     find_search_results(list_of_json[i]);
   }
 }
+
+// main function 2
 function find_women_search_results(json_file) {
     // JSON method of D3
     d3.json(json_file, function(data) {
@@ -181,6 +183,13 @@ function find_women_search_results(json_file) {
     let needle13 = 'feminism';
     let needle14 = 'feminist';
 
+    var needleArray = [needle1, needle2, needle3, needle4, needle5, needle6, needle7, needle8, needle9, needle10, needle11, needle12, needle13, needle14];
+
+    var anotherArray = ['cabell', 'charlottesville', 'albemarle'];
+
+    console.log(needleArray);
+
+    let search_results = 0;
     let data_parsed = data['response']['docs'][0];
     let final_list = [];
 
@@ -191,7 +200,7 @@ function find_women_search_results(json_file) {
       if (typeof(key) === "number" || typeof(items) === "number") {
       //  console.log('ignore');
       }
-      else if (key.includes(needle1) || items.includes(needle1))        {
+      else if (key.includes(needle1) || items.includes(needle1)) {
       //  console.log("Related to Cabell Hall(s)");
         search_results = search_results + 1;
       }
@@ -348,6 +357,6 @@ var list_of_json = ["https://search.lib.virginia.edu/catalog/u6731744.json",
 $('#results').html('');
 $('#results').append('Women search performed' + '<br>');
 for (var i = 0; i < list_of_json.length; i++){
-  find_search_results(list_of_json[i]);
+  find_women_search_results(list_of_json[i]);
 }
 }
