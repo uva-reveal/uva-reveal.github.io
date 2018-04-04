@@ -46,17 +46,19 @@ function find_search_results(json_file){
            search_results = search_results + 1;
   }
        });
+       $('#results').append(data['response']['docs'][0]['title_display'] + '<br>');
+       $('#results').append(json_file);
   console.log("number of search hits: " + search_results);
   });
-  console.log('successfully in the function')
 }
 
 // Get zoe to look at how to get the longer list of Json files from the file.
+function search(){
+  var list_of_json = ["https://search.lib.virginia.edu/catalog/u5390684.json", "https://search.lib.virginia.edu/catalog/u1750128.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161173.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161172.json", "https://search.lib.virginia.edu/catalog/uva-lib:2160729.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161270.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161038.json", "https://search.lib.virginia.edu/catalog/uva-lib:2160562.json", "https://search.lib.virginia.edu/catalog/uva-lib:2160622.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161447.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161221.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161218.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161217.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161215.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161216.json"];
 
-var list_of_json = ["https://search.lib.virginia.edu/catalog/u5390684.json", "https://search.lib.virginia.edu/catalog/u1750128.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161173.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161172.json", "https://search.lib.virginia.edu/catalog/uva-lib:2160729.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161270.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161038.json", "https://search.lib.virginia.edu/catalog/uva-lib:2160562.json", "https://search.lib.virginia.edu/catalog/uva-lib:2160622.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161447.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161221.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161218.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161217.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161215.json", "https://search.lib.virginia.edu/catalog/uva-lib:2161216.json", 'https://search.lib.virginia.edu/catalog/uva-lib:2154054.json'];
-
-for (var i = 0; i < list_of_json.length; i++){
-  find_search_results(list_of_json[i]);
+  for (var i = 0; i < list_of_json.length; i++){
+    find_search_results(list_of_json[i]);
+  }
+  var our_json = "http://search.lib.virginia.edu/catalog/u3703560.json"
+  find_search_results(our_json);
 }
-var our_json = "http://search.lib.virginia.edu/catalog/u3703560.json"
-find_search_results(our_json);
