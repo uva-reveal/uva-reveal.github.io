@@ -3,7 +3,8 @@ layout: article
 permalink: /french/
 ---
 
-# “There is some ambuscado hereabouts.”  
+# “There is some ambuscado hereabouts.”
+ 
 ### Introductory note about the augmentation of the French Department at UVa
 This project is designed for both UVa students and visitors to the French Department. The materials selected for the augmentation are in French, which allows the application to turn into a pedagogical tool in the future, accordingly. This fact, however, should not limit the experience to only those familiar with the language or interested in learning it. On the contrary, those unfamiliar with the French language and culture should not miss the opportunity to explore an unknown territory. Chances are they will equally benefit from it, if not more. The sounds, images, and narratives presented in this project are specifically curated to evade immediate interpretation, whether one speaks French or not.
 
@@ -41,10 +42,7 @@ Whether we agree with Charles Babbage’s claim or not, the technological milieu
 [INSERT MEDIA]
 The few pages I invite you to leaf through and to listen to, are the chapters LV and LVI, from Rabelais’s [Le Quart Livre](http://search.lib.virginia.edu/catalog/uva-lib:770691#?c=0&m=0&s=0&cv=13&xywh=75%2C572%2C1437%2C1775) (Rabelais, François and Douglas H Gordon Collection of French Books (University of Virginia). Le Quart Liure Des Faicts Et Dicts Heroiques Du Bon Pantagruel. A Paris: De l’imprimerie de Michel Fezandat, 1552.)
 
-<audio controls="controls">
-  <source src="assets/french-media/QL_55.mp3" type="audio/mp3">
-  Your browser does not support the <code>audio</code> element.
-</audio>
+<audio controls preload="auto" src="/assets/french-media/QL_55.mp3"></audio>
 
 Rabelais’s original edition is read by French contemporary author [François Bon](http://www.tierslivre.net) who has lent his voice to the entirety of Rabelais’ five books.   
 
