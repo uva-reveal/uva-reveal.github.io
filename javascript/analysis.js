@@ -1,7 +1,9 @@
+// main function: find search results
 function find_search_results(json_file){
-  d3.json(json_file, function(data)
-  {
+  d3.json(json_file, function(data) {
     console.log(data['response']['docs'][0]['title_display']);
+
+    // define search terms
     let needle1 = 'Cabell';
     let needle2 = 'Charlottesville';
     let needle3 = 'Albemarle';
@@ -9,49 +11,60 @@ function find_search_results(json_file){
     let needle5 = 'Va.';
     let needle6 = 'Va';
     let needle7 = 'music';
+
+    // define parsed data
     let data_parsed = data['response']['docs'][0];
+
+    console.log(data_parsed);
     let final_list = [];
     let search_results = 0;
+
+    // start map
     Object.entries(data_parsed).map( (b) => {
+      // using the [key, value] pairs from the parsed entries
       let key = b[0];
       let items = b[1];
-      if (typeof(key) === "number" || typeof(items) === "number"){
-        console.log('ignore');      }
-       else if (key.includes(needle1) || items.includes(needle1))        {
+
+      if (typeof(key) === "number" || typeof(items) === "number") {
+        console.log('ignore');      
+      }
+      else if (key.includes(needle1) || items.includes(needle1))        {
          console.log("Related to Cabell Hall(s)");
          search_results = search_results + 1;
       }
       else if (key.includes(needle2) || items.includes(needle2)) {
                 console.log("Related to Charlottesville");
                    search_results = search_results + 1;
+      }
+      else if (key.includes(needle3) || items.includes(needle3)) {
+          console.log("Related to Charlottesville");
+             search_results = search_results + 1;
+      }
+      else if (key.includes(needle4) || items.includes(needle4)) {
+          console.log("Related to Charlottesville");
+             search_results = search_results + 1;
+      }
+      else if (key.includes(needle5) || items.includes(needle5)) {
+          console.log("Related to Charlottesville");
+             search_results = search_results + 1;
+      }
+      else if (key.includes(needle6) || items.includes(needle6)) {
+          console.log("Related to Charlottesville");
+             search_results = search_results + 1;
+      }
+      else if (key.includes(needle7) || items.includes(needle7)) {
+          console.log("Related to music at UVa");
+             search_results = search_results + 1;
+      }
+    }); // end map
+    
+    // if results from mapping > 0    
+    if (search_results > 0) {
+      $('#results').append(data['response']['docs'][0]['title_display'] + '<br>');
     }
-    else if (key.includes(needle3) || items.includes(needle3)) {
-        console.log("Related to Charlottesville");
-           search_results = search_results + 1;
-    }
-    else if (key.includes(needle4) || items.includes(needle4)) {
-        console.log("Related to Charlottesville");
-           search_results = search_results + 1;
-    }
-    else if (key.includes(needle5) || items.includes(needle5)) {
-        console.log("Related to Charlottesville");
-           search_results = search_results + 1;
-    }
-    else if (key.includes(needle6) || items.includes(needle6)) {
-        console.log("Related to Charlottesville");
-           search_results = search_results + 1;
-    }
-    else if (key.includes(needle7) || items.includes(needle7)) {
-        console.log("Related to music at UVa");
-           search_results = search_results + 1;
-  }
-       });
-       if (search_results > 0) {
-       $('#results').append(data['response']['docs'][0]['title_display'] + '<br>');
-}
-       //this will be a link
-        // $('#results').append(json_file);
-  console.log("number of search hits: " + search_results);
+    //this will be a link
+    // $('#results').append(json_file);
+    console.log("number of search hits: " + search_results);
   });
 }
 
@@ -147,95 +160,102 @@ $('#results').html('');
     find_search_results(list_of_json[i]);
   }
 }
-function find_women_search_results(json_file){
-  d3.json(json_file, function(data)
-  {
-console.log(data['response']['docs'][0]['title_display']);
-  let needle1 = 'Cabell';
-  let needle2 = 'Charlottesville';
-  let needle3 = 'Albemarle';
-  let needle4 = 'Virginia';
-  let needle5 = 'Va.';
-  let needle6 = 'Va';
-  let needle7 = 'Women'
-  let needle8 = 'women';
-  let needle9 = 'suffrage';
-  let needle10 = 'female';
-  let needle11 = 'feminine';
-  let needle12 = 'co-ed';
-  let needle13 = 'feminism';
-  let needle14 = 'feminist';
-  let data_parsed = data['response']['docs'][0];
-  let final_list = [];
-  Object.entries(data_parsed).map( (b) => {
-    let key = b[0];
-    let items = b[1];
-    if (typeof(key) === "number" || typeof(items) === "number"){
-      console.log('ignore');      }
-     else if (key.includes(needle1) || items.includes(needle1))        {
-       console.log("Related to Cabell Hall(s)");
-            search_results = search_results + 1;
+function find_women_search_results(json_file) {
+    // JSON method of D3
+    d3.json(json_file, function(data) {
+    console.log(data['response']['docs'][0]['title_display']);
+
+    // search definitions
+    let needle1 = 'Cabell';
+    let needle2 = 'Charlottesville';
+    let needle3 = 'Albemarle';
+    let needle4 = 'Virginia';
+    let needle5 = 'Va.';
+    let needle6 = 'Va';
+    let needle7 = 'Women'
+    let needle8 = 'women';
+    let needle9 = 'suffrage';
+    let needle10 = 'female';
+    let needle11 = 'feminine';
+    let needle12 = 'co-ed';
+    let needle13 = 'feminism';
+    let needle14 = 'feminist';
+
+    let data_parsed = data['response']['docs'][0];
+    let final_list = [];
+
+
+    Object.entries(data_parsed).map( (b) => {
+      let key = b[0];
+      let items = b[1];
+      if (typeof(key) === "number" || typeof(items) === "number") {
+      //  console.log('ignore');
+      }
+      else if (key.includes(needle1) || items.includes(needle1))        {
+      //  console.log("Related to Cabell Hall(s)");
+        search_results = search_results + 1;
+      }
+      else if (key.includes(needle2) || items.includes(needle2)) {
+      //  console.log("Related to Charlottesville");
+        search_results = search_results + 1;
+      }
+      else if (key.includes(needle3) || items.includes(needle3)) {
+      //  console.log("Related to Charlottesville");
+        search_results = search_results + 1;
+      }
+      else if (key.includes(needle4) || items.includes(needle4)) {
+      //  console.log("Related to Charlottesville");
+        search_results = search_results + 1;
+      }
+      else if (key.includes(needle5) || items.includes(needle5)) {
+      //  console.log("Related to Charlottesville");
+        search_results = search_results + 1;
+      }
+      else if (key.includes(needle6) || items.includes(needle6)) {
+      //  console.log("Related to Charlottesville");
+        search_results = search_results + 1;
+      }
+      else if (key.includes(needle7) || items.includes(needle7)) {
+      //  console.log("Related to Women at UVa");
+        search_results = search_results + 1;
+      }
+      else if (key.includes(needle8) || items.includes(needle8)) {
+      //  console.log("Related to Women at UVa");
+        search_results = search_results + 1;
+      }
+      else if (key.includes(needle9) || items.includes(needle9)) {
+      //  console.log("Related to Women at UVa");
+        search_results = search_results + 1;
+      }
+      else if (key.includes(needle10) || items.includes(needle10)) {
+      //  console.log("Related to Women at UVa");
+        search_results = search_results + 1;
+      }
+      else if (key.includes(needle11) || items.includes(needle11)) {
+      //  console.log("Related to Women at UVa");
+        search_results = search_results + 1;
+      }
+      else if (key.includes(needle12) || items.includes(needle12)) {
+      //  console.log("Related to Women at UVa");
+        search_results = search_results + 1;
+      }
+      else if (key.includes(needle13) || items.includes(needle13)) {
+      //  console.log("Related to Women at UVa");
+        search_results = search_results + 1;
+      }
+      else if (key.includes(needle14) || items.includes(needle14)) {
+      //  console.log("Related to Women at UVa");
+        search_results = search_results + 1;
+      }
+    });
+    // if match found:
+    if (search_results > 0) {
+      $('#results').append(data['response']['docs'][0]['title_display'] + '<br>');
     }
-    else if (key.includes(needle2) || items.includes(needle2)) {
-              console.log("Related to Charlottesville");
-                   search_results = search_results + 1;
-}
-else if (key.includes(needle3) || items.includes(needle3)) {
-      console.log("Related to Charlottesville");
-           search_results = search_results + 1;
-}
-else if (key.includes(needle4) || items.includes(needle4)) {
-      console.log("Related to Charlottesville");
-           search_results = search_results + 1;
-}
-else if (key.includes(needle5) || items.includes(needle5)) {
-      console.log("Related to Charlottesville");
-           search_results = search_results + 1;
-}
-else if (key.includes(needle6) || items.includes(needle6)) {
-      console.log("Related to Charlottesville");
-           search_results = search_results + 1;
-}
-else if (key.includes(needle7) || items.includes(needle7)) {
-      console.log("Related to Women at UVa");
-           search_results = search_results + 1;
-}
-else if (key.includes(needle8) || items.includes(needle8)) {
-      console.log("Related to Women at UVa");
-           search_results = search_results + 1;
-}
-else if (key.includes(needle9) || items.includes(needle9)) {
-      console.log("Related to Women at UVa");
-           search_results = search_results + 1;
-}
-else if (key.includes(needle10) || items.includes(needle10)) {
-      console.log("Related to Women at UVa");
-           search_results = search_results + 1;
-}
-else if (key.includes(needle11) || items.includes(needle11)) {
-      console.log("Related to Women at UVa");
-           search_results = search_results + 1;
-}
-else if (key.includes(needle12) || items.includes(needle12)) {
-      console.log("Related to Women at UVa");
-           search_results = search_results + 1;
-}
-else if (key.includes(needle13) || items.includes(needle13)) {
-      console.log("Related to Women at UVa");
-           search_results = search_results + 1;
-}
-else if (key.includes(needle14) || items.includes(needle14)) {
-      console.log("Related to Women at UVa");
-           search_results = search_results + 1;
-}
-     });
-     if (search_results > 0) {
-     $('#results').append(data['response']['docs'][0]['title_display'] + '<br>');
-}
-     //this will be a link
-      // $('#results').append(json_file);
-console.log("number of search hits: " + search_results);
-});
+          //this will be a link
+            // $('#results').append(json_file);
+      console.log("number of search terms it matched: " + search_results);
+      });
 }
 
 // Get zoe to look at how to get the longer list of Json files from the file.
