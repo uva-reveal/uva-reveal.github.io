@@ -142,7 +142,7 @@ function search(){
   "https://search.lib.virginia.edu/catalog/u5231958.json",
   "https://search.lib.virginia.edu/catalog/u3929874.json",
   "https://search.lib.virginia.edu/catalog/u4043091.json",];
-
+$('#results').html('');
   for (var i = 0; i < list_of_json.length; i++){
     find_search_results(list_of_json[i]);
   }
@@ -325,7 +325,8 @@ var list_of_json = ["https://search.lib.virginia.edu/catalog/u6731744.json",
 "https://search.lib.virginia.edu/catalog/u5231958.json",
 "https://search.lib.virginia.edu/catalog/u3929874.json",
 "https://search.lib.virginia.edu/catalog/u4043091.json",];
-
+$('#results').html('');
+$('#results').append('Women search performed' + '<br>');
 for (var i = 0; i < list_of_json.length; i++){
   find_search_results(list_of_json[i]);
 }
