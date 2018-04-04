@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
-logo: # 120x120 px default image used for Twitter summary card
+title: "UVa Reveal, Augmenting the University"
+description: "ADD DESCRIPTION"
+logo: logo2.png # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
 url:
@@ -25,15 +25,15 @@ gems:
 
 
 # Site owner
-owner:
+owner: Scholars' Lab Praxis Program 17-18
   name:
   email:
   twitter:
   google:
     ad-client:
     ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  about this project : "The 2017-2018 Praxis cohort has moved the material history of UVA out of Special Collections and onto Grounds. Using mobile Artifical Reality applications, Augmenting the University explores otherwise hidden stories, histories, and questions surrounding objects and spaces at UVA. In doing so, we hope to prompt users to re-examine everyday environs and critically reflect on the structure, culture, mission, and history of the university."
+  avatar: "logo2.png" # 160x160 px image for author byline
   disqus-shortname:
 
 

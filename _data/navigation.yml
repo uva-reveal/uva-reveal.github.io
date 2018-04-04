@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Rotunda
+  url: /rotunda
+  excerpt: Augmenting the Rotunda
+  image:
+
+- title: French Department
+  url: /french
+  excerpt: Augmenting the French Department
+  image:
+
+- title: Cabell Hall Mural
+  url: /mural
+  excerpt: Augmenting the Mural at Cabell Hall
+  image:
+
+- title: Cemetery
+  url: /cemetery
+  excerpt: Augmenting the Mural at Cabell Hall
   image:
