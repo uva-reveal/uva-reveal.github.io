@@ -59,6 +59,4 @@ function search(){
   for (var i = 0; i < list_of_json.length; i++){
     find_search_results(list_of_json[i]);
   }
-  var our_json = "http://search.lib.virginia.edu/catalog/u3703560.json"
-  find_search_results(our_json);
 }
