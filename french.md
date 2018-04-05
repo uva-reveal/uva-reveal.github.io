@@ -70,9 +70,10 @@ An ear attuned to the world, as Rabelais has shown, doesn’t always find meanin
 
 There are three parts in this installment.
 
-[INSERT MEDIA]
-I have intended the six excerpts from Jacqueline Caux’s & Olivier Pascal’s movie Presque Rien Avec Luc Ferrari (2005)
-to serve as an introduction to the artist in his own words.
+
+<video controls preload="auto" src="https://virginia.box.com/shared/static/x4txtpt34426lzyr2s0sb9hc4b7453rd.mov"></video>
+
+I have intended this excerpt from Jacqueline Caux’s & Olivier Pascal’s movie Presque Rien Avec Luc Ferrari (2005) to serve as an introduction to the artist in his own words.
 
 The short video entitled “Trou de Mer L’Estaque Avec Cézanne,” is used as a sample to Luc Ferrari’s work. The piece “Sea Hole - Trou de Mer, L'estaque. Juillet 2002” is taken from “Les Anecdotiques” (Luc Ferrari, Les Anecdotiques, CD (Sub Rosa, 2004), http://lucferrari.com/en/discography/les-anecdotiques/.) and as its title gives away, it was recorded in L’Estaque in July 2002. Despite its short length, the piece transmits elements of the place’s aura, creating an immersive experience for the listener.
 
@@ -127,3 +128,18 @@ In the same vein with the previous clip, Chantal here expresses her reservation 
 By now, the interview is almost over. For the remaining ten minutes the microphone runs almost without anyone really noticing it. Brunhild and Chantal have a more relaxed in-depth conversation about love, couple life and friendship. “Do you have a friend to talk about these things?”, she says. “There are things I can’t even admit to myself,” Chantal answers.     
 
 Chantal, today in her sixties, still lives in Tuchan. She works at a local wine company and is actively involved in politics as member of the city council. She has married twice since Alain, with men she cared more about. Today, she lives with her third husband. For about fifteen years, since their sex life went from scarce to non-existent, she has been seeing another man. “J’aime ma liberté sexuelle,” said to Carole Rieussec in an interview in 2014, “you can make a note of that.”
+
+### 3. Georges Perec
+![Perec](https://virginia.box.com/s/6kekegq2mjwf6k4c917jwktuq7uli02c)
+
+To close this augmented reality experiment in the French Department, I chose another experimental work in alignment with Luc Ferrari’s approach of recording the the world as it is. “I am not always involved with narrative. [...] I am interested to see what happens when time passes,” Ferrari said in an interview with John Palmer in 1999.  [conversation with John Palmer](http://econtact.ca/10_2/FerrariLu_Palmer.html)
+
+Georges Perec’s work An Attempt At Exhausting A Place In Paris, is itself a record of “what happens when nothing happens.” It consists of an attentional exercise: observe and make a note of everything that happens within the field of vision. Georges Perec carried out the experiment during three days at the place Saint-Sulpice in Paris. The approximately 50 printed pages that resulted read like a log, or a police report, only there is no crime, other than killing time.
+
+In what seems to be the invention of a method, one that many writers after him have adopted and expanded upon, Perec’s writing is a slow, meditative practice of observation in an attempt to completely blend in with a given locale, at a given moment. In a programmatic note “Apprendre à bredouiller” (Learn to stutter), he wrote: “essayer d’être modeste, plus que modeste : nul. évident.” (sic) (Try to be modest, more than modest, null, obvious.) Lifting the weight of a poetic, heavily figurative language, –metaphor literally means transport–, dismissing the search for a thrill, whether in a different place or a different time, past or future, Perec suggests a “return” or an “awakening” to the present. Competing with an array of modern day recording apparatuses (tape recorder, camera, etc) that easily bring the banality of the present into focus, Perec’s writing had also to suppress striving for the sublime and reconnect with record keeping–writing’s archaic purpose.  
+
+Since its publication, An Attempt At Exhausting A Place In Paris has been adapted in many different formats. The following excerpts are from Jean-Christian Riff’s movie of the same title. Riff films Saint-Sulpice, thirty years after Perec with the same premise:  record “everything that happens when nothing happens”. His understated flow of images of everyday contemporary Paris are mixed with a voice-over reading of Perec’s original text. Ironically then, Saint-Sulpice square becomes a stage of tracing the micro-events the trigger Perec writing, 30 years ago.   
+
+The original movie [available at UVa](https://search.lib.virginia.edu/catalog/u6897878) doesn’t have subtitles. My intention adding them was to highlight the 30-year lag between the text and the image.  
+
+[INSERT MEDIA]

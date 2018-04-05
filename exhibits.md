@@ -1,6 +1,6 @@
 ---
 title: Exhibits
-layout: articles
+layout: archive
 ---
 
 Augmented Locations on UVa Grounds.  
