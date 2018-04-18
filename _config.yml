@@ -1,0 +1,62 @@
+# Site wide configuration
+
+title: "UVa Reveal"
+description: "Augmenting the University"
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: en
+url:
+feed:
+  path: atom.xml
+
+# Jekyll configuration
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+# Site owner
+owner:
+  name: Scholars' Lab Praxis Program 17-18
+  email:
+  twitter:
+  google:
+    ad-client:
+    ad-slot:
+  about this project : "The 2017-2018 Praxis cohort has moved the material history of UVA out of Special Collections and onto Grounds. Using mobile Artifical Reality applications, Augmenting the University explores otherwise hidden stories, histories, and questions surrounding objects and spaces at UVA. In doing so, we hope to prompt users to re-examine everyday environs and critically reflect on the structure, culture, mission, and history of the university."
+  avatar: # 160x160 px image for author byline
+  disqus-shortname:
+
+
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp

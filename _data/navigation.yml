@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: About
+  url: /about
+  excerpt:
+  image:
+
+- title: Exhibits
+  url: /exhibits
+  excerpt:
+  image:
+
+- title: Who We are
+  url: /who
+  excerpt:
+  image:
+
+- title: Documentation and Support
+  url: /support
+  excerpt:
+  image:
