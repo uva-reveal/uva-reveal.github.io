@@ -1,27 +1,29 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>UVa Reveal</title>
-<!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
-</head>
+<link rel="stylesheet" type="text/css" href="javascript/style.css">
 
 <body>
   <script src='javascript/d3.js'></script>
   <script src='javascript/lodash.js'></script>
   <script src='javascript/analysis.js'></script>
   <script src='javascript/jquery-3.3.1.min.js'></script>
+<form action=''>
+  <input type="checkbox" id="cabell" onclick="search();">Cabell Hall<br>
+  <input type="checkbox" id="women" onclick="search2();">Women<br>
+  <input type="checkbox" id="music" onclick="search3();">Music<br>
+  <input type="checkbox" id="rotunda" onclick="search4();">Rotunda<br>
+  <input type="checkbox" id="Berlin Wall" onclick="search5();">Berlin Wall<br>
+  <input type="checkbox" id="languages" onclick="search6();">Foreign Languages<br>
+  <input type="checkbox" id="cemetery" onclick="search7();">Cemetery<br>
+  <input type="checkbox" id="womenmusic" onclick="search8();">Women and Music<br>
+  <input type="checkbox" id="cabellmusic" onclick="search9();">Music and Cabell Hall<br>
+  <input type="checkbox" id="rotundawomen" onclick="search10();">Women and the Rotunda<br>
+  <input type="checkbox" id="musiclanguages" onclick="search11();">Music and Foreign Language<br>
+  <input type="checkbox" id="berlinrotunda" onclick="search12();">Berlin Wall and Rotunda<br>
 
-<button id="search_hook" onclick="search();">
-Cabell Hall and Music
-</button>
-
-<button id="search_hook" onclick="search2();">
-Women and Charlottesville
-</button>
 
 <div id="results">
-These are the results:
+Search Results:
 <br>
 </div>
 
