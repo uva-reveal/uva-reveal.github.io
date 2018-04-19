@@ -3,8 +3,6 @@ title: Who We are
 layout: article
 permalink: /who
 ---
-
-
 ### Christian Howard
 
 ![Christian Howard](http://scholarslab.org/wp-content/uploads/2017/02/20170829-_DSC0281.jpg)
@@ -21,8 +19,8 @@ Monica Kristin Blair is a PhD Candidate in the History Department at the Univers
 ![Spyridon Simotas](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0240.jpg)
 French PhD Candidate, Praxis Fellow at the Scholar's Lab (2017-2018). [More info](ss4ws.github.io).
 
-### Tanner
-![]()
+### Tanner Green
+![Tanner Green]()
 Phd Music, Praxis, etc.
 
 ### Ankita
