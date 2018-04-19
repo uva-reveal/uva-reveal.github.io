@@ -1,11 +1,12 @@
 <nav role="navigation" id="js-menu" class="sliding-menu-content">
-  <h5>{{ site.title }} <span>{{ site.data.messages.locales[site.locale].toc }}</span></h5>
+  <h5><span>{{ site.title }}</span></h5>
   <ul class="menu-item">
+    <li>
+      <a href="/index.html"><div class="title">Home</div></a>
+    </li>
     {% for link in site.data.navigation %}<li>
       <a href="{{ site.url }}{{ link.url }}">
-        {% if link.image %}<img src="{{ site.url }}/images/{{ link.image }}" alt="teaser" class="teaser">{% endif %}
         <div class="title">{{ link.title }}</div>
-        {% if link.excerpt %}<p class="excerpt">{{ link.excerpt }}</p>{% endif %}
       </a>
     </li>{% endfor %}
   </ul>
