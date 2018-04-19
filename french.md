@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive
 title: “There is some ambuscado hereabouts.”
 date: 2018-04-04 15:22
 modified: 2018-04-04 15:22
@@ -7,8 +7,7 @@ excerpt: Augmenting the French Department
 image:
   feature:
   teaser:
-  thumb:
-ads: false  
+  thumb:  
 ---
 
 ## Introductory note about the augmentation of the French Department at UVa
