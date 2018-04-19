@@ -22,9 +22,11 @@ Monica Kristin Blair is a PhD Candidate in the History Department at the Univers
 French PhD Candidate, Praxis Fellow at the Scholar's Lab (2017-2018). [More info](ss4ws.github.io).
 
 ### Tanner
-!
-
+![]()
+Phd Student, Music, Praxis
 ### Ankita
-!
+![]()
 
 ### THE storie
+![Victoria Clark](https://virginia.box.com/s/gs140o0zdrstb6te2i75ld92m6trp36o)
+Phd Student, Music Praxis
