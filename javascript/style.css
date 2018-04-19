@@ -6,3 +6,17 @@ table, th, td {
 th, td {
     padding: 15px;
 }
+
+ul#results {
+  position: relative;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.pretty-text {
+  display: inline-block;
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  background-color: lavender;
+}
