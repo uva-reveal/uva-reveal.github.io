@@ -9,3 +9,5 @@ image:
   teaser:
   thumb:  
 ---
+
+{% include toc.html %}
