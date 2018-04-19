@@ -35,9 +35,3 @@ title: ""
 						       <a href="https://mmistakes.github.io/skinny-bones-jekyll/getting-started/" class="btn-inverse">Start Using Skinny Bones</a> &nbsp; or &nbsp; <a href="https://github.com/mmistakes/skinny-bones-jekyll" class="btn-inverse">View on GitHub</a>
 						      </div><!-- /.page-lead-content -->
 						    </div><!-- /.page-lead -->
-
-<!-- <div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
