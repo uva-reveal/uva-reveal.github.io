@@ -1,9 +1,8 @@
 ---
-title: Support
+title: Documentation & Support
 layout: article
 ---
 
-## Project Workflow
 We designed Augmenting the University as a project that allows the user to reveal layers of meaning and various utilization through cross-platform engagement. Much like the design and thesis of our project, we let the development and implementation process reveal itself to us in various layers.
 
 We began with a shared interest in public-facing digital humanities.
