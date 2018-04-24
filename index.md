@@ -1,11 +1,11 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: ""
 ---
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+<div class="page-lead" style="background-image:url(/assets/stacks.jpg)">
+      <div class="wrap page-lead-content">
+        <img src="/assets/logo/logo2.png">
+      </div><!-- /.page-lead-content -->
+    </div><!-- /.page-lead -->
