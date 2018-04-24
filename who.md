@@ -19,9 +19,10 @@ Monica Kristin Blair is a PhD Candidate in the History Department at the Univers
 ![Spyridon Simotas](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0240.jpg)
 French PhD Candidate, Praxis Fellow at the Scholar's Lab (2017-2018). [More info](ss4ws.github.io).
 
-### Tanner Green
-![Tanner Green]()
-Phd Music, Praxis, etc.
+### Tanner Greene
+![Tanner Greene]()
+Tanner Greene is a PhD student in the Music Department at the University of Virginia. His research
+interests include digital music archives, genre formation, and Internet subcultures.
 
 ### Ankita
 ![Ankita](http://scholarslab.org/wp-content/uploads/2017/09/20170911-_DSC0548.jpg)
