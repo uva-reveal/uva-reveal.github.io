@@ -18,7 +18,7 @@ PhD English, Praxis, etc.
 Victoria Clark is a PhD student in Critical and Comparative Studies in Music at the University of Virginia. She studies 20th century American music and representations of American Indians. She is interested in public humanities and how musical narratives are presented in museums and institutions.
 
 ### Tanner Greene
-![Tanner Greene](https://virginia.box.com/s/g32v18ykfq0c60y9nhs771dscnchnr0a)
+  <iframe src="https://virginia.app.box.com/embed/s/g32v18ykfq0c60y9nhs771dscnchnr0a" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe> 
 Tanner Greene is a PhD student in the Music Department at the University of Virginia. His research interests include digital music archives, genre formation, and Internet subcultures.
 
 ### Christian Howard
