@@ -15,7 +15,7 @@ PhD English, Praxis, etc.
 
 ### Victoria Clark
 ![Victoria Clark](http://scholarslab.org/wp-content/uploads/2017/09/20170914-_DSC0597.jpg)
-Victoria Clark is a PhD student in Critical and Comparative Studies in Music at the University of Virginia. She studies 20th century American music and representations of American Indians. She is interested in public humanities and how musical narratives are presented in museums and institutions.
+Victoria Clark is a PhD student in Critical and Comparative Studies in Music at the University of Virginia. She studies 20th century American music and representations of American Indians. She is interested in public humanities and how music narratives are presented in museums and institutions.
 
 ### Tanner Greene
 ![Tanner Greene](/images/tannerphoto.png)
