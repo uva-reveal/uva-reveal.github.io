@@ -8,4 +8,4 @@ The 2017-2018 Praxis cohort has moved the material history of UVA out of Special
 
 ## App Description
 
-UVA Reveal: Augmenting the University is an app that employs augmented reality to display information (including text, images, and videos) about various sites around the University of Virginia grounds. In so doing, UVA Reveal helps uncover the history of and connections between spaces at the university. For more information, please visit our website: reveal.scholarslab.org.
+UVA Reveal: Augmenting the University is an app that employs augmented reality to display information (including text, images, and videos) about various sites around the University of Virginia grounds. In so doing, UVA Reveal helps uncover the history of and connections between spaces at the university. Learn more about our app here.
