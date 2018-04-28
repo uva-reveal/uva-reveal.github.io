@@ -29,4 +29,4 @@ Christian Howard is a PhD Candidate in English at the University of Virginia and
 
 ### Spyridon Simotas
 ![Spyridon Simotas](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0240.jpg)
-French PhD Candidate, Praxis Fellow at the Scholar's Lab (2017-2018). [More info](ss4ws.github.io).
+French PhD Candidate, Praxis Fellow at the Scholar's Lab (2017-2018). [More info](https://ss4ws.github.io/).
