@@ -11,12 +11,16 @@ ul#results {
   position: relative;
   padding-left: 0;
   list-style-type: none;
+  width: 500px;
 }
 
 .pretty-text {
-  display: inline-block;
+  display: inline-flex;
   height: 120px;
   width: 120px;
   border-radius: 50%;
-  background-color: lavender;
+  background-color: #FBFBA7;
+  text-align: center;
+  font-size: 15px;
+
 }
