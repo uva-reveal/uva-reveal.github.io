@@ -273,12 +273,12 @@ function find_search_results(json_file, needleArray) {
     let url = data['response']['docs'][0]['id'];
     let size = search_results + 1;
     // this part is what I'm working on
-    var myElement = document.getElementsByClassName("pretty-text");
-     myElement.style.width = `80 px + ${size}`;
     let html = `<a href="https://search.lib.virginia.edu/catalog/${url}" target="_blank"><li class="pretty-text">${titleText} <br> ${size}</li></a>`;
       console.log("number of search hits: " + search_results);
       if (search_results > 0) {
        $('#results').append(html);
+    var myElement = document.getElementsByClassName("pretty-text");
+    myElement.style.width = `80 px + ${size}`;
       }
   });
 
