@@ -256,42 +256,40 @@ function find_search_results(json_file, needleArray) {
       if (typeof b[1] === 'object'){
         console.log( search_results, data['response']['docs'][0]['title_display']);
         // using the [key, value] pairs from the parsed entries
-        // let items = Object.values(b[1]).map(w => w.toLowerCase());
         b[1].map((word) => {
             needleArray.map((key) => {
              if (word.toLowerCase().includes(key)) {
                search_results = search_results + 1;
              } else {
                console.log('no match');
-             }
+              }
             });
          });
          console.log( search_results);
        }
     });
     // if >0 results, add to html
-    // This part has a fixed link right now, just to show how it will function, but i need a way to make the links dynamic using the list of json files but getting rid of the "json" at the end.
     let titleText = data['response']['docs'][0]['title_display'];
     let url = data['response']['docs'][0]['id'];
     let size = search_results + 1;
     // this part is what I'm working on
-    // var myElement = document.getElementsByClassName("pretty-text");
-    // myElement.style.width = `80 px + ${size}`;
+      // var myElement = document.getElementsByClassName("pretty-text");
+      // myElement.style.width = `80 px + ${size}`;
     let html = `<a href="https://search.lib.virginia.edu/catalog/${url}" target="_blank"><li class="pretty-text">${titleText} <br> ${size}</li></a>`;
-    // console.log(html);
-    console.log("number of search hits: " + search_results);
-    if (search_results > 0) {
-      $('#results').append(html);
-    }
+      console.log("number of search hits: " + search_results);
+      if (search_results > 0) {
+       $('#results').append(html);
+      }
   });
 
 }
 
 function search(searchNeedle){
-
 $('#results').html('');
-  for (var i = 0; i < list_of_json.length; i++){
-    find_search_results(list_of_json[i], needle[searchNeedle]); } }
+  for (var i = 0; i < list_of_json.length; i++) {
+    find_search_results(list_of_json[i], needle[searchNeedle]); 
+  } 
+}
 
 // end of function
 
