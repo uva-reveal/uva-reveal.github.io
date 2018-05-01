@@ -22,9 +22,9 @@ permalink: /searchengine
   <input type="checkbox" id="women" onclick="search('women');">Women<br>
   <input type="checkbox" id="music" onclick="search('music');">Music<br>
   <input type="checkbox" id="rotunda" onclick="search('rotunda');">Rotunda<br>
-  <input type="checkbox" id="berlin" onclick="search('berlin');">Berlin Wall<br>
+<!--   <input type="checkbox" id="berlin" onclick="search('berlin');">Berlin Wall<br>
   <input type="checkbox" id="languages" onclick="search('languages');">Foreign Languages<br>
-  <input type="checkbox" id="cemetery" onclick="search('cemetery');">Cemetery<br>
+  <input type="checkbox" id="cemetery" onclick="search('cemetery');">Cemetery<br> -->
   <input type="checkbox" id="womenmusic" onclick="search2('women', 'music');">Women and Music<br>
   <input type="checkbox" id="clear" onclick="window.location.reload()">Clear Search
   <!--   <input type="checkbox" id="cabellmusic" onclick="search3('cabellmusic');">Music and Cabell Hall<br>
