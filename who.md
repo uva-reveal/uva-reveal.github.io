@@ -12,11 +12,13 @@ Monica Kristin Blair is a PhD Candidate in the History Department at the Univers
 ### Ankita Chakrabarti
 
 ![Ankita](http://scholarslab.org/wp-content/uploads/2017/09/20170911-_DSC0548.jpg)
+
 Ankita Chakrabarti is a PhD student in the English Department at the University of Virginia. Her research focuses on contemporary postcolonial literature, spatial studies and narrative theory.
 
 ### Victoria Clark
 
 ![Victoria Clark](http://scholarslab.org/wp-content/uploads/2017/09/20170914-_DSC0597.jpg)
+  
 Victoria Clark is a PhD student in Critical and Comparative Studies in Music at the University of Virginia. She studies 20th century American music and representations of American Indians. She is interested in public humanities and how music narratives are presented in museums and institutions.
 
 ### Tanner Greene
