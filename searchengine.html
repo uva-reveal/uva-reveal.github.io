@@ -1,8 +1,12 @@
 <!DOCTYPE html>
 <html>
+
 <link rel="stylesheet" type="text/css" href="javascript/style.css">
+<link rel="stylesheet" href="http://reveal.scholarslab.org/css/main.css">
+<link rel="stylesheet" href="http://reveal.scholarslab.org/css/styles.css">
 
 <body>
+  <div id="page-wrapper">
   <script src='javascript/d3.js'></script>
   <script src='javascript/lodash.js'></script>
   <script src='javascript/analysis.js'></script>
@@ -16,7 +20,7 @@
   <input type="checkbox" id="berlin" onclick="search('berlin');">Berlin Wall<br>
   <input type="checkbox" id="languages" onclick="search('languages');">Foreign Languages<br>
   <input type="checkbox" id="cemetery" onclick="search('cemetery');">Cemetery<br>
-  <input type="checkbox" id="womenmusic" onclick="search('womenmusic');">Women and Music<br>
+  <input type="checkbox" id="womenmusic" onclick="search2('women'); ('music');">Women and Music<br>
   <input type="checkbox" id="cabellmusic" onclick="search('cabellmusic');">Music and Cabell Hall<br>
   <input type="checkbox" id="rotundawomen" onclick="search('rotundawomen');">Women and the Rotunda<br>
 </form>
@@ -27,6 +31,8 @@
 
   </ul>
 </div>
-
+</div>
 </body>
+
+
 </html>
