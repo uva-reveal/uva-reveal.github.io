@@ -31,7 +31,7 @@ For *UVA Reveal*, we decided to explore the history and the aftermath of the fal
 https://interactive.guim.co.uk/embed/lhaddou/berlin-wall/wallworld.html
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/56V6r2dpYH8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/56V6r2dpYH8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ei1HnWwzmNk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
