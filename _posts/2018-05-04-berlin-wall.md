@@ -20,16 +20,21 @@ Virtual augmentation of the Berlin Wall installation could take us in several di
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDDxeJLos6s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+
 Another example of a project is the Tilt Brush tool developed by the *NOVALIS VR Project* in which virtual spaces of historic sites, for example the Berlin Wall, are accessible for users to draw and sculpt on. This would allow users to paint their own graffiti on the Berlin Wall and thereby virtually participate in the spirit of public solidarity and of creative defiance in the face of institutional and political divisiveness. 
 
 <iframe width="640" height="480" src="https://poly.google.com/view/boKpfklac1b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
 
 For *UVA Reveal*, we decided to explore the history and the aftermath of the fall of the Berlin Wall through virtual augmentation. The augmentations highlight the public protests that ultimately brought down the wall, the speeches by Presidents Reagan and Kennedy, and the status of the wall in the present day. The last is perhaps most striking. An interactive map published in the article “Where on Earth is the Berlin Wall?” on *The Guardian* lists almost all the locations across the world where sections of the Berlin Wall are currently installed. Brightly and gaily graffitied fragments of the Berlin Wall link disparate places on the globe in remembrance and recognition of the strength required to pull down walls that divide and fracture.
 
 https://interactive.guim.co.uk/embed/lhaddou/berlin-wall/wallworld.html
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/56V6r2dpYH8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ei1HnWwzmNk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 So,what does it mean for such an artifact to stand on the grounds of the University of Virginia today? We leave the interpretation of our augmentation of the Berlin Wall open to the viewer. We only hope that it allows the viewer to perceive and recognize the familiar and mundane space around them as vitally dynamic and continuously challenging.
