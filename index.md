@@ -1,12 +1,12 @@
 ---
-layout: media
+layout: default
 permalink: /
 title: ""
 ---
 
 
 <div class="page-lead">
-  <div class="wrap page-lead-content" style="position:fixed; width: 50%; height: auto;">
+  <div class="wrap page-lead-content" style="position:absolute; width: 50%; height: auto;">
     <img src="/assets/logo/logo2.png">
   </div>
   <img class="mySlides" src="/images/slide-1.jpg" style="width:100%">
