@@ -3,8 +3,14 @@ title: Who We Are
 layout: article
 permalink: /who
 ---
-### Monica Kristin Blair
 
+|### Monica Kristin Blair  |### Ankita Chakrabarti  |### Victoria Clark  |  
+|---|---|---|
+|![Monica Blair](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0329.jpg)|![Ankita](http://scholarslab.org/wp-content/uploads/2017/09/20170911-_DSC0548.jpg)|![Victoria Clark](http://scholarslab.org/wp-content/uploads/2017/09/20170914-_DSC0597.jpg)   |   
+|Monica Kristin Blair is a PhD Candidate in the History Department at the University of Virginia. She is interested in public and academic histories of education, racial inequality, and US politics. Monica's dissertation, “From Segregation Academies to School Choice: The Post-Brown History of School Privatization” examines the role of race, region, and capital in the post-war movement to provide public funding for private education in America.   | Ankita Chakrabarti is a PhD student in the English Department at the University of Virginia. Her research focuses on contemporary postcolonial literature, spatial studies and narrative theory.  | Victoria Clark is a PhD student in Critical and Comparative Studies in Music at the University of Virginia. She studies 20th century American music and representations of American Indians. She is interested in public humanities and how music narratives are presented in museums and institutions.  |
+
+
+### Monica Kristin Blair
 ![Monica Blair](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0329.jpg)
 
 Monica Kristin Blair is a PhD Candidate in the History Department at the University of Virginia. She is interested in public and academic histories of education, racial inequality, and US politics. Monica's dissertation, “From Segregation Academies to School Choice: The Post-Brown History of School Privatization” examines the role of race, region, and capital in the post-war movement to provide public funding for private education in America.
@@ -35,4 +41,4 @@ Christian Howard is a PhD Candidate in English at the University of Virginia and
 
 ![Spyridon Simotas](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0240.jpg)
 
-French PhD Candidate, Praxis Fellow at the Scholar's Lab (2017-2018). [More info](https://ss4ws.github.io/).
+PhD Candidate in French, Praxis Fellow at the Scholar's Lab (2017-2018). [More info](https://ss4ws.github.io/).
