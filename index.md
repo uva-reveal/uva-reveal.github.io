@@ -1,18 +1,19 @@
 ---
-layout: archive
+layout: media
 permalink: /
 title: ""
 ---
 
 
-<div class="page-lead" style="padding: 2.5% 0;">
-  <div class="wrap page-lead-content" style="position:absolute;">
+<div class="page-lead">
+  <div class="wrap page-lead-content" style="position:fixed; width: 50%; height: auto;">
     <img src="/assets/logo/logo2.png">
   </div>
   <img class="mySlides" src="/images/slide-1.jpg" style="width:100%">
   <img class="mySlides" src="/images/slide-2.jpg" style="width:100%">
   <img class="mySlides" src="/images/slide-3.jpg" style="width:100%">
   <img class="mySlides" src="/images/slide-4.jpg" style="width:100%">
+  <img class="mySlides" src="/images/slide-5.jpg" style="width:100%">
 </div>
 
 <script>
@@ -31,3 +32,5 @@ function carousel() {
     setTimeout(carousel, 2000); // Change image every 4 seconds
 }
 </script>
+
+#### ADD APP STUFF & INSTRUCTIONS
