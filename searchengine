@@ -1,8 +1,7 @@
-<!DOCTYPE html>
-<html>
 ---
-title:
+title: Archive Search
 layout: article
+permalink: /searchengine
 ---
 <link rel="stylesheet" type="text/css" href="http://reveal.scholarslab.org/javascript/style.css">
 <link rel="stylesheet" href="http://reveal.scholarslab.org/css/main.css">
