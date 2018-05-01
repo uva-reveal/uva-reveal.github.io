@@ -9,9 +9,9 @@ permalink: /who
 
 Monica Kristin Blair is a PhD Candidate in the History Department at the University of Virginia. She is interested in public and academic histories of education, racial inequality, and US politics. Monica's dissertation, “From Segregation Academies to School Choice: The Post-Brown History of School Privatization” examines the role of race, region, and capital in the post-war movement to provide public funding for private education in America.
 
-### Ankita
+### Ankita Chakrabarti
 ![Ankita](http://scholarslab.org/wp-content/uploads/2017/09/20170911-_DSC0548.jpg)
-PhD English, Praxis, etc.
+Ankita Chakrabarti is a PhD student in the English Department at the University of Virgina. Her research focuses on contemporary postcolonial literature, spatial studies and narrative theory.
 
 ### Victoria Clark
 ![Victoria Clark](http://scholarslab.org/wp-content/uploads/2017/09/20170914-_DSC0597.jpg)
