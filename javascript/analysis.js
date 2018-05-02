@@ -277,17 +277,17 @@ function find_search_results(json_file, needleArray) {
           let circleSize = 80 + size;
           if (size >= 9) {
             let multiplier = 2.8;
-            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;"><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText} <br> ${size}</span></a></li>`;
+            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;"><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText}</span></a></li>`;
             $('.results-list').append(html);
           }
           else if (size < 9 && size > 4) {
             let multiplier = 1.8;
-            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;"><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText} <br> ${size}</span></a></li>`;
+            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;"><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText}</span></a></li>`;
             $('.results-list').append(html);
           }
           else {
             let multiplier = 1;
-            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;"><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText} <br> ${size}</span></a></li>`;
+            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;"><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText}</span></a></li>`;
             $('.results-list').append(html);
           }
       }
@@ -593,17 +593,17 @@ let size = all_search_results + 1;
           let circleSize = 80 + size;
           if (size >= 9) {
             let multiplier = 2.8;
-            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;"><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText} <br> ${size}</span></a></li>`;
+            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;"><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText}</span></a></li>`;
             $('.results-list').append(html);
           }
           else if (size < 9 && size > 4) {
             let multiplier = 1.8;
-            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;"><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText} <br> ${size}</span></a></li>`;
+            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;"><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText}</span></a></li>`;
             $('.results-list').append(html);
           }
           else {
             let multiplier = 1;
-            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;"><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText} <br> ${size}</span></a></li>`;
+            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;"><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText}</span></a></li>`;
             $('.results-list').append(html);
           }
       }
