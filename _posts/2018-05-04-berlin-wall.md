@@ -48,6 +48,6 @@ For *UVA Reveal*, we decided to explore the history and the aftermath of the fal
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ei1HnWwzmNk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <figcaption>President's Reagan speech in Berlin.</figcaption>
-<figure>
+</figure>
 
 So, what does it mean for such an artifact to stand on the grounds of the University of Virginia today? We leave the interpretation of our augmentation of the Berlin Wall open to the viewer. We only hope that it allows the viewer to perceive and recognize the familiar and mundane space around them as vitally dynamic and continuously challenging.
