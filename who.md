@@ -11,7 +11,7 @@ permalink: /who
 
 <hr>
 
-<!-- 
+<!--
 ### Monica Kristin Blair
 ![Monica Blair](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0329.jpg)
 
@@ -26,7 +26,7 @@ Ankita Chakrabarti is a PhD student in the English Department at the University 
 ### Victoria Clark
 
 ![Victoria Clark](http://scholarslab.org/wp-content/uploads/2017/09/20170914-_DSC0597.jpg)
-  
+
 Victoria Clark is a PhD student in Critical and Comparative Studies in Music at the University of Virginia. She studies 20th century American music and representations of American Indians. She is interested in public humanities and how music narratives are presented in museums and institutions. -->
 
 
@@ -37,6 +37,8 @@ Victoria Clark is a PhD student in Critical and Comparative Studies in Music at 
 
 
 <!-- ### Tanner Greene
+
+![Tanner Greene](images/tannerphoto.png)
 
 Tanner Greene is a PhD student in the Music Department at the University of Virginia. His research interests include digital music archives, genre formation, and Internet subcultures.
 
