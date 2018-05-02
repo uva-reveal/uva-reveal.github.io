@@ -34,7 +34,7 @@ permalink: /searchengine
 
 <div>
 
-  <h2>Search Results:</h2>
+  <h4>Search Results:</h4>
   <ul class="results-list">
 
 
