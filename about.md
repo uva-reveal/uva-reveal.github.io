@@ -36,8 +36,10 @@ We began with a shared interest in public-facing digital humanities. We then:
   * They will also see full documentation of the library search project so that interested parties can engage in similar work.
 
 
+
 ### App Description
-Our project uses Unity to layer 3D models on images – including university buildings and physical objects – that will enable the viewer to experience the virtual layering of time upon an object. Unity is easily exportable to Android, iOS, and HoloLens platforms, and we have created an app with which our users will be able to engage the AR experience (including the virtual display of text, images, and videos upon physical objects) through their personal devices. In so doing, *UVA Reveal* helps uncover the history of and connections between spaces at the university. To download our app, please visit *X*.
+Our project uses Unity to layer 3D models on images – including university buildings and physical objects – that will enable the viewer to experience the virtual layering of time upon an object. Unity is easily exportable to Android, iOS, and HoloLens platforms, and we have created an app with which our users will be able to engage the AR experience (including the virtual display of text, images, and videos upon physical objects) through their personal devices. In so doing, *UVA Reveal* helps uncover the history of and connections between spaces at the university. 
+To download our app, please visit *X*. Instructions about how to use the app are available <a href="http://reveal.scholarslab.org/index.html" target="_blank">here</a>.
 
 ### Website & Further Development 
 To develop our website we used a commonly static website generator, Jekyll. All the files are open source and live in a repository on <a href="https://github.com/uva-reveal/uva-reveal.github.io" target="_blank">github</a>. If you notice something that doesn't work properly please let us know. See something, say something!
