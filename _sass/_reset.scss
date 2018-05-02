@@ -53,6 +53,7 @@ a:focus {
 // Remove outline
 a:hover,
 a:active {
+	background-color: yellow;
 	outline: 0;
 }
 
