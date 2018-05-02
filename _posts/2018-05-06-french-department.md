@@ -18,7 +18,7 @@ image:
 <iframe width="800" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="PraxisMap" src="https://uvalibrary.maps.arcgis.com/apps/Embed/index.html?webmap=cd441159531b40eeb560cc8bd82e3126&extent=-78.50391,38.0335232,-78.50591,38.0315232"></iframe>
 </div>
 <figcaption>
-The Department of French is located on the third floor of New Cabell Hall
+The Department of French is located on the third floor of New Cabell Hall.
 </figcaption>
 </figure>
 
