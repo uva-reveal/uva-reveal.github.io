@@ -11,7 +11,7 @@ permalink: /who
 
 <hr>
 
-<!-- 
+<!--
 ### Monica Kristin Blair
 ![Monica Blair](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0329.jpg)
 
@@ -26,17 +26,19 @@ Ankita Chakrabarti is a PhD student in the English Department at the University 
 ### Victoria Clark
 
 ![Victoria Clark](http://scholarslab.org/wp-content/uploads/2017/09/20170914-_DSC0597.jpg)
-  
+
 Victoria Clark is a PhD student in Critical and Comparative Studies in Music at the University of Virginia. She studies 20th century American music and representations of American Indians. She is interested in public humanities and how music narratives are presented in museums and institutions. -->
 
 
 |Tanner Greene|Christian Howard|Spyridon Simotas|  
 |---|---|---|
-||![Christian Howard](http://scholarslab.org/wp-content/uploads/2017/02/20170829-_DSC0281.jpg)|![Spyridon Simotas](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0240.jpg) |   
+|![Tanner Greene](/images/tannerphoto.png)|![Christian Howard](http://scholarslab.org/wp-content/uploads/2017/02/20170829-_DSC0281.jpg)|![Spyridon Simotas](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0240.jpg) |   
 |<small>PhD student in Music. Tanner's research interests include digital music archives, genre formation, and Internet subcultures.</small>|<small>PhD Candidate in English and Project Manager for the 2017-2018 Praxis cohort. Christian's research focuses upon contemporary world literature, ethics, and digital humanities. To learn more, visit her [personal website](https://christianhoward.org).</small>|<small>PhD Candidate in French, Praxis Fellow at the Scholar's Lab (2017-2018). He served this year's Praxis cohort as designer, film editor, and web developper. [More info](https://ss4ws.github.io/).</small> |
 
 
 <!-- ### Tanner Greene
+
+![Tanner Greene](images/tannerphoto.png)
 
 Tanner Greene is a PhD student in the Music Department at the University of Virginia. His research interests include digital music archives, genre formation, and Internet subcultures.
 
