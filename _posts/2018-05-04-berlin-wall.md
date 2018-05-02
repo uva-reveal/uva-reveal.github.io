@@ -10,7 +10,17 @@ image:
   thumb:  Berlin01.jpg
 ---
 
-<style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="800" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="PraxisMap" src="https://uvalibrary.maps.arcgis.com/apps/Embed/index.html?webmap=cd441159531b40eeb560cc8bd82e3126&extent=-78.504304,38.036906,-78.506304,38.034906"></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
+<figure>
+<div class="embed-container">
+<iframe width="800" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="PraxisMap" src="https://uvalibrary.maps.arcgis.com/apps/Embed/index.html?webmap=cd441159531b40eeb560cc8bd82e3126&extent=-78.504304,38.036906,-78.506304,38.034906">
+</iframe>
+</div>
+<figcaption>
+A fragment of the Berlin wall is located on the quad adjacent to Alderman Library and the Albert and Shirley Small Special Collections Library.
+</figcaption>
+</figure>
+
 
 
 The installation of the Berlin Wall panels is a popular one on the UVA grounds since it is visited by almost every tourist, visitor, and new student. The installation is located in a very prominent and busy space, right by Alderman library and the Albert and Shirley Small Special Collections Library. It is, in fact, such a familiar sight that hundreds of students hurrying past it almost every day barely pay it a passing glance. An unbelievably powerful and striking historical artifact has been absorbed into the mundane surroundings of everyday life. We tend to take things we see around us for granted and as somehow being undeniably permanent. Very often we neglect to recall the particular histories that certain places or objects are a part of. It is easier still to remain ignorant of the multiple narratives that thread through the familiar space of our lives.
@@ -28,19 +38,16 @@ Another example of a project is the Tilt Brush tool developed by the *NOVALIS VR
 <iframe width="640" height="480" src="https://poly.google.com/view/boKpfklac1b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
 
-For *UVA Reveal*, we decided to explore the history and the aftermath of the fall of the Berlin Wall through virtual augmentation. The augmentations highlight the public protests that ultimately brought down the wall, the speeches by Presidents Reagan and Kennedy, and the status of the wall in the present day. The last is perhaps most striking. An interactive map published in the article <a href="https://interactive.guim.co.uk/embed/lhaddou/berlin-wall/wallworld.html">“Where on Earth is the Berlin Wall?”</a> on *The Guardian* lists almost all the locations across the world where sections of the Berlin Wall are currently installed. Brightly and gaily graffitied fragments of the Berlin Wall link disparate places on the globe in remembrance and recognition of the strength required to pull down walls that divide and fracture.
+For *UVA Reveal*, we decided to explore the history and the aftermath of the fall of the Berlin Wall through virtual augmentation. The augmentations highlight the public protests that ultimately brought down the wall, the speeches by Presidents Reagan and Kennedy, and the status of the wall in the present day. The last is perhaps most striking. An interactive map published in the article <a href="https://interactive.guim.co.uk/embed/lhaddou/berlin-wall/wallworld.html" target="_blank">“Where on Earth is the Berlin Wall?”</a> on *The Guardian* lists almost all the locations across the world where sections of the Berlin Wall are currently installed. Brightly and gaily graffitied fragments of the Berlin Wall link disparate places on the globe in remembrance and recognition of the strength required to pull down walls that divide and fracture.
 
-https://interactive.guim.co.uk/embed/lhaddou/berlin-wall/wallworld.html
-
-
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/56V6r2dpYH8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<figcaption>President's Kennedy speech in Berlin.</figcaption>
+</figure>
 
-
-
-<img src="https://interactive.guim.co.uk/embed/lhaddou/berlin-wall/wallworld.html" alt="interactive map">
-
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ei1HnWwzmNk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<figcaption>President's Reagan speech in Berlin.</figcaption>
+<figure>
 
-
-
-So,what does it mean for such an artifact to stand on the grounds of the University of Virginia today? We leave the interpretation of our augmentation of the Berlin Wall open to the viewer. We only hope that it allows the viewer to perceive and recognize the familiar and mundane space around them as vitally dynamic and continuously challenging.
+So, what does it mean for such an artifact to stand on the grounds of the University of Virginia today? We leave the interpretation of our augmentation of the Berlin Wall open to the viewer. We only hope that it allows the viewer to perceive and recognize the familiar and mundane space around them as vitally dynamic and continuously challenging.

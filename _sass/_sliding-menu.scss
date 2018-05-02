@@ -27,8 +27,8 @@
   top: $gutter;
   right: $gutter;
   display: block;
-  width: $button-size * 2;
-  height: $button-size * 2;
+  width: $button-size * 1.6;
+  height: $button-size * 1.6;
   background: $primary-color;
   outline: 0;
   padding: 0;
@@ -150,7 +150,7 @@
       @include font-size(24,no);
       font-weight: 700;
       @include media($small) {
-        margin-left: 170px;
+        margin-left: 0px;
         @include font-size(32,no);
       }
     }

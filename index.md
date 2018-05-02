@@ -1,19 +1,21 @@
 ---
-layout: archive
+layout: default
 permalink: /
 title: ""
 ---
 
-
-<div class="page-lead" style="padding: 2.5% 0;">
-  <div class="wrap page-lead-content" style="position:absolute;">
+<figure>
+<div class="page-lead">
+  <div class="wrap page-lead-content" style="position:absolute; width: 50%; height: auto;">
     <img src="/assets/logo/logo2.png">
   </div>
   <img class="mySlides" src="/images/slide-1.jpg" style="width:100%">
-  <img class="mySlides" src="/images/slide-2.jpg" style="width:100%">
-  <img class="mySlides" src="/images/slide-3.jpg" style="width:100%">
   <img class="mySlides" src="/images/slide-4.jpg" style="width:100%">
+  <img class="mySlides" src="/images/slide-5.jpg" style="width:100%">
 </div>
+<figcaption>Photos by <a href="http://www.acceptable.photography/2018-04-18-praxis" target="_blank">Shane Lin</a> and <a href="https://unsplash.com/search/photos/university-library" target="_blank">Unsplash</a>.</figcaption>
+</figure>
+
 
 <script>
 var myIndex = 0;
@@ -31,3 +33,5 @@ function carousel() {
     setTimeout(carousel, 2000); // Change image every 4 seconds
 }
 </script>
+
+#### ADD APP STUFF & INSTRUCTIONS
