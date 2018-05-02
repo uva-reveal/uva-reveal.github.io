@@ -34,4 +34,22 @@ function carousel() {
 }
 </script>
 
-#### ADD APP STUFF & INSTRUCTIONS
+#### App Description
+
+Our project uses Unity to layer 3D models on images – including university buildings and physical objects – that will enable the viewer to experience the virtual layering of time upon an object. Unity is easily exportable to Android, iOS, and HoloLens platforms, and we have created an app with which our users will be able to engage the AR experience (including the virtual display of text, images, and videos upon physical objects) through their personal devices. In so doing, *UVA Reveal* helps uncover the history of and connections between spaces at the university. To download our app, please visit *X*.
+
+#### Instructions: How to Download the App
+
+The UVA Reveal app is available for Android as an Android Package Kit, or APK. To install the UVA Reveal app: 
+1.	Go to the Settings > Security on your Android device. Allow installation of apps from unknown sources and click OK. 
+2.	Open a web browser and download the UVA Reveal APK file here: *X* 
+3.	When the download is complete, you’ll receive a notification in the Notification Bar. (If you receive a warning that the file could harm your device, tap OK to continue.) 
+4.	Open your apps tray and click on File Manager > Downloads. Select the UVA Reveal APK that you just downloaded and click install. 
+5.	Open the installed app to use.
+For instructions that are supplemented with images, please see the <a href="https://www.wikihow.tech/Install-APK-Files-on-Android">WikiHow page</a>.
+
+#### Instructions: How to Use the App
+
+Once you’ve downloaded and opened the UVA Reveal app (see instructions above), identify a target location (either in person on the UVA grounds or using the trigger images on each webpage). If you are on UVA grounds, you can view the augmented sites by going to the locations indicated on the map that opens in the app. When you point your device’s camera at the augmented object, the augmentations should appear.
+
+
