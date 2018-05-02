@@ -53,7 +53,8 @@ a:focus {
 // Remove outline
 a:hover,
 a:active {
-	background-color: yellow;
+	background-color: #e74c3c;
+	transition: all 3s cubic-bezier(0, 0, 0.2, 1);
 	outline: 0;
 }
 
