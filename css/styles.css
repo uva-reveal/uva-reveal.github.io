@@ -23,3 +23,7 @@
 #content p {
   margin-top: 0;
 }
+
+.sliding-menu-content .li.sub-menu {
+  max-height: 10px
+}
