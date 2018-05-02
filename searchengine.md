@@ -19,7 +19,7 @@ permalink: /searchengine
   <p>This search uses JavaScript to return results from a catalog of Json files from VIRGO. We visualized the data by dynamically changing the CSS through JavaScript to make our search more discoverable and accessible. Each item is scaled in size based on its relative importance within the topic search, which visually informs the user which item may be more relevant to their research.</p>
   <p> This search function should help others interested in projects similar to UVa Reveal here at UVa or in other communities get over the hurdle of archival research and discover, in a clearer way, the vast collections at their home libraries.</p>
 <form action=''>
-<h4>Select a Topic</h4>
+<h4>Select a Topic:</h4>
   <input type="checkbox" id="cabell" onclick="search('cabell');">Cabell Hall<br>
   <input type="checkbox" id="women" onclick="search('women');">Women<br>
   <input type="checkbox" id="music" onclick="search('music');">Music<br>
