@@ -10,7 +10,17 @@ image:
   thumb:  Berlin01.jpg
 ---
 
-<style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="800" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="PraxisMap" src="https://uvalibrary.maps.arcgis.com/apps/Embed/index.html?webmap=cd441159531b40eeb560cc8bd82e3126&extent=-78.504304,38.036906,-78.506304,38.034906"></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
+<figure>
+<div class="embed-container">
+<iframe width="800" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="PraxisMap" src="https://uvalibrary.maps.arcgis.com/apps/Embed/index.html?webmap=cd441159531b40eeb560cc8bd82e3126&extent=-78.504304,38.036906,-78.506304,38.034906">
+</iframe>
+</div>
+<figcaption>
+A fragment of the Berlin wall is located on the quad adjacent to Alderman Library and the Albert and Shirley Small Special Collections Library.
+</figcaption>
+</figure>
+
 
 
 The installation of the Berlin Wall panels is a popular one on the UVA grounds since it is visited by almost every tourist, visitor, and new student. The installation is located in a very prominent and busy space, right by Alderman library and the Albert and Shirley Small Special Collections Library. It is, in fact, such a familiar sight that hundreds of students hurrying past it almost every day barely pay it a passing glance. An unbelievably powerful and striking historical artifact has been absorbed into the mundane surroundings of everyday life. We tend to take things we see around us for granted and as somehow being undeniably permanent. Very often we neglect to recall the particular histories that certain places or objects are a part of. It is easier still to remain ignorant of the multiple narratives that thread through the familiar space of our lives.
