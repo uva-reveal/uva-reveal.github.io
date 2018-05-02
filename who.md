@@ -9,6 +9,8 @@ permalink: /who
 |![Monica Blair](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0329.jpg)|![Ankita](http://scholarslab.org/wp-content/uploads/2017/09/20170911-_DSC0548.jpg)|![Victoria Clark](http://scholarslab.org/wp-content/uploads/2017/09/20170914-_DSC0597.jpg)   |   
 |<small>PhD Candidate in the History Department. Monica is interested in public and academic histories of education, racial inequality, and US politics. Her dissertation, “From Segregation Academies to School Choice: The Post-Brown History of School Privatization” examines the role of race, region, and capital in the post-war movement to provide public funding for private education in America.</small>|<small>PhD student in English. Ankita's research focuses on contemporary postcolonial literature, spatial studies and narrative theory.</small>|<small>PhD student in Critical and Comparative Studies in Music. Victoria studies 20th century American music and representations of American Indians. She is interested in public humanities and how music narratives are presented in museums and institutions.</small>|
 
+<hr>
+
 <!-- 
 ### Monica Kristin Blair
 ![Monica Blair](http://scholarslab.org/wp-content/uploads/2017/09/20170829-_DSC0329.jpg)
