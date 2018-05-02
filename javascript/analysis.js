@@ -276,9 +276,11 @@ function find_search_results(json_file, needleArray) {
           let paddingSize = 1 + size;
           let circleSize = 80 + size;
           let colors = ['red', 'green', 'blue', 'orange', 'yellow'];
+          var myElement = document.getElementsByClass("result-wrapper");
+          myElement.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
           if (size >= 9) {
             let multiplier = 2.8;
-            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;background-color:colors[Math.floor(Math.random() * colors.length)]";><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText}</span></a></li>`;
+            let html = `<li class="result-wrapper" style="height:${80 * multiplier}px;width:${80 * multiplier}px;"><a href="https://search.lib.virginia.edu/catalog/${url}" class="result__link" target="_blank"><span class="result-link__text">${titleText}</span></a></li>`;
             $('.results-list').append(html);
           }
           else if (size < 9 && size > 4) {
