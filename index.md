@@ -10,8 +10,6 @@ title: ""
     <img src="/assets/logo/logo2.png">
   </div>
   <img class="mySlides" src="/images/slide-1.jpg" style="width:100%">
-  <img class="mySlides" src="/images/slide-2.jpg" style="width:100%">
-  <img class="mySlides" src="/images/slide-3.jpg" style="width:100%">
   <img class="mySlides" src="/images/slide-4.jpg" style="width:100%">
   <img class="mySlides" src="/images/slide-5.jpg" style="width:100%">
 </div>
