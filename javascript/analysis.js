@@ -276,7 +276,7 @@ function find_search_results(json_file, needleArray) {
           let paddingSize = 1 + size;
           let circleSize = 80 + size;
           let colors = ['red', 'green', 'blue', 'orange', 'yellow'];
-          var myElement = document.getElementsByClass("result-wrapper");
+          var myElement = document.getElementsByClassName("result-wrapper");
           myElement.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
           if (size >= 9) {
             let multiplier = 2.8;
