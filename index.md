@@ -50,6 +50,7 @@ For instructions that are supplemented with images, please see the <a href="http
 
 #### Instructions: How to Use the App
 
-Once you’ve downloaded and opened the UVA Reveal app (see instructions above), identify a target location (either in person on the UVA grounds or using the trigger images on each webpage). If you are on UVA grounds, you can view the augmented sites by going to the locations indicated on the map that opens in the app. When you point your device’s camera at the augmented object, the augmentations should appear.
-
+Once you’ve downloaded and opened the UVA Reveal app (see instructions above), identify an augmented location. Augmented locations are visible on the UVA Reveal Map (available on both the app and on the website). 
+If you are on UVA grounds, you can visit the augmented sites indicated on the UVA Reveal Map. Once at a site, click the “Reveal” button and point your device’s camera at the augmented object. The augmentations should appear on your device.
+If you are using the UVA Reveal website, use the trigger images at the bottom of each particular location’s webpage. Click the “Reveal” button and point your device’s camera at the trigger image. The augmentations should appear on your device.
 
