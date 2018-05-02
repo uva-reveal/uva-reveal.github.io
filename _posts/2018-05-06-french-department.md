@@ -101,36 +101,36 @@ The following clips are taken from the original recording, and are presented wit
  
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008052&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption><strong>1. Chantal introduces herself.</strong>
+<figcaption><strong>1. Chantal introduces herself. </strong>
 Chantal introduces herself. She moved to Tuchan three years ago with her husband Alain Busquet, a construction worker. Chantal is no stranger to the region; she grew up in a family of wine growers a few kilometers away from Tuchan. She is 22 years old and the mother of a young child.</figcaption>
 <figure>
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008049&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption><strong>2. Chantal drops out of School.</strong>Chantal's unexpected pregnancy threw off her plans of getting a secretarial diploma. Her decision to keep the child, get married to Alain and move in with him, was made under a lot of pressure and seemed like the only possibility. The outcome, however, hasn't made her particularly happy.</figcaption>
+<figcaption><strong>2. Chantal drops out of School. </strong>Chantal's unexpected pregnancy threw off her plans of getting a secretarial diploma. Her decision to keep the child, get married to Alain and move in with him, was made under a lot of pressure and seemed like the only possibility. The outcome, however, hasn't made her particularly happy.</figcaption>
 </figure>   
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008046&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption><strong>3. Chantal's love life.</strong>Chantal started dating boys of her age when she was 14 years old. It was just flirting. The first serious relationship was with Alain, now her husband. She regrets not having met more men before getting married,which she compensates for by meeting them now that she is married. Alain is aware of this. Cheating often gets messy with lies. Is it even cheating if you are open about it?</figcaption>
+<figcaption><strong>3. Chantal's love life. </strong>Chantal started dating boys of her age when she was 14 years old. It was just flirting. The first serious relationship was with Alain, now her husband. She regrets not having met more men before getting married,which she compensates for by meeting them now that she is married. Alain is aware of this. Cheating often gets messy with lies. Is it even cheating if you are open about it?</figcaption>
 </figure>
   
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008040&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption><strong>4. Chantal's political views</strong>Chantal’s political views are very liberal. She believes that the system is corrupt and needs to change. What’s the alternative? Collectivism. Abolition of private property. No ownership over things or people. Equality and honesty are the values society should strive for. </figcaption>
+<figcaption><strong>4. Chantal's political views. </strong>Chantal’s political views are very liberal. She believes that the system is corrupt and needs to change. What’s the alternative? Collectivism. Abolition of private property. No ownership over things or people. Equality and honesty are the values society should strive for. </figcaption>
 </figure>
  
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008037&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption><strong>5. Hard to find the words to talk about yourself.</strong>Chantal is frustrated by having constantly to search for words to paint her portrait. She has never been interviewed before. Overwhelmed by Luc’s questions, she finds it hard to articulate all the aspects of her life, all at once.</figcaption>
+<figcaption><strong>5. Hard to find the words to talk about yourself. </strong>Chantal is frustrated by having constantly to search for words to paint her portrait. She has never been interviewed before. Overwhelmed by Luc’s questions, she finds it hard to articulate all the aspects of her life, all at once.</figcaption>
 </figure>
   
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008034&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption><strong>6. Life in the village makes you feel small</strong>Life in the village doesn’t have much to offer Chantal. Besides watching TV at night and being ill-informed about current affaires, she feels small and excluded. In the city, at least one can go out and meet other people, find one's peers and a sense of community.</figcaption></figure>
+<figcaption><strong>6. Life in the village makes you feel small. </strong>Life in the village doesn’t have much to offer Chantal. Besides watching TV at night and being ill-informed about current affaires, she feels small and excluded. In the city, at least one can go out and meet other people, find one's peers and a sense of community.</figcaption></figure>
     
 
 <figure>
@@ -141,7 +141,7 @@ Chantal introduces herself. She moved to Tuchan three years ago with her husband
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008022&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption><strong>8. Painting</strong>Given a reproduction of Picasso’s “Guernica” in Chantal’s kitchen, Luc Ferrari asks her if she likes painting. Not particularly, she retorts. She just liked this painting, but she gets upset when she is asked to explain why.</figcaption>
+<figcaption><strong>8. Painting </strong>Given a reproduction of Picasso’s “Guernica” in Chantal’s kitchen, Luc Ferrari asks her if she likes painting. Not particularly, she retorts. She just liked this painting, but she gets upset when she is asked to explain why.</figcaption>
 </figure>
    
 
@@ -167,7 +167,7 @@ Chantal is in awe of Luc and Brunhild. She sees them as intellectuals from Paris
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008004&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption><strong>12. “Why me?”</strong>In the same vein with the previous clip, Chantal here expresses her reservation about the whole project. Despite her interviewers’ good intentions to give her voice an avenue to be heard, she questions what about her voice and perspective is so microphone worthy?</figcaption>
+<figcaption><strong>12. “Why me?” </strong>In the same vein with the previous clip, Chantal here expresses her reservation about the whole project. Despite her interviewers’ good intentions to give her voice an avenue to be heard, she questions what about her voice and perspective is so microphone worthy?</figcaption>
 </figure>
   
 
