@@ -1,9 +1,9 @@
 ---
 layout: article
-title: Rotunda, The Public Face of A University
+title: Rotunda
 date: 2018-04-04 15:22
 modified: 2018-04-04 15:22
-excerpt:
+excerpt: Rotunda
 image:
   feature:
   teaser: UVA_Rotunda.jpg
