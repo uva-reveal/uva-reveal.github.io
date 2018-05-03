@@ -27,8 +27,6 @@ permalink: /who
   <p class="post-excerpt"><small>PhD student in Critical and Comparative Studies in Music. Victoria studies 20th century American music and representations of American Indians. She is interested in public humanities and how music narratives are presented in museums and institutions.</small></p>
 </div><!-- /.tile -->
 </div><!-- /.tiles -->
-
-<div id="page-wrapper">
       
 <div class="tiles">
 
