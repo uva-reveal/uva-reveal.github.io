@@ -39,3 +39,7 @@
     grid-template-columns: none !important;
   }
 }*/
+
+.wrap h1{
+  margin-left:13px !important;
+}
