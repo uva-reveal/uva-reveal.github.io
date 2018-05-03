@@ -53,25 +53,32 @@ The Berlin Wall installation provided the *UVA Reveal* team with the perfect opp
 
 Virtual augmentation of the Berlin Wall installation could take us in several different directions. One such project by the Berlin Business Location Center has remapped the entire stretch of the Berlin Wall through 3D modeling using historic aerial images. This virtual tour allows the user to travel along the Berlin Wall and experience Berlin at a time when the wall was fully intact. While this might be an interesting project for several reasons, it also has the unfortunate consequence of raising the wall again, albeit virtually.
 
-
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDDxeJLos6s?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<figcaption>Video 1: The Berlin Business Location Center's remapping of the Berlin Wall.</figcaption>
+</figure>
 
 
 Another example of a project is the Tilt Brush tool developed by the *NOVALIS VR Project* in which virtual spaces of historic sites, for example the Berlin Wall, are accessible for users to draw and sculpt on. This would allow users to paint their own graffiti on the Berlin Wall and thereby virtually participate in the spirit of public solidarity and of creative defiance in the face of institutional and political divisiveness.
 
+<figure>
 <iframe width="640" height="480" src="https://poly.google.com/view/boKpfklac1b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<figcaption>The *NOVALIS VR Project*.</figcaption>
+</figure>
+
+
 
 
 For *UVA Reveal*, we decided to explore the history and the aftermath of the fall of the Berlin Wall through virtual augmentation. The augmentations highlight the public protests that ultimately brought down the wall, the speeches by Presidents Reagan and Kennedy, and the status of the wall in the present day. The last is perhaps most striking. An interactive map published in the article <a href="https://interactive.guim.co.uk/embed/lhaddou/berlin-wall/wallworld.html">“Where on Earth is the Berlin Wall?”</a> on *The Guardian* lists almost all the locations across the world where sections of the Berlin Wall are currently installed. Brightly and gaily graffitied fragments of the Berlin Wall link disparate places on the globe in remembrance and recognition of the strength required to pull down walls that divide and fracture.
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/56V6r2dpYH8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<figcaption>President's Kennedy speech in Berlin.</figcaption>
+<figcaption>Video 2: President's Kennedy speech in Berlin.</figcaption>
 </figure>
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ei1HnWwzmNk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<figcaption>President's Reagan speech in Berlin.</figcaption>
+<figcaption>Video 3: President's Reagan speech in Berlin.</figcaption>
 </figure>
 
 So, what does it mean for such an artifact to stand on the grounds of the University of Virginia today? We leave the interpretation of our augmentation of the Berlin Wall open to the viewer. We only hope that it allows the viewer to perceive and recognize the familiar and mundane space around them as vitally dynamic and continuously challenging.
@@ -81,10 +88,10 @@ So, what does it mean for such an artifact to stand on the grounds of the Univer
 
 * [Kennedy, John F. “Ich bin ein Berliner Speech”. National Archives. June 26, 1963.](www.millercenter.org/the-presidency/presidential-speeches/june-26-1963-ich-bin-ein-berliner-speech)
 
-Oltermann, Philip. “Where on earth is the Berlin wall?” The Guardian. Oct 28, 2014. <www.theguardian.com/cities/2014/oct/28/-sp-where-on-earth-berlin-wall-25-years-fall>
+* [Oltermann, Philip. “Where on earth is the Berlin wall?” The Guardian. Oct 28, 2014.](www.theguardian.com/cities/2014/oct/28/-sp-where-on-earth-berlin-wall-25-years-fall)
 
-Reagan, Ronald. “Address from the Brandenburg Gate (Berlin Wall)”. National Archives. June 12, 1987. <www.millercenter.org/the-presidency/presidential-speeches/june-12-1987-address-brandenburg-gate-berlin-wall>
+* [Reagan, Ronald. “Address from the Brandenburg Gate (Berlin Wall)”. National Archives. June 12, 1987.](www.millercenter.org/the-presidency/presidential-speeches/june-12-1987-address-brandenburg-gate-berlin-wall)
 
-Rosario, Miguelangelo. “Novalis VR Project Berlin”. Google Poly. Nov 17, 2017. <www.poly.google.com/view/boKpfklac1b>
+* [Rosario, Miguelangelo. “Novalis VR Project Berlin”. Google Poly. Nov 17, 2017.](www.poly.google.com/view/boKpfklac1b)
 
-“The Berlin Wall in 3D”. Berlin Business Location Center. <www.youtube.com/watch?v=vDDxeJLos6s>
+* [“The Berlin Wall in 3D”. Berlin Business Location Center.](www.youtube.com/watch?v=vDDxeJLos6s)
