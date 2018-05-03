@@ -57,10 +57,15 @@ function carousel() {
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Use the App</h2>
-  <p class="post-excerpt">Once you’ve downloaded and opened the UVA Reveal app, identify an augmented location. Augmented locations are visible on the UVA Reveal Map (on the app and on <a href="{{ site.url }}/augmented-locations/" target="_blank">the website</a>).</p>
-  <p class="post-excerpt">If you are on UVA grounds, you can visit the augmented sites indicated on the UVA Reveal Map. Once at a site, click the “Reveal” button and point your device’s camera at the augmented object. The augmentations should appear on your device.</p>
-  <p class="post-excerpt">If you are using the UVA Reveal website, use the trigger images at the bottom of each particular location’s webpage. Click the “Reveal” button and point your device’s camera at the trigger image. The augmentations should appear on your device.</p>
+  <h2 class="post-title">Augmented Locations</h2>
+  <p class="post-excerpt">Once you’ve downloaded and opened the UVA Reveal app, identify an augmented location. So far, Augmented Locations include: the Berlin Wall, the Cemetery, the French Department, the Old Cabell Hall Mural, the Rotunda. All the augmented locations are visible on the UVA Reveal Map (on the app and on <a href="{{ site.url }}/augmented-locations/" target="_blank">the website</a>).</p>
 </div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Use the App</h2>
+  <p class="post-excerpt"><strong>On UVA grounds:</strong> visit the augmented sites indicated on the UVA Reveal Map. Once at a site, click the “Reveal” button and point your device’s camera at the augmented object. The augmentations should appear on your device.</p>
+  <p class="post-excerpt"><strong>On UVA Reveal website:</strong> use the trigger images of each particular location’s webpage. Click the “Reveal” button and point your device’s camera at the trigger image. The augmentations should appear on your device.</p>
+</div><!-- /.tile -->
+
 
 </div><!-- /.tiles -->
