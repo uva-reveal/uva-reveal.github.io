@@ -33,9 +33,9 @@
     thead { min-width: 120px }
     td,th { display: block }
 } */
-
+/*
 @media screen and (max-width: 750px) {
   .grid-container{
     grid-template-columns: none !important;
   }
-}
+}*/
