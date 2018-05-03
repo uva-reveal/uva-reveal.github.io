@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: augmented-locations
 title:
 date: 2018-04-04 15:22
 modified: 2018-04-04 15:22
@@ -8,7 +8,7 @@ image:
   feature:
   teaser: OldCabellMural.jpg
   thumb: OldCabellMural.jpg
-ads: false
+permalink: /old-cabell-hall-mural
 ---
 
 <style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
@@ -62,24 +62,24 @@ Once women gained admittance to the University, they worked to improve their con
 
 ### Bibliography
 <ul>
-<li><a href="https://bombmagazine.org/articles/lincoln-perry/" target="_blank">Ann Beattie and Lincoln Perry, “Interview: Lincoln Perry by Ann Beattie,” BOMB. Oct. 1, 2005.</a></li>
-<li><a href="http://uvamagazine.org/articles/women_at_the_university_of_virginia/P2" target="_blank">Sierra Bellows, Carianne King, Emma Rathbone, "Women at the University of Virginia," University of Virginia Magazine. Spring 2011.</a></li>
-<li><a href="http://www.cavalierdaily.com/article/2016/04/old-cabell-hall-mural-proves-controversial" target="_blank">Savannah Borders, “Old Cabell Hall Mural Proves Controversial: One Profession Describes Mural as ‘Red Dot,’” The Cavalier Daily. April 4, 2016.</a></li>
-<li><a href="http://www.slate.com/blogs/xx_factor/2016/04/26/lincoln_perry_s_mural_in_old_cabell_hall_inspires_a_teaching_moment_about.html" target="_blank">Nora Caplan-Bricker, “Can a ‘Teaching Moment’ Over a Sexist Artwork Really Combat Rape Culture at UVA?” Slate. April 26, 2016.</a></li>
-<li><a href="http://voicesandvisibilityuva.org/about-these-portraits/women-at-uva-history/" target="_blank">Kimberly Diana Jacobs, "Quotas and the Status Quo: Women at UVA," (Re)Imagining Women in STEM.</a>.</li>
-<li><a href="https://news.virginia.edu/content/old-cabell-hall-mural-expands-encompass-lifetime-learning" target="_blank">Jane Ford, “Old Cabell Hall Mural Expands to Encompass a Lifetime of Learning,” UVA Today. Nov. 27, 2012.</a></li>
-<li><a href="http://www.slate.com/blogs/xx_factor/2014/11/25/uva_gang_rape_allegations_in_rolling_stone_not_surprising_to_one_associate.html" target="_blank">Bonnie Gordon, “The UVA Gang Rape Allegations Are Awful, Horrifying,and Not Shocking at All,” Slate. Nov. 25, 2014.</a></li>
-<li><a href="http://www.businessinsider.com/mural-on-uvas-campus-appears-to-depict-professors-affair-with-student-2014-11" target="_blank">Peter Jacobs, “A Prominent Mural on UVA’s Campus Appears to Depict a Professor’s Affair with a Student,” Business Insider. Nov. 26, 2014. </a></li>
-<li><a href ="https://content.law.virginia.edu/news/201709/john-lowe-67-hero-coeducation-uva" target="_blank">Jane Kelly, “John Lowe ’67: A Hero of Coeducation at UVA,” University of Virginia School of Law. Sept. 29, 2017.</a></li>
-<li><a href="http://www.jstor.org.proxy01.its.virginia.edu/stable/pdf/4316017.pdf?refreqid=excelsior%3Af636614581d1d2048dc4a7b678e6d5d4" target="_blank">Amy McCandless, “Maintaining the Spirit and Tone of Robust Manliness: The Battle against Coeducation at Southern Colleges and Universities, 1890-1940,” NWSA Journal. University of Johns Hopkins Press. Spring 1990.</a></li>
-<li><a href="https://explore.lib.virginia.edu/exhibits/show/uvawomen" target="_blank">Larissa Mehmet, "Breaking and Making Tradition: Women at the University of Virginia," University of Virginia Special Collections Exhibit. 2003.</a></li>
-<li><a href="http://www.virginia.edu/woodson/projects/kenan/jackson/jackson.html" target="_blank">Priya N. Parker, "Alice Carlotta Jackson: First African American to Apply to U. Va. (1935)."</a></li>
-<li><a href="http://www.virginia.edu/woodson/projects/kenan/scott/scott.html" target="_blank">Priya N. Parker, "Virginia Anne Scott: Challenges the University's Admission Policy on Coeducation (1969)."</a></li>
-<li><a href="https://www.campusreform.org/?ID=7452" target="_blank">Rob Shimshock, “UVA Forms Committee to Address ‘Problematic’ ‘Party Culture’ Mural,” Campus Reform. April 6, 2016.</a></li>
-<li><a href="https://ead.lib.virginia.edu/vivaxtf/view?docId=uva-sc/viu03705.xml" target="_blank">Special Collections Staff, "A Guide to the Papers of Alice Jackson Stuart, 1913-2001," Special Collections, University of Virginia Library. 2003. Web.</a>.</li>
-<li><a href="http://www.cavalierdaily.com/article/2017/10/smith-remove-the-mural-in-old-cabell" target="_blank">Katherine Smith, “SMITH: Remove the Mural in Old Cabell: ‘The Students’ Progress’ Reflects Poorly on U.Va.’s Values,” The Cavalier Daily. Oct. 16, 2017.</a></li>
-<li><a href="http://www.newsplex.com/home/headlines/Old-Cabell-Hall-mural-controversy-374316341.html" target="_blank">Courteney Stuart, “Old Cabell Hall Mural Controversy,”</a></li>
-<li><a href="http://takeback.scholarslab.org" target="_blank">Take Back the Archive.</a></li>
-<li><a href="https://www.youtube.com/watch?v=TqS1UMHJcV4" target="_blank">“The Murals of Lincoln Perry,” Parts 1-3. Video series on Youtube</a></li>
-<li><a href="http://lincolnperry.com/UVa/UVa1.htm" target="_blank">“The Mural at the University of Virginia”</a></li>
+<li><a href="https://bombmagazine.org/articles/lincoln-perry/" target="\_blank">Ann Beattie and Lincoln Perry, “Interview: Lincoln Perry by Ann Beattie,” BOMB. Oct. 1, 2005.</a></li>
+<li><a href="http://uvamagazine.org/articles/women_at_the_university_of_virginia/P2" target="\_blank">Sierra Bellows, Carianne King, Emma Rathbone, "Women at the University of Virginia," University of Virginia Magazine. Spring 2011.</a></li>
+<li><a href="http://www.cavalierdaily.com/article/2016/04/old-cabell-hall-mural-proves-controversial" target="\_blank">Savannah Borders, “Old Cabell Hall Mural Proves Controversial: One Profession Describes Mural as ‘Red Dot,’” The Cavalier Daily. April 4, 2016.</a></li>
+<li><a href="http://www.slate.com/blogs/xx_factor/2016/04/26/lincoln_perry_s_mural_in_old_cabell_hall_inspires_a_teaching_moment_about.html" target="\_blank">Nora Caplan-Bricker, “Can a ‘Teaching Moment’ Over a Sexist Artwork Really Combat Rape Culture at UVA?” Slate. April 26, 2016.</a></li>
+<li><a href="http://voicesandvisibilityuva.org/about-these-portraits/women-at-uva-history/" target="\_blank">Kimberly Diana Jacobs, "Quotas and the Status Quo: Women at UVA," (Re)Imagining Women in STEM.</a>.</li>
+<li><a href="https://news.virginia.edu/content/old-cabell-hall-mural-expands-encompass-lifetime-learning" target="\_blank">Jane Ford, “Old Cabell Hall Mural Expands to Encompass a Lifetime of Learning,” UVA Today. Nov. 27, 2012.</a></li>
+<li><a href="http://www.slate.com/blogs/xx_factor/2014/11/25/uva_gang_rape_allegations_in_rolling_stone_not_surprising_to_one_associate.html" target="\_blank">Bonnie Gordon, “The UVA Gang Rape Allegations Are Awful, Horrifying,and Not Shocking at All,” Slate. Nov. 25, 2014.</a></li>
+<li><a href="http://www.businessinsider.com/mural-on-uvas-campus-appears-to-depict-professors-affair-with-student-2014-11" target="\_blank">Peter Jacobs, “A Prominent Mural on UVA’s Campus Appears to Depict a Professor’s Affair with a Student,” Business Insider. Nov. 26, 2014. </a></li>
+<li><a href ="https://content.law.virginia.edu/news/201709/john-lowe-67-hero-coeducation-uva" target="\_blank">Jane Kelly, “John Lowe ’67: A Hero of Coeducation at UVA,” University of Virginia School of Law. Sept. 29, 2017.</a></li>
+<li><a href="http://www.jstor.org.proxy01.its.virginia.edu/stable/pdf/4316017.pdf?refreqid=excelsior%3Af636614581d1d2048dc4a7b678e6d5d4" target="\_blank">Amy McCandless, “Maintaining the Spirit and Tone of Robust Manliness: The Battle against Coeducation at Southern Colleges and Universities, 1890-1940,” NWSA Journal. University of Johns Hopkins Press. Spring 1990.</a></li>
+<li><a href="https://explore.lib.virginia.edu/exhibits/show/uvawomen" target="\_blank">Larissa Mehmet, "Breaking and Making Tradition: Women at the University of Virginia," University of Virginia Special Collections Exhibit. 2003.</a></li>
+<li><a href="http://www.virginia.edu/woodson/projects/kenan/jackson/jackson.html" target="\_blank">Priya N. Parker, "Alice Carlotta Jackson: First African American to Apply to U. Va. (1935)."</a></li>
+<li><a href="http://www.virginia.edu/woodson/projects/kenan/scott/scott.html" target="\_blank">Priya N. Parker, "Virginia Anne Scott: Challenges the University's Admission Policy on Coeducation (1969)."</a></li>
+<li><a href="https://www.campusreform.org/?ID=7452" target="\_blank">Rob Shimshock, “UVA Forms Committee to Address ‘Problematic’ ‘Party Culture’ Mural,” Campus Reform. April 6, 2016.</a></li>
+<li><a href="https://ead.lib.virginia.edu/vivaxtf/view?docId=uva-sc/viu03705.xml" target="\_blank">Special Collections Staff, "A Guide to the Papers of Alice Jackson Stuart, 1913-2001," Special Collections, University of Virginia Library. 2003. Web.</a>.</li>
+<li><a href="http://www.cavalierdaily.com/article/2017/10/smith-remove-the-mural-in-old-cabell" target="\_blank">Katherine Smith, “SMITH: Remove the Mural in Old Cabell: ‘The Students’ Progress’ Reflects Poorly on U.Va.’s Values,” The Cavalier Daily. Oct. 16, 2017.</a></li>
+<li><a href="http://www.newsplex.com/home/headlines/Old-Cabell-Hall-mural-controversy-374316341.html" target="\_blank">Courteney Stuart, “Old Cabell Hall Mural Controversy,”</a></li>
+<li><a href="http://takeback.scholarslab.org" target="\_blank">Take Back the Archive.</a></li>
+<li><a href="https://www.youtube.com/watch?v=TqS1UMHJcV4" target="\_blank">“The Murals of Lincoln Perry,” Parts 1-3. Video series on Youtube</a></li>
+<li><a href="http://lincolnperry.com/UVa/UVa1.htm" target="\_blank">“The Mural at the University of Virginia”</a></li>
 </ul>

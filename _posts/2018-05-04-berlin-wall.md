@@ -8,7 +8,9 @@ image:
   feature:
   teaser: Berlin01.jpg
   thumb:  Berlin01.jpg
+permalink: /berlin-wall
 ---
+
 
 <style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
 <figure>
@@ -38,7 +40,7 @@ Another example of a project is the Tilt Brush tool developed by the *NOVALIS VR
 <iframe width="640" height="480" src="https://poly.google.com/view/boKpfklac1b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
 
-For *UVA Reveal*, we decided to explore the history and the aftermath of the fall of the Berlin Wall through virtual augmentation. The augmentations highlight the public protests that ultimately brought down the wall, the speeches by Presidents Reagan and Kennedy, and the status of the wall in the present day. The last is perhaps most striking. An interactive map published in the article <a href="https://interactive.guim.co.uk/embed/lhaddou/berlin-wall/wallworld.html">“Where on Earth is the Berlin Wall?”</a> on *The Guardian* lists almost all the locations across the world where sections of the Berlin Wall are currently installed. Brightly and gaily graffitied fragments of the Berlin Wall link disparate places on the globe in remembrance and recognition of the strength required to pull down walls that divide and fracture.
+For *UVA Reveal*, we decided to explore the history and the aftermath of the fall of the Berlin Wall through virtual augmentation. The augmentations highlight the public protests that ultimately brought down the wall, the speeches by Presidents Reagan and Kennedy, and the status of the wall in the present day. The last is perhaps most striking. An interactive map published in the article <a href="https://interactive.guim.co.uk/embed/lhaddou/berlin-wall/wallworld.html" target="\_blank">“Where on Earth is the Berlin Wall?”</a> on *The Guardian* lists almost all the locations across the world where sections of the Berlin Wall are currently installed. Brightly and gaily graffitied fragments of the Berlin Wall link disparate places on the globe in remembrance and recognition of the strength required to pull down walls that divide and fracture.
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/56V6r2dpYH8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -51,3 +53,15 @@ For *UVA Reveal*, we decided to explore the history and the aftermath of the fal
 </figure>
 
 So, what does it mean for such an artifact to stand on the grounds of the University of Virginia today? We leave the interpretation of our augmentation of the Berlin Wall open to the viewer. We only hope that it allows the viewer to perceive and recognize the familiar and mundane space around them as vitally dynamic and continuously challenging.
+
+## Works Cited
+
+* [Kennedy, John F. “Ich bin ein Berliner Speech”. National Archives. June 26, 1963.](www.millercenter.org/the-presidency/presidential-speeches/june-26-1963-ich-bin-ein-berliner-speech)
+
+Oltermann, Philip. “Where on earth is the Berlin wall?” The Guardian. Oct 28, 2014. <www.theguardian.com/cities/2014/oct/28/-sp-where-on-earth-berlin-wall-25-years-fall>
+
+Reagan, Ronald. “Address from the Brandenburg Gate (Berlin Wall)”. National Archives. June 12, 1987. <www.millercenter.org/the-presidency/presidential-speeches/june-12-1987-address-brandenburg-gate-berlin-wall>
+
+Rosario, Miguelangelo. “Novalis VR Project Berlin”. Google Poly. Nov 17, 2017. <www.poly.google.com/view/boKpfklac1b>
+
+“The Berlin Wall in 3D”. Berlin Business Location Center. <www.youtube.com/watch?v=vDDxeJLos6s>

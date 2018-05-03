@@ -1,6 +1,6 @@
 ---
-layout: article
-title: 
+layout: augmented-locations
+title:
 date: 2018-04-04 15:22
 modified: 2018-04-04 15:22
 excerpt: French Department
@@ -9,6 +9,7 @@ image:
   feature:
   teaser: robida-rabelais-3.jpg
   thumb: robida-rabelais-3.jpg
+permalink: /french-department
 ---
 
 <style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
@@ -39,7 +40,7 @@ Augmented Reality offers new ways of connecting a fragmented world. By augmentin
 By pulling three, seemingly random, French artists, spanning a period from Renaissance to post-modernity, and blending their work with the physical space of the French Department at UVA, we hope to offer a glimpse of France’s rich cultural background, albeit presented through our personal lens and research interests. The project, however, should not end with this contribution. We extend the invitation to our colleagues in the French Department and in all other departments at UVA to collaborate, keep adding materials, and build more augmented sites. In so doing, we will continually ignite the curiosity and desire of future students for further exploration in the stacks, in a course offering, or directly in France, the Francophone world, and beyond.  
 
 
-### 1. Rabelais 
+### 1. Rabelais
 <figure>
   <img src="/images/Rabelais.jpg" alt="Rabelais Poster">
   <figcaption>Trigger image for the augmentation of <em>Le Quart Livre</em></figcaption>
@@ -53,7 +54,7 @@ By pulling three, seemingly random, French artists, spanning a period from Renai
 
  This episode, known as the “Paroles Gelées” (Frozen Words), sets the tone for the augmentation of the French Department as it offers an entry point to reflect on Augmented Reality, albeit anachronistically. Indeed, digitally reproduced artifacts, combined with location-based metadata, and displayed in physical spaces through Augmented Reality techniques, make us aware that places are not devoid of content. The world is a huge recording device for all sorts of major historical events, or infra-ordinary mundane events, inscribed in its tissue.  
 
- Strangely enough, Rabelais’ episode of Frozen Words resonates with Charles Babbage’s hypothesis of the world being “one vast library.” British luminary scientist of the Victorian era and one –of the many– fathers of the computer, Babbage set out from the principle of the “equality between action and reaction” to demonstrate that <a href="http://www.victorianweb.org/science/science_texts/bridgewater/b9.htm" target="_blank">“[n]o motion impressed by natural causes, or by human agency, is ever obliterated.”</a>  
+ Strangely enough, Rabelais’ episode of Frozen Words resonates with Charles Babbage’s hypothesis of the world being “one vast library.” British luminary scientist of the Victorian era and one –of the many– fathers of the computer, Babbage set out from the principle of the “equality between action and reaction” to demonstrate that <a href="http://www.victorianweb.org/science/science_texts/bridgewater/b9.htm" target="\_blank">“[n]o motion impressed by natural causes, or by human agency, is ever obliterated.”</a>  
 
  Whether we accept Charles Babbage’s claim or not, the technological milieu we are living in is saturated with recording devices, sensors and smart objects, constantly storing information in the cloud. Babbage’s intuition then strikes home:     
 
@@ -64,10 +65,10 @@ Now, if the prospect of listening to “whole handfuls of frozen words” in a u
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVd6LnoQ1Pw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <figcaption>
- The few pages shown here are chapters LV and LVI from the 1552 edition of Rabelais’s <a href="http://search.lib.virginia.edu/catalog/uva-lib:770691#?c=0&m=0&s=0&cv=13&xywh=75%2C572%2C1437%2C1775" target="_blank"><em>Le Quart Livre.</em></a>Rabelais’s original edition is read by French contemporary author <a href="http://www.tierslivre.net" target="_blank">François Bon</a> who has lent his voice to the entirety of Rabelais’ five books.</figcaption>
+ The few pages shown here are chapters LV and LVI from the 1552 edition of Rabelais’s <a href="http://search.lib.virginia.edu/catalog/uva-lib:770691#?c=0&m=0&s=0&cv=13&xywh=75%2C572%2C1437%2C1775" target="\_blank"><em>Le Quart Livre.</em></a>Rabelais’s original edition is read by French contemporary author <a href="http://www.tierslivre.net" target="\_blank">François Bon</a> who has lent his voice to the entirety of Rabelais’ five books.</figcaption>
 </figure>
 
-     
+
 
 
 ### 2. Luc Ferrari   
@@ -86,93 +87,94 @@ An ear attuned to the world, as Rabelais has shown, doesn’t always find meanin
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h4lz3BhmYzQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<figcaption>This video contains excerpts from <a href="http://ubu.com/film/ferrari_presque.html" target="_blank">Jacqueline Caux’s & Olivier Pascal’s movie</a> <em>Presque Rien Avec Luc Ferrari</em> (2005) and serves as an introduction to the artist in his own words.</figcaption>
-</figure> 
+<figcaption>This video contains excerpts from <a href="http://ubu.com/film/ferrari_presque.html" target="\_blank">Jacqueline Caux’s & Olivier Pascal’s movie</a> <em>Presque Rien Avec Luc Ferrari</em> (2005) and serves as an introduction to the artist in his own words.</figcaption>
+</figure>
 
-After this brief interlude here is the most important piece of the installment on Ferrari:<a href="http://lucferrari.com/wp-content/uploads/2017/04/Chantal__Luc-Ferrari.pdf" target="_blank"><em>Chantal, ou le portrait d’une villageoise”</em> (Chantal, or the portrait of a village woman).</a>  
+After this brief interlude here is the most important piece of the installment on Ferrari:<a href="http://lucferrari.com/wp-content/uploads/2017/04/Chantal__Luc-Ferrari.pdf" target="\_blank"><em>Chantal, ou le portrait d’une villageoise”</em> (Chantal, or the portrait of a village woman).</a>  
 
 The piece was recorded by Luc and Brunhild Ferrari in the summer of 1976, but not released until 2009. While vacationing in the small village of Tuchan in Corbières, Luc and his wife Brunhild met and interviewed many of the village’s “libre penseurs” (free thinkers), among them Chantal, a fierce young woman with a disarming sense of honesty and charm. Probed by Luc’s and Brunhild’s questions, Chantal opened up about her hardships, views on politics, isolation in a remote village in the South of France, and her search for emancipation. Their conversation would become legendary.  
 
-In the context of this project, Chantal’s portrait adds to the female voices we have chosen to amplify, and offers a different perspective to Lincoln Perry’s female character, Shannon, depicted on <a href="http://reveal.scholarslab.org/mural/" target="_blank">the mural of Old Cabell Hall</a>.  
+In the context of this project, Chantal’s portrait adds to the female voices we have chosen to amplify, and offers a different perspective to Lincoln Perry’s female character, Shannon, depicted on <a href="http://reveal.scholarslab.org/mural/" target="\_blank">the mural of Old Cabell Hall</a>.  
 
 Unlike Shannon’s fictionalized and rather muted but successful progress in life, Chantal speaks for herself, albeit disillusioned concerning the power of words to convey a complete portrait of her. “Tu me demandes des mots, c’est tout. C’est pas tellement les mots qui comptent dans la vie. Les mots c’est facile, c’est tout.” (You ask me for words, that’s all. Words are not the only things that count in life. Words are easy, that’s all.)
 
 The following clips are taken from the original recording, and are presented with a little note in English for non-Francophone speakers.   
- 
+
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008052&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption>1. Chantal introduces herself</figcaption>
-<figure>
-Chantal introduces herself. She moved to Tuchan three years ago with her husband Alain Busquet, a construction worker. Chantal is no stranger to the region; she grew up in a family of wine growers a few kilometers away from Tuchan. She is 22 years old and the mother of a young child.
+<figcaption><strong>1. Chantal introduces herself. </strong>
+Chantal introduces herself. She moved to Tuchan three years ago with her husband Alain Busquet, a construction worker. Chantal is no stranger to the region; she grew up in a family of wine growers a few kilometers away from Tuchan. She is 22 years old and the mother of a young child.</figcaption>
+</figure>
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008049&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption>2. Chantal drops out of School</figcaption>
-</figure>
-Chantal's unexpected pregnancy threw off her plans of getting a secretarial diploma. Her decision to keep the child, get married to Alain and move in with him, was made under a lot of pressure and seemed like the only possibility. The outcome, however, hasn't made her particularly happy.   
+<figcaption><strong>2. Chantal drops out of School. </strong>Chantal's unexpected pregnancy threw off her plans of getting a secretarial diploma. Her decision to keep the child, get married to Alain and move in with him, was made under a lot of pressure and seemed like the only possibility. The outcome, however, hasn't made her particularly happy.</figcaption>
+</figure>   
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008046&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption>3. Chantal's love life</figcaption>
+<figcaption><strong>3. Chantal's love life. </strong>Chantal started dating boys of her age when she was 14 years old. It was just flirting. The first serious relationship was with Alain, now her husband. She regrets not having met more men before getting married,which she compensates for by meeting them now that she is married. Alain is aware of this. Cheating often gets messy with lies. Is it even cheating if you are open about it?</figcaption>
 </figure>
-Chantal started dating boys of her age when she was 14 years old. It was just flirting. The first serious relationship was with Alain, now her husband. She regrets not having met more men before getting married,which she compensates for by meeting them now that she is married. Alain is aware of this. Cheating often gets messy with lies. Is it even cheating if you are open about it?  
+
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008040&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption>>4. Chantal's political views</figcaption>
+<figcaption><strong>4. Chantal's political views. </strong>Chantal’s political views are very liberal. She believes that the system is corrupt and needs to change. What’s the alternative? Collectivism. Abolition of private property. No ownership over things or people. Equality and honesty are the values society should strive for. </figcaption>
 </figure>
-Chantal’s political views are very liberal. She believes that the system is corrupt and needs to change. What’s the alternative? Collectivism. Abolition of private property. No ownership over things or people. Equality and honesty are the values society should strive for.  
+
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008037&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption>5. Hard to find the words to talk about yourself</figcaption>
+<figcaption><strong>5. Hard to find the words to talk about yourself. </strong>Chantal is frustrated by having constantly to search for words to paint her portrait. She has never been interviewed before. Overwhelmed by Luc’s questions, she finds it hard to articulate all the aspects of her life, all at once.</figcaption>
 </figure>
-Chantal is frustrated by having constantly to search for words to paint her portrait. She has never been interviewed before. Overwhelmed by Luc’s questions, she finds it hard to articulate all the aspects of her life, all at once.  
+
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008034&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption>6. Life in the village makes you feel small</figcaption></figure>
-Life in the village doesn’t have much to offer Chantal. Besides watching TV at night and being ill-informed about current affaires, she feels small and excluded. In the city, at least one can go out and meet other people, find one's peers and a sense of community.    
+<figcaption><strong>6. Life in the village makes you feel small. </strong>Life in the village doesn’t have much to offer Chantal. Besides watching TV at night and being ill-informed about current affaires, she feels small and excluded. In the city, at least one can go out and meet other people, find one's peers and a sense of community.</figcaption></figure>
+
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008028&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption>7. Work, money, unemployment</figcaption>
+<figcaption><strong>7. Work, money, unemployment. </strong>Chantal refuses to work at a job she doesn’t like. What are the options anyway? Working as a cleaning lady? She prefers her leisure time and a frugal life. Content with less, she has no desire to become a spoiled house-owner one day.</figcaption>
 </figure>
-Chantal refuses to work at a job she doesn’t like. What are the options anyway? Working as a cleaning lady? She prefers her leisure time and a frugal life. Content with less, she has no desire to become a spoiled house-owner one day.  
+
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008022&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption>8. Painting</figcaption>
+<figcaption><strong>8. Painting </strong>Given a reproduction of Picasso’s “Guernica” in Chantal’s kitchen, Luc Ferrari asks her if she likes painting. Not particularly, she retorts. She just liked this painting, but she gets upset when she is asked to explain why.</figcaption>
 </figure>
-Given a reproduction of Picasso’s “Guernica” in Chantal’s kitchen, Luc Ferrari asks her if she likes painting. Not particularly, she retorts. She just liked this painting, but she gets upset when she is asked to explain why.   
+
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008016&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption>9. Words</figcaption>
-</figure>
-This is a recurrent theme in Chantal’s interview. Words alone are not enough. Words are sporadic impressions that don’t give a whole, rounded image of a person’s ethos. “You ask me for words, she says, that’s all. Words are not the only things that count in life. Words are easy, that’s all.”  
+<figcaption><strong>9. Words. </strong>
+This is a recurrent theme in Chantal’s interview. Words alone are not enough. Words are sporadic impressions that don’t give a whole, rounded image of a person’s ethos. “You ask me for words, she says, that’s all. Words are not the only things that count in life. Words are easy, that’s all.”</figcaption>
+</figure>  
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008010&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption>10. Future</figcaption>
+<figcaption><strong>10. Future. </strong>Chantal’s vision for her immediate future is dim. She would like to leave Tuchan and start over elsewhere, in a bigger place ideally, but given her situation, none of this is expected to happen.</figcaption>
 </figure>
-Chantal’s vision for her immediate future is dim. She would like to leave Tuchan and start over elsewhere, in a bigger place ideally, but given her situation, none of this is expected to happen.  
+
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008007&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption>11. Complex of inferiority</figcaption>
+<figcaption><strong>11. Complex of inferiority. </strong>
+Chantal is in awe of Luc and Brunhild. She sees them as intellectuals from Paris who master their language and twist the meanings of words to conceal things. She feels incapable of doing that and thus, a fraud.
+</figcaption>
 </figure>
-Chantal is in awe of Luc and Brunhild. She sees them as intellectuals from Paris who master their language and twist the meanings of words to conceal things. She feels incapable of doing that and thus, a fraud.   
+
 
 <figure>
 <iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008004&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<figcaption>12. “Why me?”</figcaption>
+<figcaption><strong>12. “Why me?” </strong>In the same vein with the previous clip, Chantal here expresses her reservation about the whole project. Despite her interviewers’ good intentions to give her voice an avenue to be heard, she questions what about her voice and perspective is so microphone worthy?</figcaption>
 </figure>
-In the same vein with the previous clip, Chantal here expresses her reservation about the whole project. Despite her interviewers’ good intentions to give her voice an avenue to be heard, she questions what about her voice and perspective is so microphone worthy?  
+
 
 By now, the interview is almost over. For the remaining ten minutes the microphone runs almost without anyone really noticing it. Brunhild and Chantal have a more relaxed, in-depth conversation about love, being in a relationship, and friendship. “Do you have a friend to talk about these things?” she says. “There are things I can’t even admit to myself,” Chantal answers.  
 
-Chantal, today in her sixties, still lives in Tuchan. She works at a local wine company and is actively involved in politics as member of the city council. She has married twice since Alain, with men she cared more about. Today, she lives with her third husband. For about fifteen years, since their sex life went from scarce to non-existent, she has been seeing another man. “J’aime ma liberté sexuelle,” said to <a href="http://www.revue-et-corrigee.net/?v=wwh&a=2014&n=6" target="_blank">Carole Rieussec in an interview in 2014</a>, “you can make a note of that.”
+Chantal, today in her sixties, still lives in Tuchan. She works at a local wine company and is actively involved in politics as member of the city council. She has married twice since Alain, with men she cared more about. Today, she lives with her third husband. For about fifteen years, since their sex life went from scarce to non-existent, she has been seeing another man. “J’aime ma liberté sexuelle,” said to <a href="http://www.revue-et-corrigee.net/?v=wwh&a=2014&n=6" target="\_blank">Carole Rieussec in an interview in 2014</a>, “you can make a note of that.”
 
 
 ### 3. Georges Perec
@@ -181,7 +183,7 @@ Chantal, today in her sixties, still lives in Tuchan. She works at a local wine 
   <figcaption>Trigger image for the augmentation of <em>Tentative d'épuisement d'un lieu parisien</em></figcaption>
 </figure>
 
-To close this augmented reality experiment in the French Department, we chose another experimental work in alignment with Luc Ferrari’s approach of recording the the world as it is. “I am not always involved with narrative. [...] I am interested to see what happens when time passes,” Ferrari said in <a href="http://econtact.ca/10_2/FerrariLu_Palmer.html" target="_blank">an interview with John Palmer in 1999</a>. 
+To close this augmented reality experiment in the French Department, we chose another experimental work in alignment with Luc Ferrari’s approach of recording the the world as it is. “I am not always involved with narrative. [...] I am interested to see what happens when time passes,” Ferrari said in <a href="http://econtact.ca/10_2/FerrariLu_Palmer.html" target="\_blank">an interview with John Palmer in 1999</a>.
 
 Georges Perec’s work *An Attempt At Exhausting A Place In Paris* is itself a record of “what happens when nothing happens.” It consists of an attentional exercise: observe and make a note of everything that happens within the field of vision. Georges Perec carried out the experiment over three days at the place Saint-Sulpice in Paris. The approximately 50 printed pages that resulted read like a log, or a police report, only there is no crime - other than killing time.  
 
@@ -191,5 +193,5 @@ Since its publication 1975, *An Attempt At Exhausting A Place In Paris* has been
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Q0Fa4i6y9w?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<figcaption>The original movie <a href="https://search.lib.virginia.edu/catalog/u6897878" target="_blank">available at UVa</a> doesn’t have subtitles. By adding them, we hope to highlight the 30-year lag between the text and the image.</figcaption>
+<figcaption>The original movie <a href="https://search.lib.virginia.edu/catalog/u6897878" target="\_blank">available at UVa</a> doesn’t have subtitles. By adding them, we hope to highlight the 30-year lag between the text and the image.</figcaption>
 </figure>

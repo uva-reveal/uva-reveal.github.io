@@ -2,15 +2,24 @@
 
 - title: About
   url: /about
-  excerpt:
-  image:
+  
+- title: Augmented Locations
+  url: /augmented-locations/
+  children: 
+    - title: Berlin Wall
+      url: /berlin-wall/
+    - title: Cemetery
+      url: /cemetery/
+    - title: French Departement
+      url: /french-department/
+    - title: Old Cabell Hall Mural 
+      url: /old-cabell-hall-mural/ 
+    - title: Rotunda 
+      url: /rotunda-the-public-face-of-a-public-university/
 
+- title: Alternative Archival Search
+  url: /searchengine
+  
 - title: Who We Are
   url: /who
-  excerpt:
-  image:
-
-- title: Documentation & Support
-  url: /support
-  excerpt:
-  image:
+  
