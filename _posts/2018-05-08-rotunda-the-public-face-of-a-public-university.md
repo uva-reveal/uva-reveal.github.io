@@ -1,9 +1,9 @@
 ---
 layout: article
-title: The Rotunda at the University of Virginia
+title: Rotunda, The Public Face of A University
 date: 2018-04-04 15:22
 modified: 2018-04-04 15:22
-excerpt: Rotunda
+excerpt:
 image:
   feature:
   teaser: UVA_Rotunda.jpg
@@ -12,29 +12,31 @@ image:
 <style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="800" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="PraxisMap" src="https://uvalibrary.maps.arcgis.com/apps/Embed/index.html?webmap=cd441159531b40eeb560cc8bd82e3126&extent=-78.502629,38.036887,-78.504629,38.034887"></iframe></div>
 
 
-## The Public Face of a Public University
-
 ### History of the Rotunda
 Perhaps the most iconic building at the University of Virginia is the Rotunda, which stands as the centerpiece of Thomas Jefferson’s Academic Village.
 
 
-![Jefferson’s design of the Academic Village at UVA, January-February 1825](/images/AcademicVillageDesign.jpg "Jefferson's Design of the Academic Village")
-
-Image 1: Jefferson’s design of the Academic Village at UVA, January-February 1825
+<figure>
+<img src="/images/AcademicVillageDesign.jpg" alt="Jefferson's Design of the Academic Village">
+<figcaption>Image 1: Jefferson’s design of the Academic Village at UVA, January-February 1825</figcaption>
+</figure>
 
 Jefferson designed the Rotunda and proposed his design to the Board of Visitors in 1821. Construction began in 1822 and was completed in 1826, though the steps leading up to the South Portico were not built until 1832.
 Inspired by classical architecture, Jefferson used the Pantheon in Rome as a model.
 
+<figure>
+<img src="/images/PantheonRotundaComparison.jpg" alt="Comparison of the Roman Pantheon and Rotunda">
+<figcaption>Image 2: Comparison of the ground plans of the Pantheon in Rome (left) and Thomas Jefferson's Rotunda of the University of Virginia (middle: ground floor, right: dome room). The plan of the Pantheon is the one by Andrea Palladio in its reprint by Giocomo Leoni-—i.e. the plan that Thomas Jefferson had access to while designing the Rotunda.</figcaption>
+</figure>
 
-![alt text](/images/PantheonRotundaComparison.jpg "Comparison of the Roman Pantheon and Rotunda")
-
-Image 2: Comparison of the ground plans of the Pantheon in Rome (left) and Thomas Jefferson's Rotunda of the University of Virginia (middle: ground floor, right: dome room). The plan of the Pantheon is the one by Andrea Palladio in its reprint by Giocomo Leoni-—i.e. the plan that Thomas Jefferson had access to while designing the Rotunda.
 
 On October 27, 1895, the Rotunda caught fire, most likely due to faulty electrical wiring (which was installed in 1888). Unable to subdue the fire, students and faculty rushed to save books and other objects – including the heavy statue of Jefferson inside the Rotunda – from the flames.
 
-![alt text](/images/RotundaFire.jpg "1895 Rotunda Fire")
+<figure>
+<img src="/images/RotundaFire.jpg" alt="1895 Rotunda Fire">
+<figcaption>Image 3: The 1895 Rotunda Fire. Rufus Hollinger took this iconic black-and-white photograph of the 1895 Rotunda fire. Hollinger’s studio was on West Main Street; when he learned of the fire, he raced to grab his heavy equipment and transport it to the Lawn. By the time he arrived, the flames weren’t really visible, and the roof had collapsed. So he took a glass plate photo and later scratched flames into the plate, making it look like the Rotunda was still burning fiercely. See [Period Pieces](http://uvamagazine.org/articles/period_pieces) for more information.</figcaption>
+</figure>
 
-Image 3: The 1895 Rotunda Fire. Rufus Hollinger took this iconic black-and-white photograph of the 1895 Rotunda fire. Hollinger’s studio was on West Main Street; when he learned of the fire, he raced to grab his heavy equipment and transport it to the Lawn. By the time he arrived, the flames weren’t really visible, and the roof had collapsed. So he took a glass plate photo and later scratched flames into the plate, making it look like the Rotunda was still burning fiercely. See [Period Pieces](http://uvamagazine.org/articles/period_pieces) for more information.
 
 In 1896, the Rotunda was redesigned by Stanford White. [According to the UVA Rotunda Preservation Committee](http://rotunda.virginia.edu/history) : “Jefferson had designed the Rotunda with three floors, and Stanford White changed it to two floors, making the Dome Room much bigger. White sought to merge Jefferson’s design with the University’s needs, which still included using the Rotunda largely as a library. He also designed east and west wings on the north side of the building, to match the south wings, and he connected the wings with colonnades. He designed the Rotunda with central heating and a mechanized ventilation system.  While the central heat was retained, the ventilation system was scrapped because of cost." The Rotunda was rededicated in 1898.
 
@@ -43,29 +45,34 @@ The Rotunda has been restored several times since the fire, including in 1976 fo
 ### Famous Events and Visitors
 The Rotunda has been host to numerous events and countless visitors. Notable among these are Gertrude Stein,  Eleanor and Franklin D. Roosevelt, Queen Elizabeth the II, and the Dalai Lama. To see images (primarily from UVA’s Special Collections) showing some of these famous events and visitors, please view the below video:
 
+<figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0K0lY949sBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<figcaption>Video 1: An image slideshow showcasing pictures of dignitaries and other famous visitors to UVA.</figcaption>
+</figure>
 
 ## Hidden Stories at the University of Virginia
 
 ### Slavery: Foundations of the University
-
 While it may have been inspired by the ideas of Thomas Jefferson, the University of Virginia was built and run by the labor of enslaved African Americans from 1817 until 1865. According to Brendan Wolfe, “Most of the university’s first enslaved laborers were rented from local landowners and worked alongside whites and free blacks in performing all the tasks associated with building what the school’s founder, Thomas Jefferson, called the Academical Village. In March 1825, the first students arrived and African Americans transitioned to working in the pavilions, hotels, and the Rotunda; maintaining classrooms, laboratories, and the library; ringing the bell; and serving the daily needs of students and faculty.”
 
 Wolfe tells the story of “Anatomical” Lewis and Henry Martin, who both served as bell-ringers of the Rotunda’s Medway Bell. Wolfe writes: “Anatomical Lewis, possibly owned by the university as early as 1830 and as late as 1860, assisted the anatomy professor in what the historian Catherine S. Neale has described as ‘a sordid job and poor living conditions,’ making him ‘an outcast of the community.’ The enslaved man Lewis Commodore had been hired out to the university for a number of years when school officials, learning that his master intended to sell him, purchased him on July 18, 1832, for $580. Commodore rang the Rotunda’s so-called Medway Bell, which marked the day’s schedule, until 1847, when the duty passed to Henry Martin, a free black. Beginning in 1834, Commodore also opened the library each morning and tended to lecture rooms, ensuring they were tidy and warm.”
 
+<figure>
+<img src="/images/HenryMartinMedwayBell.jpg" alt="Henry Martin Ringing the Medway Bell">
+<figcaption>Image 4: [Henry Martin](https://www.encyclopediavirginia.org/Martin_Henry_1826-1915#start_entry) ringing the Medway Bell in the UVA Rotunda.</figcaption>
+</figure>
 
-![alt text](/images/HenryMartinMedwayBell.jpg "Henry Martin Ringing the Medway Bell")
-
-Image 4: [Henry Martin](https://www.encyclopediavirginia.org/Martin_Henry_1826-1915#start_entry) ringing the Medway Bell in the UVA Rotunda.
 
 Most enslaved laborers at the University of Virginia were rented from their owners for a set period of time. Wolfe records that “At the height of building, in 1820, the university paid $1,099.08 in hiring fees. In 1821, hired slaves cost the university $1,133.73, while in 1822 that figure dropped to $866.64, and in 1825, as construction was being completed, it fell to $681. On average, the board of visitors paid owners $60 per slave per year, although the particular amounts depended on enslaved men’s ages, physical conditions, and skills.”
 
 ### Institutional Racism
 Prior to the Civil War, many students and even faculty were outspoken about their support for slavery. In 1850, for instance, students founded the Southern Rights’ Association of the University of Virginia. The Southern Rights’ Association drafted a constitution and published 2,500 copies of a pamphlet titled “The Address of the Southern Rights’ Association of the University of Virginia.” This pamphlet proclaimed the association as “united for the purpose of promoting, as far as we may be able, unity of sentiment and concert of action in the slave holding States against our aggressors.”
 
-![alt text](/images/SouthernRightsAssociation.jpg "Southern Rights Association Pamphlet")
+<figure>
+<img src="/images/SouthernRightsAssociation.jpg" alt="Southern Rights Association Pamphlet">
+<figcaption>Image 5: Title page of the pamphlet published by the Southern Rights’ Association of the University of Virginia in 1851.</figcaption>
+</figure>
 
-Image 5: Title page of the pamphlet published by the Southern Rights’ Association of the University of Virginia in 1851.
 
 Numerous professors also promoted pro-slavery ideology. For instance, Professor Basil L. Gildersleeve, who was a professor of Greek and Hebrew at the University of Virginia from 1856 until 1873, published an essay titled “Miscegenation” in the Richmond Examiner on April 18, 1864. In this essay, Gildersleeve argued for the purity of the “white race” and warned against race mixing. He writes: “A jealousy natural to our English blood and fostered by our peculiar system, has prevented the intrusion of mongrels [i.e., individuals of mixed race], even of the third and fourth generations, into the society and the privileges of the white race. In no other part of the world, in which the two races [i.e., “white and black races”] have existed, side by side, has this exclusion been so absolute; and it is to this watchful care, which is so natural, that we keep it up unconsciously, and which is so much to our interest that we take no credit to ourselves for it—it is to this watchful care that we owe the supremacy of the white man on the continent, and that we look down so proudly on the mixed population of Mexico and the twenty-two cross-breeds of Lima.”
 
@@ -78,12 +85,13 @@ Faculty efforts include a multimedia initiative, [Black Fire at UVA](https://bla
 
 The Demographics Research at the University of Virginia has created a “Racial Dot Map” that visualizes the “geographic distribution, population density, and racial diversity of the American people in every neighborhood in the entire country” using information from the 2010 US Census. This map thus displays how segregation is still endemic to the United States and shows how much more work needs to be done.
 
-![alt text](/images/RacialDotMap.png "Charlottesville Racial Dot Map")
+<figure>
+<img src="/images/RacialDotMap.png" alt="Charlottesville Racial Dot Map">
+<figcaption>Image 6: A screenshot of <a href="https://demographics.virginia.edu/DotMap/">"Racial Dot Map"</a> that visually displays how neighborhoods are segregated in Charlottesville.</figcaption>
+</figure>
 
-Image 6: A screenshot of “The Racial Dot Map” that visually displays how neighborhoods are segregated in Charlottesville
 
 ## Works Consulted and Further Reading
-
 “The Address of the Southern Rights’ Association, of the University of Virginia, to the Young Men of the South.” Broadside 1851 .V8, Special Collections, University of Virginia, Charlottesville, Va.
 Black Fire at UVA. Organized by Professors Kevin Jerome Everson and Claudrena N. Harold. Sponsored by UVA’s Office of the Vice Provost of the Arts. 2018. Web <https://blackfireuva.com/>.
 

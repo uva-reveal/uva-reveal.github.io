@@ -2,20 +2,13 @@
 
 - title: About
   url: /about
-  excerpt:
-  image:
-
+  
 - title: Augmented Locations
-  url: /augmented-locations
-  excerpt:
-  image:
-
-- title: Who We are
+  url: /augmented-locations/
+  
+- title: Archive Search
+  url: /searchengine
+  
+- title: Who We Are
   url: /who
-  excerpt:
-  image:
-
-- title: Documentation & Support
-  url: /support
-  excerpt:
-  image:
+  

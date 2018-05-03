@@ -1,6 +1,6 @@
 ---
 layout: article
-title:
+title: 
 date: 2018-04-04 15:22
 modified: 2018-04-04 15:22
 excerpt: French Department
@@ -11,10 +11,16 @@ image:
   thumb: robida-rabelais-3.jpg
 ---
 
-<style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="800" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="PraxisMap" src="https://uvalibrary.maps.arcgis.com/apps/Embed/index.html?webmap=cd441159531b40eeb560cc8bd82e3126&extent=-78.50391,38.0335232,-78.50591,38.0315232"></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
+<figure>
+<div class="embed-container">
+<iframe width="800" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="PraxisMap" src="https://uvalibrary.maps.arcgis.com/apps/Embed/index.html?webmap=cd441159531b40eeb560cc8bd82e3126&extent=-78.50391,38.0335232,-78.50591,38.0315232"></iframe>
+</div>
+<figcaption>
+The Department of French is located on the third floor of New Cabell Hall.
+</figcaption>
+</figure>
 
-
-<link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'><script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
 
 ### About the augmentation of the French Department
 This project is designed for both UVA students and visitors to the French Department. The materials selected for the augmentation are in French, which allows the application to turn into a pedagogical tool in the future. This fact, however, should not limit the experience to only those familiar with the language or interested in learning it. On the contrary, those unfamiliar with French language and culture should not miss the opportunity to explore an unknown territory. Chances are they will benefit from it equally, if not more. The sounds, images, and narratives presented in this project are specifically curated to evade immediate interpretation, whether one speaks French or not.  
@@ -47,7 +53,7 @@ By pulling three, seemingly random, French artists, spanning a period from Renai
 
  This episode, known as the “Paroles Gelées” (Frozen Words), sets the tone for the augmentation of the French Department as it offers an entry point to reflect on Augmented Reality, albeit anachronistically. Indeed, digitally reproduced artifacts, combined with location-based metadata, and displayed in physical spaces through Augmented Reality techniques, make us aware that places are not devoid of content. The world is a huge recording device for all sorts of major historical events, or infra-ordinary mundane events, inscribed in its tissue.  
 
- Strangely enough, Rabelais’ episode of Frozen Words resonates with Charles Babbage’s hypothesis of the world being “one vast library.” British luminary scientist of the Victorian era and one – of the many – fathers of the computer, Babbage set out from the principle of the “equality between action and reaction” to demonstrate that “[n]o motion impressed by natural causes, or by human agency, is ever obliterated.” (Charles Babbage, « Chapter IX. On the permanent Impression of our Words and Actions on the Globe we inhabit », The Victorian Web, http://www.victorianweb.org/science/science_texts/bridgewater/b9.htm.)  
+ Strangely enough, Rabelais’ episode of Frozen Words resonates with Charles Babbage’s hypothesis of the world being “one vast library.” British luminary scientist of the Victorian era and one –of the many– fathers of the computer, Babbage set out from the principle of the “equality between action and reaction” to demonstrate that <a href="http://www.victorianweb.org/science/science_texts/bridgewater/b9.htm" target="_blank">“[n]o motion impressed by natural causes, or by human agency, is ever obliterated.”</a>  
 
  Whether we accept Charles Babbage’s claim or not, the technological milieu we are living in is saturated with recording devices, sensors and smart objects, constantly storing information in the cloud. Babbage’s intuition then strikes home:     
 
@@ -80,7 +86,7 @@ An ear attuned to the world, as Rabelais has shown, doesn’t always find meanin
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h4lz3BhmYzQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<figcaption>This video contains excerpts ftom from <a href="http://ubu.com/film/ferrari_presque.html" target="_blank">Jacqueline Caux’s & Olivier Pascal’s movie</a> <em>Presque Rien Avec Luc Ferrari</em> (2005) and serves as an introduction to the artist in his own words.</figcaption>
+<figcaption>This video contains excerpts from <a href="http://ubu.com/film/ferrari_presque.html" target="_blank">Jacqueline Caux’s & Olivier Pascal’s movie</a> <em>Presque Rien Avec Luc Ferrari</em> (2005) and serves as an introduction to the artist in his own words.</figcaption>
 </figure> 
 
 After this brief interlude here is the most important piece of the installment on Ferrari:<a href="http://lucferrari.com/wp-content/uploads/2017/04/Chantal__Luc-Ferrari.pdf" target="_blank"><em>Chantal, ou le portrait d’une villageoise”</em> (Chantal, or the portrait of a village woman).</a>  
@@ -92,60 +98,82 @@ In the context of this project, Chantal’s portrait adds to the female voices w
 Unlike Shannon’s fictionalized and rather muted but successful progress in life, Chantal speaks for herself, albeit disillusioned concerning the power of words to convey a complete portrait of her. “Tu me demandes des mots, c’est tout. C’est pas tellement les mots qui comptent dans la vie. Les mots c’est facile, c’est tout.” (You ask me for words, that’s all. Words are not the only things that count in life. Words are easy, that’s all.)
 
 The following clips are taken from the original recording, and are presented with a little note in English for non-Francophone speakers.   
+ 
+<figure>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008052&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<figcaption><strong>1. Chantal introduces herself. </strong>
+Chantal introduces herself. She moved to Tuchan three years ago with her husband Alain Busquet, a construction worker. Chantal is no stranger to the region; she grew up in a family of wine growers a few kilometers away from Tuchan. She is 22 years old and the mother of a young child.</figcaption>
+<figure>
 
-- <span class="soundcite" data-id="423008052" data-start="0" data-end="60060" data-plays="1">1. Chantal introduces herself</span>
+<figure>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008049&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<figcaption><strong>2. Chantal drops out of School. </strong>Chantal's unexpected pregnancy threw off her plans of getting a secretarial diploma. Her decision to keep the child, get married to Alain and move in with him, was made under a lot of pressure and seemed like the only possibility. The outcome, however, hasn't made her particularly happy.</figcaption>
+</figure>   
 
-Chantal introduces herself. She moved to Tuchan three years ago with her husband Alain Busquet, a construction worker. Chantal is no stranger to the region; she grew up in a family of wine growers a few kilometers away from Tuchan. She is 22 years old and the mother of a young child.
+<figure>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008046&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<figcaption><strong>3. Chantal's love life. </strong>Chantal started dating boys of her age when she was 14 years old. It was just flirting. The first serious relationship was with Alain, now her husband. She regrets not having met more men before getting married,which she compensates for by meeting them now that she is married. Alain is aware of this. Cheating often gets messy with lies. Is it even cheating if you are open about it?</figcaption>
+</figure>
+  
 
-- <span class="soundcite" data-id="423008049" data-start="0" data-end="111605" data-plays="1">2. Chantal drops out of School</span>
+<figure>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008040&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<figcaption><strong>4. Chantal's political views. </strong>Chantal’s political views are very liberal. She believes that the system is corrupt and needs to change. What’s the alternative? Collectivism. Abolition of private property. No ownership over things or people. Equality and honesty are the values society should strive for. </figcaption>
+</figure>
+ 
 
-Chantal's unexpected pregnancy threw off her plans of getting a secretarial diploma. Her decision to keep the child, get married to Alain and move in with him, was made under a lot of pressure and seemed like the only possibility. The outcome, however, hasn't made her particularly happy.   
+<figure>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008037&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<figcaption><strong>5. Hard to find the words to talk about yourself. </strong>Chantal is frustrated by having constantly to search for words to paint her portrait. She has never been interviewed before. Overwhelmed by Luc’s questions, she finds it hard to articulate all the aspects of her life, all at once.</figcaption>
+</figure>
+  
+
+<figure>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008034&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<figcaption><strong>6. Life in the village makes you feel small. </strong>Life in the village doesn’t have much to offer Chantal. Besides watching TV at night and being ill-informed about current affaires, she feels small and excluded. In the city, at least one can go out and meet other people, find one's peers and a sense of community.</figcaption></figure>
+    
+
+<figure>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008028&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<figcaption><strong>7. Work, money, unemployment. </strong>Chantal refuses to work at a job she doesn’t like. What are the options anyway? Working as a cleaning lady? She prefers her leisure time and a frugal life. Content with less, she has no desire to become a spoiled house-owner one day.</figcaption>
+</figure>
+  
+
+<figure>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008022&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<figcaption><strong>8. Painting </strong>Given a reproduction of Picasso’s “Guernica” in Chantal’s kitchen, Luc Ferrari asks her if she likes painting. Not particularly, she retorts. She just liked this painting, but she gets upset when she is asked to explain why.</figcaption>
+</figure>
+   
+
+<figure>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008016&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<figcaption><strong>9. Words. </strong>
+This is a recurrent theme in Chantal’s interview. Words alone are not enough. Words are sporadic impressions that don’t give a whole, rounded image of a person’s ethos. “You ask me for words, she says, that’s all. Words are not the only things that count in life. Words are easy, that’s all.”</figcaption>
+</figure>  
+
+<figure>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008010&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<figcaption><strong>10. Future. </strong>Chantal’s vision for her immediate future is dim. She would like to leave Tuchan and start over elsewhere, in a bigger place ideally, but given her situation, none of this is expected to happen.</figcaption>
+</figure>
 
 
-- <span class="soundcite" data-id="423008046" data-start="0" data-end="144157" data-plays="1">3. Chantal's love life</span>
+<figure>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008007&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<figcaption><strong>11. Complex of inferiority. </strong>
+Chantal is in awe of Luc and Brunhild. She sees them as intellectuals from Paris who master their language and twist the meanings of words to conceal things. She feels incapable of doing that and thus, a fraud.
+</figcaption>
+</figure>
+   
 
-Chantal started dating boys of her age when she was 14 years old. It was just flirting. The first serious relationship was with Alain, now her husband. She regrets not having met more men before getting married, which she compensates for by meeting them now that she is married. Alain is aware of this. Cheating often gets messy with lies. Is it even cheating if you are open about it?  
+<figure>
+<iframe width="100%" height="200" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423008004&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<figcaption><strong>12. “Why me?” </strong>In the same vein with the previous clip, Chantal here expresses her reservation about the whole project. Despite her interviewers’ good intentions to give her voice an avenue to be heard, she questions what about her voice and perspective is so microphone worthy?</figcaption>
+</figure>
+  
 
-- <span class="soundcite" data-id="423008040" data-start="0" data-end="117691" data-plays="1">4. Chantal's political views</span>
+By now, the interview is almost over. For the remaining ten minutes the microphone runs almost without anyone really noticing it. Brunhild and Chantal have a more relaxed, in-depth conversation about love, being in a relationship, and friendship. “Do you have a friend to talk about these things?” she says. “There are things I can’t even admit to myself,” Chantal answers.  
 
-Chantal’s political views are very liberal. She believes that the system is corrupt and needs to change. What’s the alternative? Collectivism. Abolition of private property. No ownership over things or people. Equality and honesty are the values society should strive for.  
-
-- <span class="soundcite" data-id="423008037" data-start="0" data-end="35895" data-plays="1">5. Hard to find the words to talk about yourself</span>
-
-Chantal is frustrated by having constantly to search for words to paint her portrait. She has never been interviewed before. Overwhelmed by Luc’s questions, she finds it hard to articulate all the aspects of her life, all at once.  
-
-- <span class="soundcite" data-id="423008034" data-start="0" data-end="38899" data-plays="1">6. Life in the village makes you feel small</span>
-
-Life in the village doesn’t have much to offer Chantal. Besides watching TV at night and being ill-informed about current affaires, she feels small and excluded. In the city, at least one can go out and meet other people, find one's peers and a sense of community.    
-
-- <span class="soundcite" data-id="423008028" data-start="0" data-end="157741" data-plays="1">7. Work, money, unemployment</span>
-
-Chantal refuses to work at a job she doesn’t like. What are the options anyway? Working as a cleaning lady? She prefers her leisure time and a frugal life. Content with less, she has no desire to become a spoiled house-owner one day.  
-
-- <span class="soundcite" data-id="423008022" data-start="0" data-end="71529" data-plays="1">8. Painting</span>
-
-Given a reproduction of Picasso’s “Guernica” in Chantal’s kitchen, Luc Ferrari asks her if she likes painting. Not particularly, she retorts. She just liked this painting, but she gets upset when she is asked to explain why.   
-
-- <span class="soundcite" data-id="423008016" data-start="0" data-end="55462" data-plays="1">9. Words</span>
-
-This is a recurrent theme in Chantal’s interview. Words alone are not enough. Words are sporadic impressions that don’t give a whole, rounded image of a person’s ethos. “You ask me for words, she says, that’s all. Words are not the only things that count in life. Words are easy, that’s all.”  
-
-- <span class="soundcite" data-id="423008010" data-start="0" data-end="72209" data-plays="1">10. Future</span>
-
-Chantal’s vision for her immediate future is dim. She would like to leave Tuchan and start over elsewhere, in a bigger place ideally, but given her situation, none of this is expected to happen.  
-
-- <span class="soundcite" data-id="423008007" data-start="0" data-end="47860" data-plays="1">11. Complex of inferiority</span>
-
-Chantal is in awe of Luc and Brunhild. She sees them as intellectuals from Paris who master their language and twist the meanings of words to conceal things. She feels incapable of doing that and thus, a fraud.   
-
-
-- <span class="soundcite" data-id="423008004" data-start="0" data-end="115392" data-plays="1">12. “Why me?”</span>
-
-In the same vein with the previous clip, Chantal here expresses her reservation about the whole project. Despite her interviewers’ good intentions to give her voice an avenue to be heard, she questions what about her voice and perspective is so microphone worthy?     
-
-By now, the interview is almost over. For the remaining ten minutes the microphone runs almost without anyone really noticing it. Brunhild and Chantal have a more relaxed, in-depth conversation about love, being in a relationship, and friendship. “Do you have a friend to talk about these things?” she says. “There are things I can’t even admit to myself,” Chantal answers.      
-
-Chantal, today in her sixties, still lives in Tuchan. She works at a local wine company and is actively involved in politics as member of the city council. She has married twice since Alain, with men she cared more about. Today, she lives with her third husband. For about fifteen years, since their sex life went from scarce to non-existent, she has been seeing another man. “J’aime ma liberté sexuelle,” said to <a href="http://www.revue-et-corrigee.net/?v=wwh&a=2014&n=6" target="blank">Carole Rieussec in an interview in 2014</a>, “you can make a note of that.”
+Chantal, today in her sixties, still lives in Tuchan. She works at a local wine company and is actively involved in politics as member of the city council. She has married twice since Alain, with men she cared more about. Today, she lives with her third husband. For about fifteen years, since their sex life went from scarce to non-existent, she has been seeing another man. “J’aime ma liberté sexuelle,” said to <a href="http://www.revue-et-corrigee.net/?v=wwh&a=2014&n=6" target="_blank">Carole Rieussec in an interview in 2014</a>, “you can make a note of that.”
 
 
 ### 3. Georges Perec
