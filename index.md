@@ -64,12 +64,11 @@ function carousel() {
 <div class="item2"><h3><small>Install the App</small></h3>
 <p><small></small></p> 
 <ul>
-<li><small>Once the app downloaded, go to the Settings > Security on your Android device. Allow installation of apps from unknown sources and click OK.</small></li> 
-<li><small>Open a web browser and download the UVA Reveal APK file here: *X*</small></li> 
-<li><small>When the download is complete, you’ll receive a notification in the Notification Bar. (If you receive a warning that the file could harm your device, tap OK to continue.)</small></li> 
+<li><small>Go to Settings > Security. Allow installation of apps from unknown sources.</small></li> 
+<li><small>Open a web browser and download the UVA Reveal APK file. [LINK]</small></li> 
+<li><small>If you receive a warning that the file could harm your device, tap OK to continue.</small></li> 
 <li><small>Open your apps tray and click on File Manager > Downloads. Select the UVA Reveal APK that you just downloaded and click install.</small></li> 
 <li><small>Open the installed app to use.</small></li>
-
 <li><small><a href="https://www.wikihow.tech/Install-APK-Files-on-Android">More detailed instructions</a>.</small></li>
 </ul>
 </div>
@@ -79,7 +78,7 @@ function carousel() {
 <ul>
 <li>
 <small>
-Once you’ve downloaded and opened the UVA Reveal app, identify an augmented location. Augmented locations are visible on the UVA Reveal Map (available on both the app and on <a href="{{ site.url }}/augmented-locations/" target="_blank">the website</a>).
+Once you’ve downloaded and opened the UVA Reveal app, identify an augmented location. Augmented locations are visible on the UVA Reveal Map (on the app and on <a href="{{ site.url }}/augmented-locations/" target="_blank">the website</a>).
 </small>
 </li>
 <li>
