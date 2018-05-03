@@ -117,36 +117,23 @@ The Demographics Research at the University of Virginia has created a “Racial 
 
 
 
-## Works Consulted and Further Reading
-“The Address of the Southern Rights’ Association, of the University of Virginia, to the Young Men of the South.” Broadside 1851 .V8, Special Collections, University of Virginia, Charlottesville, Va.
-Black Fire at UVA. Organized by Professors Kevin Jerome Everson and Claudrena N. Harold. Sponsored by UVA’s Office of the Vice Provost of the Arts. 2018. Web <https://blackfireuva.com/>.
-
-Black Student Alliance Movement. 2018. Web <https://www.bsaatuva.com/>.
-
-Cable, Dustin. “The Racial Dot Map.” Demographics Research Group at the University of Virginia. July 2013. Web <https://demographics.coopercenter.org/racial-dot-map/>.
-
-Clemmons, Anna Katherine. “Period Pieces: New Book, Exhibits Showcase More of Those Things that Tell UVA’s History.” The University of Virginia Magazine. 2018. Web <http://uvamagazine.org/articles/period_pieces>.
-
-Gildersleeve, Basil L. “Miscegenation,” Examiner. April 18, 1864. Web <https://www.encyclopediavirginia.org/_Miscegenation_by_Basil_L_Gildersleeve_April_18_1864>.
-
-Gravely, Alexis, et al. “An In-Depth Look at the BSA Demands.” The Cavalier Daily. August 31, 2017. Web <http://www.cavalierdaily.com/article/2017/08/an-in-depth-look-at-the-bsa-demands>.
-
-“Meigs Rotunda Plan (1859).” Jefferson’s University. Web <http://juel.iath.virginia.edu/node/250>.
-
-Montes-Bradley, Eduardo. “Unearthed & Understood: Slavery an the University of Virginia.”YouTube, Rector and Visitors of the University of Virginia. 21 Apr. 2017. Web <http://www.youtube.com/watch?v=d_997dhrOtM>.
-
-“President’s Commission on Slavery and the University.” University of Virginia. 2013. Web <http://slavery.virginia.edu/>.
-
-“The Rotunda at the University of Virginia.” University of Virginia. 2018. Web <https://rotunda.virginia.edu/>.
-
-“The Rotunda: History.” University of Virginia. 2018. Web <http://rotunda.virginia.edu/history>.
-
-“Rotunda Reborn: Videos about the Historic Renovation.” Virginia Magazine. Fall 2016. Web <http://digital.uvamagazine.org/articles/rotunda-reborn/videos.php>.
-
-Svrluga, Susan. “UVA Acknowledges Its Slave History.” The Washington Post. June 24, 2015. Web <https://www.washingtonpost.com/news/grade-point/wp/2015/06/24/u-va-acknowledges-its-slave-history/?utm_term=.281948bf7601>.
-
-“Teaching with Historic Places: Visual Evidence.” National Park Service. Web <https://www.nps.gov/nr/twhp/wwwlps/lessons/92uva/92visual2.htm>.
-
-Wolfe, Brendan. “Slavery at the University of Virginia.” Encyclopedia of Virginia. Virginia Foundation for the Humanities, 2 Feb. 2016. Web <https://www.encyclopediavirginia.org/Slavery_at_the_University_of_Virginia>.
-
-Wolfe, Brendan. “Henry Martin (1826–1915).” Encyclopedia Virginia. Virginia Foundation for the Humanities, 15 May. 2017. Web <https://www.encyclopediavirginia.org/Martin_Henry_1826-1915#start_entry>.
+### Works Consulted and Further Reading
+<ul>
+<li>“The Address of the Southern Rights’ Association, of the University of Virginia, to the Young Men of the South.” Broadside 1851 .V8, Special Collections, University of Virginia, Charlottesville, Va.</li>
+<li><a href="ttps://blackfireuva.com/" target="\_blank">Black Fire at UVA. Organized by Professors Kevin Jerome Everson and Claudrena N. Harold. Sponsored by UVA’s Office of the Vice Provost of the Arts. 2018.</a></li>
+<li><a href="https://www.bsaatuva.com/" target="\_blank">Black Student Alliance Movement. 2018.</a></li>
+<li><a href="https://demographics.coopercenter.org/racial-dot-map/" target="\_blank">Cable, Dustin. “The Racial Dot Map.” Demographics Research Group at the University of Virginia. July 2013.</a></li>
+<li><a href="http://uvamagazine.org/articles/period_pieces" target="\_blank">Clemmons, Anna Katherine. “Period Pieces: New Book, Exhibits Showcase More of Those Things that Tell UVA’s History.” <em>The University of Virginia Magazine</em>. 2018.</a></li>
+<li><a href="https://www.encyclopediavirginia.org/_Miscegenation_by_Basil_L_Gildersleeve_April_18_1864" target="\_blank">Gildersleeve, Basil L. “Miscegenation,” <em>Examiner</em>. April 18, 1864.</a></li>
+<li><a href="http://www.cavalierdaily.com/article/2017/08/an-in-depth-look-at-the-bsa-demands" target="\_blank">Gravely, Alexis, et al. “An In-Depth Look at the BSA Demands.” <em>The Cavalier Daily</em>. August 31, 2017.</a></li>
+<li><a href="http://juel.iath.virginia.edu/node/250" target="\_blank">“Meigs Rotunda Plan (1859).” Jefferson’s University.</a></li>
+<li><a href="http://www.youtube.com/watch?v=d_997dhrOtM" target="\_blank">Montes-Bradley, Eduardo. “Unearthed & Understood: Slavery an the University of Virginia.” YouTube, Rector and Visitors of the University of Virginia. 21 Apr. 2017.</a></li>
+<li><a href="http://slavery.virginia.edu/" target="\_blank">“President’s Commission on Slavery and the University.” University of Virginia. 2013.</a></li>
+<li><a href="https://rotunda.virginia.edu/" target="\_blank">“The Rotunda at the University of Virginia.” University of Virginia. 2018.</a></li>
+<li><a href="http://rotunda.virginia.edu/history" target="\_blank">“The Rotunda: History.” University of Virginia. 2018.</a></li>
+<li><a href="http://digital.uvamagazine.org/articles/rotunda-reborn/videos.php" target="\_blank">“Rotunda Reborn: Videos about the Historic Renovation.” <em>Virginia Magazine</em>. Fall 2016.</a></li>
+<li><a href="https://www.washingtonpost.com/news/grade-point/wp/2015/06/24/u-va-acknowledges-its-slave-history/?utm_term=.281948bf7601" target="\_blank">Svrluga, Susan. “UVA Acknowledges Its Slave History.” <em>The Washington Post</em>. June 24, 2015.</a></li>
+<li><a href="https://www.nps.gov/nr/twhp/wwwlps/lessons/92uva/92visual2.htm" target="\_blank">“Teaching with Historic Places: Visual Evidence.” National Park Service.</a></li>
+<li><a href="https://www.encyclopediavirginia.org/Slavery_at_the_University_of_Virginia" target="\_blank">Wolfe, Brendan. “Slavery at the University of Virginia.” <em>Encyclopedia of Virginia</em>. Virginia Foundation for the Humanities, 2 Feb. 2016.</a></li>
+<li><a href="https://www.encyclopediavirginia.org/Martin_Henry_1826-1915#start_entry" target="\_blank">Wolfe, Brendan. “Henry Martin (1826–1915).” <em>Encyclopedia Virginia</em>. Virginia Foundation for the Humanities, 15 May. 2017.</a></li>
+  </ul>
