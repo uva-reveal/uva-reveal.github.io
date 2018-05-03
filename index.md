@@ -48,7 +48,11 @@ function carousel() {
 
 <div class="tile">
   <h2 class="post-title">Install the App</h2>
-<p class="post-excerpt">Go to Settings > Security. Allow installation of apps from unknown sources.</p>
+<p class="post-excerpt">
+<ol>
+<li>Go to Settings > Security. Allow installation of apps from unknown sources.</li>
+</ol>
+</p>
 <p class="post-excerpt">Open a web browser and download the UVA Reveal APK file. [LINK]</p>
 <p class="post-excerpt">If you receive a warning that the file could harm your device, tap OK to continue.</p>
 <p class="post-excerpt">Open your apps tray and click on File Manager > Downloads. Select the UVA Reveal APK that you just downloaded and click install.</p>
@@ -66,6 +70,5 @@ function carousel() {
   <p class="post-excerpt"><strong>On UVA grounds:</strong> visit the augmented sites indicated on the UVA Reveal Map. Once at a site, click the “Reveal” button and point your device’s camera at the augmented object. The augmentations should appear on your device.</p>
   <p class="post-excerpt"><strong>On UVA Reveal website:</strong> use the trigger images of each particular location’s webpage. Click the “Reveal” button and point your device’s camera at the trigger image. The augmentations should appear on your device.</p>
 </div><!-- /.tile -->
-
 
 </div><!-- /.tiles -->
