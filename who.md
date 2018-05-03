@@ -28,7 +28,6 @@ permalink: /who
 </div><!-- /.tile -->
 </div><!-- /.tiles -->
 
-      
 <div class="tiles">
 
 
