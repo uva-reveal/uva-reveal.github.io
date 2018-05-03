@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 permalink: /
 title: ""
 ---
@@ -34,22 +34,35 @@ function carousel() {
 }
 </script>
 
-#### App Description
 
-Our project uses Unity to layer 3D models on images – including university buildings and physical objects – that will enable the viewer to experience the virtual layering of time upon an object. Unity is easily exportable to Android, iOS, and HoloLens platforms, and we have created an app with which our users will be able to engage the AR experience (including the virtual display of text, images, and videos upon physical objects) through their personal devices. In so doing, *UVA Reveal* helps uncover the history of and connections between spaces at the university. To download our app, please visit *X*.
+ <div id="page-wrapper">
+      <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
 
-#### Instructions: How to Download the App
+<div class="tiles">
 
-The UVA Reveal app is available for Android as an Android Package Kit, or APK. To install the UVA Reveal app: 
-1.	Go to the Settings > Security on your Android device. Allow installation of apps from unknown sources and click OK. 
-2.	Open a web browser and download the UVA Reveal APK file here: *X* 
-3.	When the download is complete, you’ll receive a notification in the Notification Bar. (If you receive a warning that the file could harm your device, tap OK to continue.) 
-4.	Open your apps tray and click on File Manager > Downloads. Select the UVA Reveal APK that you just downloaded and click install. 
-5.	Open the installed app to use.
-For instructions that are supplemented with images, please see the <a href="https://www.wikihow.tech/Install-APK-Files-on-Android">WikiHow page</a>.
+<div class="tile">
+  <h2 class="post-title">App Description</h2>
+  <p class="post-excerpt"><strong>UVA Reveal</strong> is built with <a href="https://unity.com/solutions/mobile-ar" target="_blank">Unity</a>. Its goal is to engage the viewer in an Augmented Reality experience uncovering the history and connections between spaces objects and archives on UVA Grounds. The UVA Reveal app is available for Android as an Android Package Kit, or APK. Download the app.[LINK]</p>
+  <p class="post-excerpt"><a href="http://reveal.scholarslab.org/about/" target="_blank">Learn More</a></p>
+</div><!-- /.tile -->
 
-#### Instructions: How to Use the App
+<div class="tile">
+  <h2 class="post-title">Install the App</h2>
+<p class="post-excerpt">Go to Settings > Security. Allow installation of apps from unknown sources.</p> 
+<p class="post-excerpt">Open a web browser and download the UVA Reveal APK file. [LINK]</p> 
+<p class="post-excerpt">If you receive a warning that the file could harm your device, tap OK to continue.</p> 
+<p class="post-excerpt">Open your apps tray and click on File Manager > Downloads. Select the UVA Reveal APK that you just downloaded and click install.</p> 
+<p class="post-excerpt">Open the installed app to use.</p>
+<p class="post-excerpt"><a href="https://www.wikihow.tech/Install-APK-Files-on-Android">More detailed instructions</a>.</p>
+</div><!-- /.tile -->
 
-Once you’ve downloaded and opened the UVA Reveal app (see instructions above), identify a target location (either in person on the UVA grounds or using the trigger images on each webpage). If you are on UVA grounds, you can view the augmented sites by going to the locations indicated on the map that opens in the app. When you point your device’s camera at the augmented object, the augmentations should appear.
+<div class="tile">
+  <h2 class="post-title">Use the App</h2>
+  <p class="post-excerpt">Once you’ve downloaded and opened the UVA Reveal app, identify an augmented location. Augmented locations are visible on the UVA Reveal Map (on the app and on <a href="{{ site.url }}/augmented-locations/" target="_blank">the website</a>).</p> 
+  <p class="post-excerpt">If you are on UVA grounds, you can visit the augmented sites indicated on the UVA Reveal Map. Once at a site, click the “Reveal” button and point your device’s camera at the augmented object. The augmentations should appear on your device.</p> 
+  <p class="post-excerpt">If you are using the UVA Reveal website, use the trigger images at the bottom of each particular location’s webpage. Click the “Reveal” button and point your device’s camera at the trigger image. The augmentations should appear on your device.</p>
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
 
 

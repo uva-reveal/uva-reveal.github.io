@@ -1,6 +1,6 @@
 ---
 title: Augmented Locations on Grounds 
-layout: archive
+layout: article
 ---
 
 {% for post in site.posts reversed %}
