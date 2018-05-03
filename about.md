@@ -3,16 +3,16 @@ title:
 layout: article
 ---
 
-### About the Project
-The 2017-2018 Praxis cohort has moved the material history of UVA out of Special Collections and onto Grounds. Using augmented reality (AR) applications, our project, titled *UVA Reveal: Augmenting the University*, challenges the surface of our perceptions of objects and places. *UVA Reveal* thus explores otherwise hidden stories, histories, and questions surrounding objects and spaces at UVA. In doing so, we hope to prompt users to re-examine everyday environs and critically reflect on the structure, culture, mission, and history of the university. 
+<h3>About the Project</h3>
+<p class="post-excerpt">The 2017-2018 Praxis cohort has moved the material history of UVA out of Special Collections and onto Grounds. Using augmented reality (AR) applications, our project, titled *UVA Reveal: Augmenting the University*, challenges the surface of our perceptions of objects and places. *UVA Reveal* thus explores otherwise hidden stories, histories, and questions surrounding objects and spaces at UVA. In doing so, we hope to prompt users to re-examine everyday environs and critically reflect on the structure, culture, mission, and history of the university.</p> 
 
-### Background of the Project
+<h3>Background of the Project</h3>
 Augmented reality applications are becoming increasingly prevalent in society (witness Pokémon Go) and in the academy. For instance, a DH project titled *The Whole Story* uses an app that allows users to build AR statues of women and place them in the spatial landscape for others to see. By putting women back in the narrative, the app challenges the unequal statuary landscape and its implication that men are the makers of history. The digital spaces created by AR thus assume an openness and mobility that is lacking in physical space,[^footnote] which may be controlled or limited by socio-economic and political reasons. Nonetheless, these spatial boundaries can seemingly be circumvented in digital spaces, and users can move rapidly across zones that they would be unable to otherwise. *UVA Reveal* is thus designed to explore how real spaces can be experienced through changing, mobile technologies that enable spatial and temporal augmentation. 
 The objects of our investigation include both buildings and documents at or connected to UVA, especially documents from the special collections library. 
 
 [^footnote]: We recognize that the same can be said about digital spaces, i.e. firewalls, paying services, language barriers, profile/password credentials, profiles set to private, digital literacy, etc. Our project, however, is open-source and freely available to the public.
 
-### About our process
+<h3>About our process</h3>
 We designed *UVA Reveal: Augmenting the University* as a project that allows the user to reveal layers of meaning and various utilization through cross-platform engagement. Much like the design and thesis of our project, we let the development and implementation process reveal itself to us in various layers.
 
 We began with a shared interest in public-facing digital humanities. We then:

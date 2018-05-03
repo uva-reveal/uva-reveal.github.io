@@ -49,11 +49,11 @@ function carousel() {
 <div class="tile">
   <h2 class="post-title">Install the App</h2>
 <p class="post-excerpt">
-Go to Settings > Security. Allow installation of apps from unknown sources.</p>
-<p class="post-excerpt">Open a web browser and download the UVA Reveal APK file. [LINK]</p>
-<p class="post-excerpt">If you receive a warning that the file could harm your device, tap OK to continue.</p>
-<p class="post-excerpt">Open your apps tray and click on File Manager > Downloads. Select the UVA Reveal APK that you just downloaded and click install.</p>
-<p class="post-excerpt">Open the installed app to use.</p>
+1. Go to Settings > Security. Allow installation of apps from unknown sources.<br>
+2. Open a web browser and download the UVA Reveal APK file. [LINK]<br>
+3. If you receive a warning that the file could harm your device, tap OK to continue.<br>
+4. Open your apps tray and click on File Manager > Downloads. Select the UVA Reveal APK that you just downloaded and click install.<br>
+5. Open the installed app to use.</p>
 <p class="post-excerpt"><a href="https://www.wikihow.tech/Install-APK-Files-on-Android">More detailed instructions</a>.</p>
 </div><!-- /.tile -->
 
