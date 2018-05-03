@@ -13,7 +13,7 @@ title: ""
   <img class="mySlides" src="/images/slide-4.jpg" style="width:100%">
   <img class="mySlides" src="/images/slide-5.jpg" style="width:100%">
 </div>
-<figcaption>Photos by <a href="http://www.acceptable.photography/2018-04-18-praxis" target="_blank">Shane Lin</a> and <a href="https://unsplash.com/search/photos/university-library" target="_blank">Unsplash</a>.</figcaption>
+<figcaption>Photos by <a href="http://www.acceptable.photography/2018-04-18-praxis">Shane Lin</a> and <a href="https://unsplash.com/search/photos/university-library">Unsplash</a>.</figcaption>
 </figure>
 
 
@@ -48,21 +48,19 @@ function carousel() {
 
 <div class="tile">
   <h2 class="post-title">Install the App</h2>
-<p class="post-excerpt">Go to Settings > Security. Allow installation of apps from unknown sources.</p> 
-<p class="post-excerpt">Open a web browser and download the UVA Reveal APK file. [LINK]</p> 
-<p class="post-excerpt">If you receive a warning that the file could harm your device, tap OK to continue.</p> 
-<p class="post-excerpt">Open your apps tray and click on File Manager > Downloads. Select the UVA Reveal APK that you just downloaded and click install.</p> 
+<p class="post-excerpt">Go to Settings > Security. Allow installation of apps from unknown sources.</p>
+<p class="post-excerpt">Open a web browser and download the UVA Reveal APK file. [LINK]</p>
+<p class="post-excerpt">If you receive a warning that the file could harm your device, tap OK to continue.</p>
+<p class="post-excerpt">Open your apps tray and click on File Manager > Downloads. Select the UVA Reveal APK that you just downloaded and click install.</p>
 <p class="post-excerpt">Open the installed app to use.</p>
 <p class="post-excerpt"><a href="https://www.wikihow.tech/Install-APK-Files-on-Android">More detailed instructions</a>.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Use the App</h2>
-  <p class="post-excerpt">Once you’ve downloaded and opened the UVA Reveal app, identify an augmented location. Augmented locations are visible on the UVA Reveal Map (on the app and on <a href="{{ site.url }}/augmented-locations/" target="_blank">the website</a>).</p> 
-  <p class="post-excerpt">If you are on UVA grounds, you can visit the augmented sites indicated on the UVA Reveal Map. Once at a site, click the “Reveal” button and point your device’s camera at the augmented object. The augmentations should appear on your device.</p> 
+  <p class="post-excerpt">Once you’ve downloaded and opened the UVA Reveal app, identify an augmented location. Augmented locations are visible on the UVA Reveal Map (on the app and on <a href="{{ site.url }}/augmented-locations/" target="_blank">the website</a>).</p>
+  <p class="post-excerpt">If you are on UVA grounds, you can visit the augmented sites indicated on the UVA Reveal Map. Once at a site, click the “Reveal” button and point your device’s camera at the augmented object. The augmentations should appear on your device.</p>
   <p class="post-excerpt">If you are using the UVA Reveal website, use the trigger images at the bottom of each particular location’s webpage. Click the “Reveal” button and point your device’s camera at the trigger image. The augmentations should appear on your device.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
-
-

@@ -8,6 +8,7 @@ image:
   feature:
   teaser: Berlin01.jpg
   thumb:  Berlin01.jpg
+permalink: /berlin-wall
 ---
 
 
@@ -55,7 +56,7 @@ So, what does it mean for such an artifact to stand on the grounds of the Univer
 
 ## Works Cited
 
-Kennedy, John F. “Ich bin ein Berliner Speech”. National Archives. June 26, 1963. <www.millercenter.org/the-presidency/presidential-speeches/june-26-1963-ich-bin-ein-berliner-speech>
+* [Kennedy, John F. “Ich bin ein Berliner Speech”. National Archives. June 26, 1963.](www.millercenter.org/the-presidency/presidential-speeches/june-26-1963-ich-bin-ein-berliner-speech)
 
 Oltermann, Philip. “Where on earth is the Berlin wall?” The Guardian. Oct 28, 2014. <www.theguardian.com/cities/2014/oct/28/-sp-where-on-earth-berlin-wall-25-years-fall>
 
@@ -63,5 +64,4 @@ Reagan, Ronald. “Address from the Brandenburg Gate (Berlin Wall)”. National 
 
 Rosario, Miguelangelo. “Novalis VR Project Berlin”. Google Poly. Nov 17, 2017. <www.poly.google.com/view/boKpfklac1b>
 
-“The Berlin Wall in 3D”. Berlin Business Location Center. <www.youtube.com/watch?v=vDDxeJLos6s> 
-
+“The Berlin Wall in 3D”. Berlin Business Location Center. <www.youtube.com/watch?v=vDDxeJLos6s>
