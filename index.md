@@ -49,10 +49,7 @@ function carousel() {
 <div class="tile">
   <h2 class="post-title">Install the App</h2>
 <p class="post-excerpt">
-<ol>
-<li>Go to Settings > Security. Allow installation of apps from unknown sources.</li>
-</ol>
-</p>
+Go to Settings > Security. Allow installation of apps from unknown sources.</p>
 <p class="post-excerpt">Open a web browser and download the UVA Reveal APK file. [LINK]</p>
 <p class="post-excerpt">If you receive a warning that the file could harm your device, tap OK to continue.</p>
 <p class="post-excerpt">Open your apps tray and click on File Manager > Downloads. Select the UVA Reveal APK that you just downloaded and click install.</p>
