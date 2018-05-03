@@ -2,8 +2,10 @@
 title:
 layout: article
 ---
-
 ### About the Project
+
+![group photo](/images/group-photo.jpg)
+
 The 2017-2018 Praxis cohort has moved the material history of UVA out of Special Collections and onto Grounds. Using augmented reality (AR) applications, our project, titled *UVA Reveal: Augmenting the University*, challenges the surface of our perceptions of objects and places. *UVA Reveal* thus explores otherwise hidden stories, histories, and questions surrounding objects and spaces at UVA. In doing so, we hope to prompt users to re-examine everyday environs and critically reflect on the structure, culture, mission, and history of the university.
 
 ### Background of the Project
