@@ -107,5 +107,4 @@ Reagan, Ronald. “Address from the Brandenburg Gate (Berlin Wall)”. National 
 
 Rosario, Miguelangelo. “Novalis VR Project Berlin”. Google Poly. Nov 17, 2017. <www.poly.google.com/view/boKpfklac1b>
 
-“The Berlin Wall in 3D”. Berlin Business Location Center. <www.youtube.com/watch?v=vDDxeJLos6s> 
-
+“The Berlin Wall in 3D”. Berlin Business Location Center. <www.youtube.com/watch?v=vDDxeJLos6s>
