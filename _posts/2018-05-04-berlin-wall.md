@@ -8,6 +8,7 @@ image:
   feature:
   teaser: Berlin01.jpg
   thumb:  Berlin01.jpg
+permalink: /berlin-wall
 ---
 <style>
 #mySidenav a {

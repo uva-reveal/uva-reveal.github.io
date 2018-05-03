@@ -9,6 +9,7 @@ image:
   feature:
   teaser: robida-rabelais-3.jpg
   thumb: robida-rabelais-3.jpg
+permalink: /french-department
 ---
 
 <style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
