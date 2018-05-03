@@ -78,7 +78,11 @@ Women’s colleges and coeducational opportunities were growing in America by th
 
 However, the university did remain open to women in special summer courses. Among the women learning and teaching at UVA in the 1910s was famous artist Georgia O’Keeffe. O’Keeffe enrolled in drawing classes at the University of Virginia in 1912. The very next year, O’Keeffe was teaching her own class at the school. See O’Keeffe’s early paintings of the Rotunda, below:
 
+<figure>
 <img src="/images/okeeffe.jpg" style="max-width:350px;">
+  <figcaption>Image 1: Georgia O'Keeffe's painting of the UVA Rotunda.</figcaption>
+</figure>
+
 
 In 1920, the University of Virginia opened its graduate and professional program to select women. The first female law school graduate was Elizabeth Tompkins, who graduated in 1923. However, when Alice Carlotta Jackson tried to take advantage of this new opportunity in 1935, Alice was denied not because of her gender, but because of her race. Alice was the first known African-American to apply to a graduate school in Virginia. Alice grew up in Richmond, Virginia, and received her BA in English from Virginia Union University. She attempted to enroll in UVA's French Master's Program. The UVA Board of Visitors denied her entrance based on the Jim Crow laws and “other good and sufficient reasons.” Barred from higher education in her home state, Jackson earned her M.A. from Columbia University in New York City. Jackson went on to spend a lifetime teaching and advocating for civil rights. After her passing in 2001, Jackson’s family donated her personal papers to the Special Collections Library at the University of Virginia.
 
