@@ -22,6 +22,32 @@ The Department of French is located on the third floor of New Cabell Hall.
 </figcaption>
 </figure>
 
+<div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title">Trigger Images</h2>
+  <p><a href="/images/trigger_images/Rabelais.jpg"><img src="/images/trigger_images/Rabelais_thumb.jpg" alt="Rabelais Poster"></a></p>
+
+  <p><a href="/images/trigger_images/Ferrari.jpg"><img src="/images/trigger_images/Ferrari_thumb.jpg" alt="Ferrari Poster"></a></p>
+
+  <p><a href="/images/trigger_images/Perec.jpg"><img src="/images/trigger_images/Perec_thumb.jpg" alt="Ferrari Poster"></a></p>
+  
+  <small class="trigger">Click to enlarge.</small>
+  </div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Use the App on UVA grounds</h2>
+  <p class="post-excerpt"><small class="trigger">Visit the augmented sites indicated on the UVA Reveal Map. Once at a site, click the “Reveal” button and point your device’s camera at the augmented object. The augmentations should appear on your device.</small></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Use the App on UVA Reveal website</h2>
+  <p class="post-excerpt"><small class="trigger">Open the app click the “Reveal” button and point your device’s camera at the trigger image to the left. The augmentations should appear on your device.</small></p>
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
+<div style="clear:both;"></div>
+
 
 ### About the augmentation of the French Department
 This project is designed for both UVA students and visitors to the French Department. The materials selected for the augmentation are in French, which allows the application to turn into a pedagogical tool in the future. This fact, however, should not limit the experience to only those familiar with the language or interested in learning it. On the contrary, those unfamiliar with French language and culture should not miss the opportunity to explore an unknown territory. Chances are they will benefit from it equally, if not more. The sounds, images, and narratives presented in this project are specifically curated to evade immediate interpretation, whether one speaks French or not.  

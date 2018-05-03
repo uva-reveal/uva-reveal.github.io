@@ -43,3 +43,7 @@
 .wrap h1{
   margin-left:13px !important;
 }
+.trigger {
+  bottom: auto; 
+  position: static; 
+}

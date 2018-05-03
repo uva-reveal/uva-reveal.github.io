@@ -13,6 +13,30 @@ permalink: /rotunda-the-public-face-of-a-public-university
 <style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="800" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="PraxisMap" src="https://uvalibrary.maps.arcgis.com/apps/Embed/index.html?webmap=cd441159531b40eeb560cc8bd82e3126&extent=-78.502629,38.036887,-78.504629,38.034887"></iframe></div>
 
 
+<div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title">Trigger Images</h2>
+  <p><a href="/images/trigger_images/Rotunda_above.jpg"><img src="/images/trigger_images/Rotunda_above_thumb.jpg" alt="Rotunda"></a></p>
+  <p><a href="/images/trigger_images/Rotunda-triger-2.jpg"><img src="/images/trigger_images/Rotunda-triger-2_thumb.jpg" alt="Rotunda"></a></p>
+  <small class="trigger">Click to enlarge.</small>
+  </div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Use the App on UVA grounds</h2>
+  <p class="post-excerpt"><small class="trigger">Visit the augmented sites indicated on the UVA Reveal Map. Once at a site, click the “Reveal” button and point your device’s camera at the augmented object. The augmentations should appear on your device.</small></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Use the App on UVA Reveal website</h2>
+  <p class="post-excerpt"><small class="trigger">Open the app click the “Reveal” button and point your device’s camera at the trigger image to the left. The augmentations should appear on your device.</small></p>
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
+<div style="clear:both;"></div>
+
+
+
 ### History of the Rotunda
 Perhaps the most iconic building at the University of Virginia is the Rotunda, which stands as the centerpiece of Thomas Jefferson’s Academic Village.
 
@@ -91,7 +115,7 @@ The Demographics Research at the University of Virginia has created a “Racial 
 <figcaption>Image 6: A screenshot of <a href="https://demographics.virginia.edu/DotMap/">"Racial Dot Map"</a> that visually displays how neighborhoods are segregated in Charlottesville.</figcaption>
 </figure>
 
-<a href="/images/trigger_images/Rotunda_above.jpg"><img src="/images/trigger_images/Rotunda_above_thumb.jpg" alt="Rotunda"></a>
+
 
 ## Works Consulted and Further Reading
 “The Address of the Southern Rights’ Association, of the University of Virginia, to the Young Men of the South.” Broadside 1851 .V8, Special Collections, University of Virginia, Charlottesville, Va.

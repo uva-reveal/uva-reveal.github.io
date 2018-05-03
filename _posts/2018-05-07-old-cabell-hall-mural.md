@@ -20,6 +20,34 @@ permalink: /old-cabell-hall-mural
 <figcaption>Old Cabell Hall is located on the Lawn opposite the Rotunda.</figcaption>
 </figure>
 
+<div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title">Trigger Images</h2>
+  <p><a href="/images/trigger_images/Mural_MainPanel.jpg"><img src="/images/trigger_images/Mural_MainPanel_thumb.jpg" alt="Mural Main Panel"></a></p>
+
+  <p><a href="/images/trigger_images/Mural_RainPanel.jpg"><img src="/images/trigger_images/Mural_RainPanel_thumb.jpg" alt="Mural Rain Panel"></a></p>
+
+  <p><a href="/images/trigger_images/Mural_sidepanel3.jpg"><img src="/images/trigger_images/Mural_sidepanel3_thumb.jpg" alt="Mural Side Panel 3"></a></p>
+  <small class="trigger">Click to enlarge.</small>
+  </div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Use the App on UVA grounds</h2>
+  <p class="post-excerpt"><small class="trigger">Visit the augmented sites indicated on the UVA Reveal Map. Once at a site, click the “Reveal” button and point your device’s camera at the augmented object. The augmentations should appear on your device.</small></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Use the App on UVA Reveal website</h2>
+  <p class="post-excerpt"><small class="trigger">Open the app click the “Reveal” button and point your device’s camera at the trigger image to the left. The augmentations should appear on your device.</small></p>
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
+<div style="clear:both;"></div>
+
+
+
+
 
 ### History of the Mural
 Lincoln Perry composed the mural known as “The Student's Progress” over the course of 16 years. The mural has 29 panels and follows the life of the fictional UVA student, Shannon, from her undergraduate days and into her adult life as a professor at the University.
@@ -59,18 +87,6 @@ The UVA Board of Visitors finally voted to allow women entrance into all program
 This halting pace was not enough for the four women who sued to gain entrance to the university in the spring of 1969. Virginia Scott, Nancy Jaffe, Nancy Anderson, and Jo Anne Kirstein filed a complaint arguing that UVA “severely discriminates against women in their admissions policies.” John Lowe, a recent UVA law school alum and American Civil Liberties Union lawyer, represented the four women. The court ultimately agreed with these women, and it ordered UVA to become fully coeducational within three years.
 
 Once women gained admittance to the University, they worked to improve their conditions on Grounds, fighting for equal access to residential facilities, bathrooms, student groups, and sports programs. In 1972, Cynthia Goodrich became the first female resident of the Lawn. In 1989, University of Virginia students began to organize Take Back the Night marches to protest sexual assault on campus. A consortium of UVA organizations continue to host Take Back the Night events every April. These students help lead the effort to protect and empower victims of sexual assault and domestic violence, no matter what their gender or sexual orientation.
-
-{% include trigger_images.html %}
-
-<a href="/images/trigger_images/Mural_MainPanel.jpg"><img src="/images/trigger_images/Mural_MainPanel_thumb.jpg" alt="Mural Main Panel"></a>
-
-<a href="/images/trigger_images/Mural_RainPanel.jpg"><img src="/images/trigger_images/Mural_RainPanel_thumb.jpg" alt="Mural Rain Panel"></a>
-
-<a href="/images/trigger_images/Mural_Sidepanel1.jpg"><img src="/images/trigger_images/Mural_Sidepanel1_thumb.jpg" alt="Mural Side Panel 1"></a>
-
-<a href="/images/trigger_images/Mural_sidepanel2.jpg"><img src="/images/trigger_images/Mural_sidepanel2_thumb.jpg" alt="Mural Side Panel 2"></a>
-
-<a href="/images/trigger_images/Mural_sidepanel3.jpg"><img src="/images/trigger_images/Mural_sidepanel3_thumb.jpg" alt="Mural Side Panel 3"></a>
 
 ### Bibliography
 <ul>

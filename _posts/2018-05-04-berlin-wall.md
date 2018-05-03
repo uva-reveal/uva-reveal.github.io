@@ -11,7 +11,6 @@ image:
 permalink: /berlin-wall
 ---
 
-
 <style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
 <figure>
 <div class="embed-container">
@@ -23,6 +22,29 @@ A fragment of the Berlin wall is located on the quad adjacent to Alderman Librar
 </figcaption>
 </figure>
 
+ <div id="page-wrapper">
+      <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
+
+<div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title">Trigger Image</h2>
+  <a href="/images/trigger_images/Berlin.jpg"><img src="/images/trigger_images/Berlin_thumb.jpg" alt="Berlin Wall"></a>
+  <p class="post-excerpt"><small class="trigger">Click to enlarge.</small></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Use the App on UVA grounds</h2>
+  <p class="post-excerpt"><small class="trigger">Visit the augmented sites indicated on the UVA Reveal Map. Once at a site, click the “Reveal” button and point your device’s camera at the augmented object. The augmentations should appear on your device.</small></p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title">Use the App on UVA Reveal website</h2>
+  <p class="post-excerpt"><small class="trigger">Open the app click the “Reveal” button and point your device’s camera at the trigger image to the left. The augmentations should appear on your device.</small></p>
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
+<div style="clear:both;"></div>
 
 
 The installation of the Berlin Wall panels is a popular one on the UVA grounds since it is visited by almost every tourist, visitor, and new student. The installation is located in a very prominent and busy space, right by Alderman library and the Albert and Shirley Small Special Collections Library. It is, in fact, such a familiar sight that hundreds of students hurrying past it almost every day barely pay it a passing glance. An unbelievably powerful and striking historical artifact has been absorbed into the mundane surroundings of everyday life. We tend to take things we see around us for granted and as somehow being undeniably permanent. Very often we neglect to recall the particular histories that certain places or objects are a part of. It is easier still to remain ignorant of the multiple narratives that thread through the familiar space of our lives.
@@ -54,7 +76,6 @@ For *UVA Reveal*, we decided to explore the history and the aftermath of the fal
 
 So, what does it mean for such an artifact to stand on the grounds of the University of Virginia today? We leave the interpretation of our augmentation of the Berlin Wall open to the viewer. We only hope that it allows the viewer to perceive and recognize the familiar and mundane space around them as vitally dynamic and continuously challenging.
 
-<a href="/images/trigger_images/Berlin.jpg"><img src="/images/trigger_images/Berlin_thumb.jpg" alt="Berlin Wall"></a>
 
 ## Works Cited
 
