@@ -27,3 +27,15 @@
 .sliding-menu-content .li.sub-menu {
   max-height: 10px
 }
+
+/* @media screen and (max-width: 750px) {
+    tbody, thead { float: left; }
+    thead { min-width: 120px }
+    td,th { display: block }
+} */
+
+@media screen and (max-width: 750px) {
+  .grid-container{
+    grid-template-columns: none !important;
+  }
+}
