@@ -9,6 +9,52 @@ image:
   teaser: Berlin01.jpg
   thumb:  Berlin01.jpg
 ---
+<style>
+#mySidenav a {
+    position: absolute;
+    right: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+}
+
+#mySidenav a:hover {
+    right: 0;
+}
+
+#cemetery {
+    top: 50px;
+    background-color: #4CAF50;
+}
+
+#french-department {
+    top: 110px;
+    background-color: #2196F3;
+}
+
+#old-cabell-hall {
+    top: 170px;
+    background-color: #f44336;
+}
+
+#rotunda {
+    top: 230px;
+    background-color: #555;
+}
+</style>
+
+<div id="mySidenav" class="sidenav">
+  <a href="http://reveal.scholarslab.org/cemetery/" id="cemetery">Cemetery</a>
+  <a href="http://reveal.scholarslab.org/french-department/" id="french-department">French Department</a>
+  <a href="http://reveal.scholarslab.org/old-cabell-hall-mural/" id="old-cabell-hall">Old Cabell Hall</a>
+  <a href="http://reveal.scholarslab.org/rotunda-the-public-face-of-a-public-university/" id="rotunda">Rotunda</a>
+</div>
+
+
 
 <style>.embed-container {position: relative; padding-bottom: 75%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style>
 <figure>
