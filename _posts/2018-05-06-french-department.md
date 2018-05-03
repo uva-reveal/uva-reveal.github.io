@@ -221,9 +221,3 @@ Since its publication 1975, *An Attempt At Exhausting A Place In Paris* has been
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Q0Fa4i6y9w?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <figcaption>The original movie <a href="https://search.lib.virginia.edu/catalog/u6897878" target="\_blank">available at UVa</a> doesn’t have subtitles. By adding them, we hope to highlight the 30-year lag between the text and the image.</figcaption>
 </figure>
-
-<a href="/images/trigger_images/Ferrari.jpg"><img src="/images/trigger_images/Ferrari_thumb.jpg" alt="Ferrari"></a>
-
-<a href="/images/trigger_images/Perec.jpg"><img src="/images/trigger_images/Perec_thumb.jpg" alt="Perec"></a>
-
-<a href="/images/trigger_images/Rabelais.jpg"><img src="/images/trigger_images/Rabelais_thumb.jpg" alt="Rabelais"></a>
