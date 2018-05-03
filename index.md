@@ -59,7 +59,7 @@ function carousel() {
 
 <div class="tile">
   <h2 class="post-title">Augmented Locations</h2>
-  <p class="post-excerpt">Once you’ve downloaded and opened the UVA Reveal app, identify an augmented location. So far, Augmented Locations include: the Berlin Wall, the Cemetery, the French Department, the Old Cabell Hall Mural, the Rotunda. All the augmented locations are visible on the UVA Reveal Map (on the app and on <a href="{{ site.url }}/augmented-locations/" target="_blank">the website</a>).</p>
+  <p class="post-excerpt">Once you’ve downloaded and opened the UVA Reveal app, identify an augmented location. So far, Augmented Locations include: the <a href="{{ site.url }}/berlin-wall">Berlin Wall</a>, the <a href="{{ site.url }}/cemetery">Cemetery</a>, the <a href="{{ site.url }}/french-department">French Department<>, the <a href="{{ site.url }}/old-cabell-hall-mural">Old Cabell Hall Mural</a>, the <a href="{{ site.url }}/rotunda-the-public-face-of-a-public-university">Rotunda</a>. All the augmented locations are visible on the UVA Reveal Map (on the app and on <a href="{{ site.url }}/augmented-locations/" target="_blank">the website</a>).</p>
 </div><!-- /.tile -->
 
 <div class="tile">
