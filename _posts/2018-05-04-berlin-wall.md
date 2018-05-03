@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: augmented-locations
 title:
 date: 2018-04-04 15:22
 modified: 2018-04-04 15:22
@@ -40,7 +40,7 @@ Another example of a project is the Tilt Brush tool developed by the *NOVALIS VR
 <iframe width="640" height="480" src="https://poly.google.com/view/boKpfklac1b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
 
-For *UVA Reveal*, we decided to explore the history and the aftermath of the fall of the Berlin Wall through virtual augmentation. The augmentations highlight the public protests that ultimately brought down the wall, the speeches by Presidents Reagan and Kennedy, and the status of the wall in the present day. The last is perhaps most striking. An interactive map published in the article <a href="https://interactive.guim.co.uk/embed/lhaddou/berlin-wall/wallworld.html" target="\_blank">“Where on Earth is the Berlin Wall?”</a> on *The Guardian* lists almost all the locations across the world where sections of the Berlin Wall are currently installed. Brightly and gaily graffitied fragments of the Berlin Wall link disparate places on the globe in remembrance and recognition of the strength required to pull down walls that divide and fracture.
+For *UVA Reveal*, we decided to explore the history and the aftermath of the fall of the Berlin Wall through virtual augmentation. The augmentations highlight the public protests that ultimately brought down the wall, the speeches by Presidents Reagan and Kennedy, and the status of the wall in the present day. The last is perhaps most striking. An interactive map published in the article <a href="https://interactive.guim.co.uk/embed/lhaddou/berlin-wall/wallworld.html">“Where on Earth is the Berlin Wall?”</a> on *The Guardian* lists almost all the locations across the world where sections of the Berlin Wall are currently installed. Brightly and gaily graffitied fragments of the Berlin Wall link disparate places on the globe in remembrance and recognition of the strength required to pull down walls that divide and fracture.
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/56V6r2dpYH8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
