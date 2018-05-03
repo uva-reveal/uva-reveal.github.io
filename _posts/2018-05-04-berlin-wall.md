@@ -54,7 +54,7 @@ For *UVA Reveal*, we decided to explore the history and the aftermath of the fal
 
 So, what does it mean for such an artifact to stand on the grounds of the University of Virginia today? We leave the interpretation of our augmentation of the Berlin Wall open to the viewer. We only hope that it allows the viewer to perceive and recognize the familiar and mundane space around them as vitally dynamic and continuously challenging.
 
-<a href=“images/trigger_images/Berlin.jpg”><img src=“iamges/trigger_images/Berlin_thumb.jpg” alt=“Berlin Wall”></a>
+<a href=“images/trigger_images/Berlin.jpg”><img src=“images/trigger_images/Berlin_thumb.jpg” alt=“Berlin Wall”></a>
 
 ## Works Cited
 
