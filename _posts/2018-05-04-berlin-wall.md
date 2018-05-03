@@ -85,13 +85,10 @@ So, what does it mean for such an artifact to stand on the grounds of the Univer
 
 
 ## Works Cited
-
-* [Kennedy, John F. “Ich bin ein Berliner Speech”. National Archives. June 26, 1963.](www.millercenter.org/the-presidency/presidential-speeches/june-26-1963-ich-bin-ein-berliner-speech)
-
-* [Oltermann, Philip. “Where on earth is the Berlin wall?” The Guardian. Oct 28, 2014.](www.theguardian.com/cities/2014/oct/28/-sp-where-on-earth-berlin-wall-25-years-fall)
-
-* [Reagan, Ronald. “Address from the Brandenburg Gate (Berlin Wall)”. National Archives. June 12, 1987.](www.millercenter.org/the-presidency/presidential-speeches/june-12-1987-address-brandenburg-gate-berlin-wall)
-
-* [Rosario, Miguelangelo. “Novalis VR Project Berlin”. Google Poly. Nov 17, 2017.](www.poly.google.com/view/boKpfklac1b)
-
-* [“The Berlin Wall in 3D”. Berlin Business Location Center.](www.youtube.com/watch?v=vDDxeJLos6s)
+<ul>
+<li><a href="www.millercenter.org/the-presidency/presidential-speeches/june-26-1963-ich-bin-ein-berliner-speech" target="\_blank">Kennedy, John F. “Ich bin ein Berliner Speech”. National Archives. June 26, 1963.</a></li>
+<li><a href="www.theguardian.com/cities/2014/oct/28/-sp-where-on-earth-berlin-wall-25-years-fall" target="\_blank">Oltermann, Philip. “Where on earth is the Berlin wall?” The Guardian. Oct 28, 2014.</a></li>
+<li><a href="www.millercenter.org/the-presidency/presidential-speeches/june-12-1987-address-brandenburg-gate-berlin-wall" target="\_blank">Reagan, Ronald. “Address from the Brandenburg Gate (Berlin Wall)”. National Archives. June 12, 1987.</a></li>
+<li><a href="www.poly.google.com/view/boKpfklac1b" target="\_blank">Rosario, Miguelangelo. “Novalis VR Project Berlin”. Google Poly. Nov 17, 2017.</a></li>
+<li><a href="www.youtube.com/watch?v=vDDxeJLos6s" target="\_blank">“The Berlin Wall in 3D”. Berlin Business Location Center.</a></li>
+</ul>
