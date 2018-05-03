@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: augmented-locations
 title: Rotunda, The Public Face of a Public University
 date: 2018-04-04 15:22
 modified: 2018-04-04 15:22

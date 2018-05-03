@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+	<article class="wrap" itemscope itemtype="http://schema.org/Article">
+		{% if page.image.feature %}
+		<div class="page-feature">
+			<div class="page-image">
+				<img src="{{ site.url }}/images/{{ page.image.feature }}" class="page-feature-image" alt="{{ page.title }}" itemprop="image">
+				{% if page.image.credit %}{% include image-credit.html %}{% endif %}
+			</div><!-- /.page-image -->
+		</div><!-- /.page-feature -->
+		{% endif %}
+		{% include breadcrumbs.html %}
+		<div class="page-title">
+			<h1>{{ page.title }}</h1>
+		</div>
+		<div class="inner-wrap">
+			<div id="content" class="page-content" itemprop="articleBody">
+				{{ content }}
+				<hr />
+				<aside>
+					{% if page.comments == true %}{% include comments.html %}{% endif %}
+				</aside>
+			</div><!-- /.content -->
+		</div><!-- /.inner-wrap -->
+		{% if page.ads == true %}<div class="ads">{% include advertising.html %}</div><!-- /.ads -->{% endif %}
+	</article><!-- ./wrap -->
+</div><!-- /#main -->
+
+<footer role="contentinfo" id="site-footer">
+
+	<nav role="navigation" class="menu bottom-menu">
+	<h4>Augmented Locations</h4>
+	<ul class="menu-item">
+	<li><a href="/berlin-wall" >Berlin Wall</a></li>
+	<li><a href="/cemetery" >Cemetery</a></li>
+	<li><a href="/french-department" >French Department</a></li>
+	<li><a href="/old-cabell-hall-mural" >Old Cabell Hall Mural</a></li>
+	<li><a href="/rotunda-the-public-face-of-a-public-university" >Rotunda</a></li>
+	</ul>
+	</nav><!-- /.bottom-menu -->
