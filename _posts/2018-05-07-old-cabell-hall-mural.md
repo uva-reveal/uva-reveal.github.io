@@ -60,6 +60,18 @@ This halting pace was not enough for the four women who sued to gain entrance to
 
 Once women gained admittance to the University, they worked to improve their conditions on Grounds, fighting for equal access to residential facilities, bathrooms, student groups, and sports programs. In 1972, Cynthia Goodrich became the first female resident of the Lawn. In 1989, University of Virginia students began to organize Take Back the Night marches to protest sexual assault on campus. A consortium of UVA organizations continue to host Take Back the Night events every April. These students help lead the effort to protect and empower victims of sexual assault and domestic violence, no matter what their gender or sexual orientation.
 
+{% include trigger_images.html %}
+
+<a href="/images/trigger_images/Mural_MainPanel.jpg"><img src="/images/trigger_images/Mural_MainPanel_thumb.jpg" alt="Mural Main Panel"></a>
+
+<a href="/images/trigger_images/Mural_RainPanel.jpg"><img src="/images/trigger_images/Mural_RainPanel_thumb.jpg" alt="Mural Rain Panel"></a>
+
+<a href="/images/trigger_images/Mural_Sidepanel1.jpg"><img src="/images/trigger_images/Mural_Sidepanel1_thumb.jpg" alt="Mural Side Panel 1"></a>
+
+<a href="/images/trigger_images/Mural_sidepanel2.jpg"><img src="/images/trigger_images/Mural_sidepanel2_thumb.jpg" alt="Mural Side Panel 2"></a>
+
+<a href="/images/trigger_images/Mural_sidepanel3.jpg"><img src="/images/trigger_images/Mural_sidepanel3_thumb.jpg" alt="Mural Side Panel 3"></a>
+
 ### Bibliography
 <ul>
 <li><a href="https://bombmagazine.org/articles/lincoln-perry/" target="\_blank">Ann Beattie and Lincoln Perry, “Interview: Lincoln Perry by Ann Beattie,” BOMB. Oct. 1, 2005.</a></li>
