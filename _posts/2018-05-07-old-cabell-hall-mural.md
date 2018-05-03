@@ -62,9 +62,9 @@ Once women gained admittance to the University, they worked to improve their con
 
 {% include trigger_images.html %}
 
-<a href="/images/trigger_images/Mural_MainPanel.jpg"><img src="/images/trigger_images/Mural_MainPanel_thumb.jpg" alt="Mural Main Panel"></a>
+<a href="/images/trigger_images/Mural_MainPanel.JPG"><img src="/images/trigger_images/Mural_MainPanel_thumb.JPG" alt="Mural Main Panel"></a>
 
-<a href="/images/trigger_images/Mural_RainPanel.jpg"><img src="/images/trigger_images/Mural_RainPanel_thumb.jpg" alt="Mural Rain Panel"></a>
+<a href="/images/trigger_images/Mural_RainPanel.JPG"><img src="/images/trigger_images/Mural_RainPanel_thumb.JPG" alt="Mural Rain Panel"></a>
 
 <a href="/images/trigger_images/Mural_Sidepanel1.jpg"><img src="/images/trigger_images/Mural_Sidepanel1_thumb.jpg" alt="Mural Side Panel 1"></a>
 
