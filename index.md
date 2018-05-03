@@ -42,13 +42,12 @@ function carousel() {
 
 <div class="tile">
   <h2 class="post-title">App Description</h2>
-  <p class="post-excerpt"><strong>UVA Reveal</strong> is built with <a href="https://unity.com/solutions/mobile-ar" target="_blank">Unity</a>. Its goal is to engage the viewer in an Augmented Reality experience uncovering the history and connections between spaces objects and archives on UVA Grounds. The UVA Reveal app is available for Android as an Android Package Kit, or APK. Download the app.[LINK] <br>
-  <a href="http://reveal.scholarslab.org/about/" target="_blank">Learn More</a>
+  <p class="post-excerpt"><strong>UVA Reveal</strong> is built with <a href="https://unity.com/solutions/mobile-ar" target="_blank">Unity</a>. Its goal is to engage the viewer in an Augmented Reality experience uncovering the history and connections between spaces objects and archives on UVA Grounds. The UVA Reveal app is available for Android as an Android Package Kit, or APK. Download the app.[LINK]</p>
+  <p class="post-excerpt"><a href="http://reveal.scholarslab.org/about/" target="_blank">Learn More</a></p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Install the App</h2>
-  <p class="post-excerpt">
 <p class="post-excerpt">Go to Settings > Security. Allow installation of apps from unknown sources.</p> 
 <p class="post-excerpt">Open a web browser and download the UVA Reveal APK file. [LINK]</p> 
 <p class="post-excerpt">If you receive a warning that the file could harm your device, tap OK to continue.</p> 
