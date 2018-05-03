@@ -1,6 +1,6 @@
 ---
 title: Who We Are
-layout: archive
+layout: archive-footer
 permalink: /who
 ---
 

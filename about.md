@@ -1,6 +1,6 @@
 ---
 title:
-layout: article
+layout: article-footer
 ---
 
 <div class="page-lead">
@@ -68,3 +68,4 @@ To develop our website we used a commonly static website generator, Jekyll. All 
 
 ### Acknowledgements
 The 2017-2018 Praxis cohort would like to thank the UVA Scholars' Lab staff for their time and financial support, without which this project would not be possible. In particular, we thank Jeremy Boggs, Zoe LeBlanc, and Shane Lin for their development expertise; Ronda Grizzle, Amanda Visconti, and Brandon Walsh for project management advice; Drew Macqueen for his assistance with GIS; and last -but certainly not least- Arin Bennett for his invaluable insights and patience in teaching us how to use Unity.
+
