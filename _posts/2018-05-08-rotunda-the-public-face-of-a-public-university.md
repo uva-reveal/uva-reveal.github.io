@@ -91,6 +91,7 @@ The Demographics Research at the University of Virginia has created a “Racial 
 <figcaption>Image 6: A screenshot of <a href="https://demographics.virginia.edu/DotMap/">"Racial Dot Map"</a> that visually displays how neighborhoods are segregated in Charlottesville.</figcaption>
 </figure>
 
+<a href="/images/trigger_images/Rotunda_above.jpg"><img src="/images/trigger_images/Rotunda_above_thumb.jpg" alt="Rotunda"></a>
 
 ## Works Consulted and Further Reading
 “The Address of the Southern Rights’ Association, of the University of Virginia, to the Young Men of the South.” Broadside 1851 .V8, Special Collections, University of Virginia, Charlottesville, Va.
