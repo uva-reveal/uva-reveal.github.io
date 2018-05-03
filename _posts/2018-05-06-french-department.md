@@ -54,7 +54,7 @@ By pulling three, seemingly random, French artists, spanning a period from Renai
 
  This episode, known as the “Paroles Gelées” (Frozen Words), sets the tone for the augmentation of the French Department as it offers an entry point to reflect on Augmented Reality, albeit anachronistically. Indeed, digitally reproduced artifacts, combined with location-based metadata, and displayed in physical spaces through Augmented Reality techniques, make us aware that places are not devoid of content. The world is a huge recording device for all sorts of major historical events, or infra-ordinary mundane events, inscribed in its tissue.  
 
- Strangely enough, Rabelais’ episode of Frozen Words resonates with Charles Babbage’s hypothesis of the world being “one vast library.” British luminary scientist of the Victorian era and one –of the many– fathers of the computer, Babbage set out from the principle of the “equality between action and reaction” to demonstrate that <a href="http://www.victorianweb.org/science/science_texts/bridgewater/b9.htm" target="_blank">“[n]o motion impressed by natural causes, or by human agency, is ever obliterated.”</a>  
+ Strangely enough, Rabelais’ episode of Frozen Words resonates with Charles Babbage’s hypothesis of the world being “one vast library.” British luminary scientist of the Victorian era and one –of the many– fathers of the computer, Babbage set out from the principle of the “equality between action and reaction” to demonstrate that <a href="http://www.victorianweb.org/science/science_texts/bridgewater/b9.htm" target="\_blank">“[n]o motion impressed by natural causes, or by human agency, is ever obliterated.”</a>  
 
  Whether we accept Charles Babbage’s claim or not, the technological milieu we are living in is saturated with recording devices, sensors and smart objects, constantly storing information in the cloud. Babbage’s intuition then strikes home:     
 
@@ -65,7 +65,7 @@ Now, if the prospect of listening to “whole handfuls of frozen words” in a u
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVd6LnoQ1Pw?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <figcaption>
- The few pages shown here are chapters LV and LVI from the 1552 edition of Rabelais’s <a href="http://search.lib.virginia.edu/catalog/uva-lib:770691#?c=0&m=0&s=0&cv=13&xywh=75%2C572%2C1437%2C1775" target="_blank"><em>Le Quart Livre.</em></a>Rabelais’s original edition is read by French contemporary author <a href="http://www.tierslivre.net" target="_blank">François Bon</a> who has lent his voice to the entirety of Rabelais’ five books.</figcaption>
+ The few pages shown here are chapters LV and LVI from the 1552 edition of Rabelais’s <a href="http://search.lib.virginia.edu/catalog/uva-lib:770691#?c=0&m=0&s=0&cv=13&xywh=75%2C572%2C1437%2C1775" target="\_blank"><em>Le Quart Livre.</em></a>Rabelais’s original edition is read by French contemporary author <a href="http://www.tierslivre.net" target="\_blank">François Bon</a> who has lent his voice to the entirety of Rabelais’ five books.</figcaption>
 </figure>
 
 
@@ -87,14 +87,14 @@ An ear attuned to the world, as Rabelais has shown, doesn’t always find meanin
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h4lz3BhmYzQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<figcaption>This video contains excerpts from <a href="http://ubu.com/film/ferrari_presque.html" target="_blank">Jacqueline Caux’s & Olivier Pascal’s movie</a> <em>Presque Rien Avec Luc Ferrari</em> (2005) and serves as an introduction to the artist in his own words.</figcaption>
+<figcaption>This video contains excerpts from <a href="http://ubu.com/film/ferrari_presque.html" target="\_blank">Jacqueline Caux’s & Olivier Pascal’s movie</a> <em>Presque Rien Avec Luc Ferrari</em> (2005) and serves as an introduction to the artist in his own words.</figcaption>
 </figure>
 
-After this brief interlude here is the most important piece of the installment on Ferrari:<a href="http://lucferrari.com/wp-content/uploads/2017/04/Chantal__Luc-Ferrari.pdf" target="_blank"><em>Chantal, ou le portrait d’une villageoise”</em> (Chantal, or the portrait of a village woman).</a>  
+After this brief interlude here is the most important piece of the installment on Ferrari:<a href="http://lucferrari.com/wp-content/uploads/2017/04/Chantal__Luc-Ferrari.pdf" target="\_blank"><em>Chantal, ou le portrait d’une villageoise”</em> (Chantal, or the portrait of a village woman).</a>  
 
 The piece was recorded by Luc and Brunhild Ferrari in the summer of 1976, but not released until 2009. While vacationing in the small village of Tuchan in Corbières, Luc and his wife Brunhild met and interviewed many of the village’s “libre penseurs” (free thinkers), among them Chantal, a fierce young woman with a disarming sense of honesty and charm. Probed by Luc’s and Brunhild’s questions, Chantal opened up about her hardships, views on politics, isolation in a remote village in the South of France, and her search for emancipation. Their conversation would become legendary.  
 
-In the context of this project, Chantal’s portrait adds to the female voices we have chosen to amplify, and offers a different perspective to Lincoln Perry’s female character, Shannon, depicted on <a href="http://reveal.scholarslab.org/mural/" target="_blank">the mural of Old Cabell Hall</a>.  
+In the context of this project, Chantal’s portrait adds to the female voices we have chosen to amplify, and offers a different perspective to Lincoln Perry’s female character, Shannon, depicted on <a href="http://reveal.scholarslab.org/mural/" target="\_blank">the mural of Old Cabell Hall</a>.  
 
 Unlike Shannon’s fictionalized and rather muted but successful progress in life, Chantal speaks for herself, albeit disillusioned concerning the power of words to convey a complete portrait of her. “Tu me demandes des mots, c’est tout. C’est pas tellement les mots qui comptent dans la vie. Les mots c’est facile, c’est tout.” (You ask me for words, that’s all. Words are not the only things that count in life. Words are easy, that’s all.)
 
@@ -174,7 +174,7 @@ Chantal is in awe of Luc and Brunhild. She sees them as intellectuals from Paris
 
 By now, the interview is almost over. For the remaining ten minutes the microphone runs almost without anyone really noticing it. Brunhild and Chantal have a more relaxed, in-depth conversation about love, being in a relationship, and friendship. “Do you have a friend to talk about these things?” she says. “There are things I can’t even admit to myself,” Chantal answers.  
 
-Chantal, today in her sixties, still lives in Tuchan. She works at a local wine company and is actively involved in politics as member of the city council. She has married twice since Alain, with men she cared more about. Today, she lives with her third husband. For about fifteen years, since their sex life went from scarce to non-existent, she has been seeing another man. “J’aime ma liberté sexuelle,” said to <a href="http://www.revue-et-corrigee.net/?v=wwh&a=2014&n=6" target="_blank">Carole Rieussec in an interview in 2014</a>, “you can make a note of that.”
+Chantal, today in her sixties, still lives in Tuchan. She works at a local wine company and is actively involved in politics as member of the city council. She has married twice since Alain, with men she cared more about. Today, she lives with her third husband. For about fifteen years, since their sex life went from scarce to non-existent, she has been seeing another man. “J’aime ma liberté sexuelle,” said to <a href="http://www.revue-et-corrigee.net/?v=wwh&a=2014&n=6" target="\_blank">Carole Rieussec in an interview in 2014</a>, “you can make a note of that.”
 
 
 ### 3. Georges Perec
@@ -183,7 +183,7 @@ Chantal, today in her sixties, still lives in Tuchan. She works at a local wine 
   <figcaption>Trigger image for the augmentation of <em>Tentative d'épuisement d'un lieu parisien</em></figcaption>
 </figure>
 
-To close this augmented reality experiment in the French Department, we chose another experimental work in alignment with Luc Ferrari’s approach of recording the the world as it is. “I am not always involved with narrative. [...] I am interested to see what happens when time passes,” Ferrari said in <a href="http://econtact.ca/10_2/FerrariLu_Palmer.html" target="_blank">an interview with John Palmer in 1999</a>.
+To close this augmented reality experiment in the French Department, we chose another experimental work in alignment with Luc Ferrari’s approach of recording the the world as it is. “I am not always involved with narrative. [...] I am interested to see what happens when time passes,” Ferrari said in <a href="http://econtact.ca/10_2/FerrariLu_Palmer.html" target="\_blank">an interview with John Palmer in 1999</a>.
 
 Georges Perec’s work *An Attempt At Exhausting A Place In Paris* is itself a record of “what happens when nothing happens.” It consists of an attentional exercise: observe and make a note of everything that happens within the field of vision. Georges Perec carried out the experiment over three days at the place Saint-Sulpice in Paris. The approximately 50 printed pages that resulted read like a log, or a police report, only there is no crime - other than killing time.  
 
@@ -193,5 +193,5 @@ Since its publication 1975, *An Attempt At Exhausting A Place In Paris* has been
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Q0Fa4i6y9w?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<figcaption>The original movie <a href="https://search.lib.virginia.edu/catalog/u6897878" target="_blank">available at UVa</a> doesn’t have subtitles. By adding them, we hope to highlight the 30-year lag between the text and the image.</figcaption>
+<figcaption>The original movie <a href="https://search.lib.virginia.edu/catalog/u6897878" target="\_blank">available at UVa</a> doesn’t have subtitles. By adding them, we hope to highlight the 30-year lag between the text and the image.</figcaption>
 </figure>
