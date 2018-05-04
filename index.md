@@ -1,5 +1,5 @@
 ---
-layout: archive-footer
+layout: archive-footer-home
 permalink: /
 title: ""
 ---

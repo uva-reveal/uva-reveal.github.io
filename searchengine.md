@@ -1,6 +1,6 @@
 ---
 title: Archive Search
-layout: article
+layout: article-footer
 permalink: /searchengine
 ---
 <html>
