@@ -61,11 +61,10 @@ We began with a shared interest in public-facing digital humanities. We then:
 
 ### App Description
 Our project uses Unity to layer 3D models on images – including university buildings and physical objects – that will enable the viewer to experience the virtual layering of time upon an object. Unity is easily exportable to Android, iOS, and HoloLens platforms, and we have created an app with which our users will be able to engage the AR experience (including the virtual display of text, images, and videos upon physical objects) through their personal devices. In so doing, *UVA Reveal* helps uncover the history of and connections between spaces at the university.
-To download our app, please visit *X*. Instructions about how to use the app are available <a href="http://reveal.scholarslab.org/index.html" target="_blank">here</a>.
+To download our app, please visit <a href="https://virginia.box.com/s/6j6ebes3lyn4c4vwks0yzlq1tke7v6zl">this link</a>. Instructions about how to use the app are available <a href="http://reveal.scholarslab.org/index.html" target="_blank">here</a>.
 
 ### Website & Further Development
 To develop our website we used a commonly static website generator, Jekyll. All the files are open source and live in a repository on <a href="https://github.com/uva-reveal/uva-reveal.github.io" target="_blank">github</a>. If you notice something that doesn't work properly please let us know. See something, say something!
 
 ### Acknowledgements
 The 2017-2018 Praxis cohort would like to thank the UVA Scholars' Lab staff for their time and financial support, without which this project would not be possible. In particular, we thank Jeremy Boggs, Zoe LeBlanc, and Shane Lin for their development expertise; Ronda Grizzle, Amanda Visconti, and Brandon Walsh for project management advice; Drew Macqueen for his assistance with GIS; and last -but certainly not least- Arin Bennett for his invaluable insights and patience in teaching us how to use Unity.
-

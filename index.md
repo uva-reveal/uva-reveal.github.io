@@ -41,7 +41,7 @@ function carousel() {
   <div class="tiles">
     <div class="tile">
       <h2 class="post-title">App Description</h2>
-      <p class="post-excerpt"><strong>UVA Reveal</strong> is built with <a href="https://unity.com/solutions/mobile-ar" target="_blank">Unity</a>. Its goal is to engage the viewer in an Augmented Reality experience uncovering the history and connections between spaces objects and archives on UVA Grounds. The UVA Reveal app is available for Android as an Android Package Kit, or APK. Download the app.[LINK]</p>
+      <p class="post-excerpt"><strong>UVA Reveal</strong> is built with <a href="https://unity.com/solutions/mobile-ar" target="_blank">Unity</a>. Its goal is to engage the viewer in an Augmented Reality experience uncovering the history and connections between spaces objects and archives on UVA Grounds. The UVA Reveal app is available for Android as an Android Package Kit, or APK. <a href="https://virginia.box.com/s/6j6ebes3lyn4c4vwks0yzlq1tke7v6zl">Download the app</a>.</p>
       <p class="post-excerpt"><a href="http://reveal.scholarslab.org/about/" target="_blank">Learn More</a></p>
     </div><!-- /.tile -->
 
@@ -49,7 +49,7 @@ function carousel() {
       <h2 class="post-title">Install the App</h2>
       <p class="post-excerpt">
       1. Go to Settings > Security. Allow installation of apps from unknown sources.<br>
-      2. Open a web browser and download the UVA Reveal APK file. [LINK]<br>
+      2. Open a web browser and <a href="https://virginia.box.com/s/6j6ebes3lyn4c4vwks0yzlq1tke7v6zl">download the UVA Reveal APK file</a>. <br>
       3. If you receive a warning that the file could harm your device, tap OK to continue.<br>
       4. Open your apps tray and click on File Manager > Downloads. Select the UVA Reveal APK that you just downloaded and click install.<br>
       5. Open the installed app to use.</p>
@@ -66,6 +66,6 @@ function carousel() {
       <p class="post-excerpt"><strong>On UVA grounds:</strong> visit the augmented sites indicated on the UVA Reveal Map. Once at a site, click the “Reveal” button and point your device’s camera at the augmented object. The augmentations should appear on your device.</p>
       <p class="post-excerpt"><strong>On UVA Reveal website:</strong> use the trigger images of each particular location’s webpage. Click the “Reveal” button and point your device’s camera at the trigger image. The augmentations should appear on your device.</p>
     </div><!-- /.tile -->
-    
+
 </div><!-- /.tiles -->
 </div><!--/.page-wrapper -->
