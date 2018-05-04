@@ -24,9 +24,9 @@ permalink: /old-cabell-hall-mural
 
 <div class="tile">
   <h2 class="post-title">Trigger Images</h2>
-  <p><a href="/images/trigger_images/Mural_MainPanel.jpg"><img src="/images/trigger_images/Mural_MainPanel_thumb.jpg" alt="Mural Main Panel"></a></p>
+  <p><a href="/images/trigger_images/Mural_MainPanel.JPG"><img src="/images/trigger_images/Mural_MainPanel_thumb.JPG" alt="Mural Main Panel"></a></p>
 
-  <p><a href="/images/trigger_images/Mural_RainPanel.jpg"><img src="/images/trigger_images/Mural_RainPanel_thumb.jpg" alt="Mural Rain Panel"></a></p>
+  <p><a href="/images/trigger_images/Mural_RainPanel.JPG"><img src="/images/trigger_images/Mural_RainPanel_thumb.JPG" alt="Mural Rain Panel"></a></p>
 
   <p><a href="/images/trigger_images/Mural_sidepanel3.jpg"><img src="/images/trigger_images/Mural_sidepanel3_thumb.jpg" alt="Mural Side Panel 3"></a></p>
   <small class="trigger">Click to enlarge.</small>
