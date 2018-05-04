@@ -18,7 +18,7 @@ permalink: /rotunda-the-public-face-of-a-public-university
 <div class="tile">
   <h2 class="post-title">Trigger Images</h2>
   <p><a href="/images/trigger_images/Rotunda_above.jpg"><img src="/images/trigger_images/Rotunda_above_thumb.jpg" alt="Rotunda"></a></p>
-  <p><a href="/images/trigger_images/Rotunda-triger-2.jpg"><img src="/images/trigger_images/Rotunda-triger-2_thumb.jpg" alt="Rotunda"></a></p>
+  <p><a href="/images/trigger_images/rotunda-trigger-2.jpg"><img src="/images/trigger_images/rotunda-trigger-2-thumb.jpg" alt="Rotunda"></a></p>
   <small class="trigger">Click to enlarge.</small>
   </div><!-- /.tile -->
 
@@ -99,7 +99,7 @@ Prior to the Civil War, many students and even faculty were outspoken about thei
 </figure>
 
 
-Numerous professors also promoted pro-slavery ideology. For instance, Professor Basil L. Gildersleeve, who was a professor of Greek and Hebrew at the University of Virginia from 1856 until 1873, published an essay titled “Miscegenation” in the Richmond Examiner on April 18, 1864. In this essay, Gildersleeve argued for the purity of the “white race” and warned against race mixing. He writes: 
+Numerous professors also promoted pro-slavery ideology. For instance, Professor Basil L. Gildersleeve, who was a professor of Greek and Hebrew at the University of Virginia from 1856 until 1873, published an essay titled “Miscegenation” in the Richmond Examiner on April 18, 1864. In this essay, Gildersleeve argued for the purity of the “white race” and warned against race mixing. He writes:
 > “A jealousy natural to our English blood and fostered by our peculiar system, has prevented the intrusion of mongrels [i.e., individuals of mixed race], even of the third and fourth generations, into the society and the privileges of the white race. In no other part of the world, in which the two races [i.e., “white and black races”] have existed, side by side, has this exclusion been so absolute; and it is to this watchful care, which is so natural, that we keep it up unconsciously, and which is so much to our interest that we take no credit to ourselves for it—it is to this watchful care that we owe the supremacy of the white man on the continent, and that we look down so proudly on the mixed population of Mexico and the twenty-two cross-breeds of Lima.”
 
 ### Current Efforts to Reform
